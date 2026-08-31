@@ -1,0 +1,12 @@
+streamlit as st
+pandas
+scikit-learn
+numpy
+altair
+matplotlib
+iplotly
+seaborn
+pickle
+joblib
+
+
