@@ -1,0 +1,30 @@
+endpoint,population,age
+Flow-mediated Dilation,Overweight/obese,40.0
+VO2max,Overweight/obese,33.8
+HOMA-IR,Healthy,50.0
+BMI,Metabolic Syndrome,70.0
+Fasting Insulin,Metabolic Syndrome,55.0
+BMI,Healthy,33.0
+VO2max,Healthy,33.0
+VO2max,Metabolic Syndrome,70.0
+VO2max,Healthy,40.0
+VO2max,Healthy,40.0
+HOMA-IR,T2D,43.0550581
+Total Cholesterol,Cardiac Rehabilitation,34.8305838
+HbA1c,Overweight/obese,57.8200484
+Body Fat,T2D,31.5688829
+Flow-mediated Dilation,Cardiac Rehabilitation,42.7656764
+Systolic Blood Pressure,Metabolic Syndrome,35.8923389
+Fasting Glucose,T2D,22.4922274
+Total Cholesterol,T2D,39.1212746
+Fasting Insulin,Healthy,49.3815426
+Diastolic Blood Pressure,Cardiac Rehabilitation,30.4082466
+LDL,Metabolic Syndrome,27.1399562
+HOMA-IR,Overweight/obese,31.4114259
+C-reactive Protein,T2D,55.9722886
+LDL,Metabolic Syndrome,53.7885989
+C-reactive Protein,Overweight/obese,58.3524831
+HDL,Metabolic Syndrome,55.4219152
+Triglycerides,Healthy,53.5844677
+Body Fat,T2D,49.7706684
+Body Mass,Cardiac Rehabilitation,34.3044752

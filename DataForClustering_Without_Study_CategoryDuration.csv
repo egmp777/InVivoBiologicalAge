@@ -1,0 +1,392 @@
+endpoint,population,category_age,duration,men_ratio,type_exercise,Mean_HIIE,Mean_MICT,desired_effect
+BMI,T2D,> 50 y,8,0.58,Cycling,-2.2,-2.4,decrease
+HbA1c,T2D,> 50 y,8,0.58,Cycling,-0.4,-0.4,decrease
+HDL,T2D,> 50 y,8,0.58,Cycling,2.1,2.3,increase
+HOMA-IR,T2D,> 50 y,8,0.58,Cycling,-0.8,-0.8,decrease
+LDL,T2D,> 50 y,8,0.58,Cycling,-5.9,-7.1,decrease
+Total Cholesterol,T2D,> 50 y,8,0.58,Cycling,-14.9,-12.8,decrease
+Triglycerides,T2D,> 50 y,8,0.58,Cycling,-20.6,-19.1,decrease
+Body Mass,Overweight/obese,30 - 50 y,6,0.41,Running,-0.9,-0.2,decrease
+Flow-mediated Dilation,Overweight/obese,30 - 50 y,6,0.41,Running,0.7,2.7,increase
+VO2max,Overweight/obese,30 - 50 y,6,0.41,Running,2.8,0.4,increase
+Body Fat,Overweight/obese,> 50 y,12,0.7,Running,0.1,0.2,decrease
+Body Mass,Overweight/obese,> 50 y,12,0.7,Running,0.1,-1.3,decrease
+Diastolic Blood Pressure,Overweight/obese,> 50 y,12,0.7,Running,4.3,-11,decrease
+Systolic Blood Pressure,Overweight/obese,> 50 y,12,0.7,Running,1.3,-9.8,decrease
+VO2max,Overweight/obese,> 50 y,12,0.7,Running,0.1,1.6,increase
+Body Fat,Healthy,< 30 y,6,0.5,Cycling,1,0,decrease
+Body Mass,Healthy,< 30 y,6,0.5,Cycling,-1,0,decrease
+VO2max,Healthy,< 30 y,6,0.5,Cycling,3,4,increase
+Diastolic Blood Pressure,Healthy,< 30 y,16,0,Running,-1.2,-1,decrease
+Fasting Glucose,Healthy,< 30 y,16,0,Running,0.5,1,decrease
+Fasting Insulin,Healthy,< 30 y,16,0,Running,-2.8,-2.5,decrease
+HDL,Healthy,< 30 y,16,0,Running,2.3,3.6,increase
+HOMA-IR,Healthy,< 30 y,16,0,Running,-0.47,-0.51,decrease
+LDL,Healthy,< 30 y,16,0,Running,-12.3,-6,decrease
+Systolic Blood Pressure,Healthy,< 30 y,16,0,Running,-0.8,-1.9,decrease
+Total Cholesterol,Healthy,< 30 y,16,0,Running,-9,-2.8,decrease
+Triglycerides,Healthy,< 30 y,16,0,Running,-0.7,2,decrease
+VO2max,Healthy,< 30 y,16,0,Running,4.6,2.4,increase
+BMI,Healthy,< 30 y,6,1,Cycling,0,0,decrease
+Body Mass,Healthy,< 30 y,6,1,Cycling,0,0,decrease
+Diastolic Blood Pressure,Healthy,< 30 y,6,1,Cycling,-3,-4,decrease
+Systolic Blood Pressure,Healthy,< 30 y,6,1,Cycling,-2,-1,decrease
+VO2max,Healthy,< 30 y,6,1,Cycling,3.2,6.5,increase
+BMI,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0.1,-0.3,decrease
+Body Mass,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0.5,-0.5,decrease
+C-reactive Protein,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,-0.106181,-0.198741,decrease
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,-1.1,-3.7,decrease
+Fasting Glucose,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0.19,0.18,decrease
+Flow-mediated Dilation,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,1.21,1.07,increase
+HDL,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0.08,0.09,increase
+LDL,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0.09,0.07,decrease
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0,-6,decrease
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,0.17,0.16,decrease
+Triglycerides,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,-0.02,-0.03,decrease
+VO2max,Cardiac Rehabilitation,> 50 y,12,0.9,Cycling,5.1,4.4,increase
+BMI,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,-0.4,-0.3,decrease
+Body Mass,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,-1.2,-1.4,decrease
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,2,-4,decrease
+HDL,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,0.11,-0.06,increase
+LDL,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,-0.01,-0.35,decrease
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,-3,-6,decrease
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,0.12,-0.37,decrease
+Triglycerides,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,0.03,0.1,decrease
+VO2max,Cardiac Rehabilitation,> 50 y,12,0.95,Cycling,5.3,3.4,increase
+Body Fat,Overweight/obese,30 - 50 y,6,1,Running,-0.83,-0.17,decrease
+Body Mass,Overweight/obese,30 - 50 y,6,1,Running,-2.29,-1.32,decrease
+VO2max,Overweight/obese,30 - 50 y,6,1,Running,2.94,3.1,increase
+BMI,Healthy,> 50 y,12,1,Cycling,-0.5,-0.4,decrease
+Body Fat,Healthy,> 50 y,12,1,Cycling,-0.5,-0.3,decrease
+Body Mass,Healthy,> 50 y,12,1,Cycling,-1.3,-0.9,decrease
+Diastolic Blood Pressure,Healthy,> 50 y,12,1,Cycling,-5,-5,decrease
+Fasting Glucose,Healthy,> 50 y,12,1,Cycling,-0.6,0.7,decrease
+HbA1c,Healthy,> 50 y,12,1,Cycling,-0.11,-0.12,decrease
+HDL,Healthy,> 50 y,12,1,Cycling,-2.9,-3.6,increase
+LDL,Healthy,> 50 y,12,1,Cycling,-9.6,-4.9,decrease
+Systolic Blood Pressure,Healthy,> 50 y,12,1,Cycling,-10,-10.5,decrease
+Total Cholesterol,Healthy,> 50 y,12,1,Cycling,-2.8,-11.1,decrease
+Triglycerides,Healthy,> 50 y,12,1,Cycling,30.6,-71.1,decrease
+BMI,Overweight/obese,< 30 y,6,1,Cycling,-0.26,-0.35,decrease
+Body Fat,Overweight/obese,< 30 y,6,1,Cycling,-0.88,-1.28,decrease
+Body Mass,Overweight/obese,< 30 y,6,1,Cycling,-0.82,-1.09,decrease
+Diastolic Blood Pressure,Overweight/obese,< 30 y,6,1,Cycling,1.6,-4.6,decrease
+HDL,Overweight/obese,< 30 y,6,1,Cycling,-1.4,-2,increase
+HOMA-IR,Overweight/obese,< 30 y,6,1,Cycling,0.16,-0.27,decrease
+LDL,Overweight/obese,< 30 y,6,1,Cycling,-4.78,-7.8,decrease
+Systolic Blood Pressure,Overweight/obese,< 30 y,6,1,Cycling,-0.3,-4.6,decrease
+Total Cholesterol,Overweight/obese,< 30 y,6,1,Cycling,-9.2,-12.9,decrease
+Triglycerides,Overweight/obese,< 30 y,6,1,Cycling,-15.3,-15.7,decrease
+VO2max,Overweight/obese,< 30 y,6,1,Cycling,0.84,3.4,increase
+BMI,Healthy,< 30 y,12,1,Cycling,-1,0,decrease
+Body Fat,Healthy,< 30 y,12,1,Cycling,-2,-2,decrease
+Body Mass,Healthy,< 30 y,12,1,Cycling,-1,-2,decrease
+Fasting Glucose,Healthy,< 30 y,12,1,Cycling,0.4,0.4,decrease
+Fasting Insulin,Healthy,< 30 y,12,1,Cycling,-1.7,-1.7,decrease
+HOMA-IR,Healthy,< 30 y,12,1,Cycling,-0.2,-0.1,decrease
+VO2max,Healthy,< 30 y,12,1,Cycling,5.19,6.88,increase
+Body Mass,Healthy,< 30 y,8,0.25,Cycling,-2.7,0.3,decrease
+VO2max,Healthy,< 30 y,8,0.25,Cycling,5.9,2.7,increase
+Body Mass,Healthy,< 30 y,4,0.5,Cycling,-0.2,-0.7,decrease
+Body Mass,Healthy,< 30 y,4,0.5,Cycling,0.3,-0.7,decrease
+BMI,Healthy,< 30 y,4,0.5,Cycling,0.1,-0.1,decrease
+Body Fat,Healthy,< 30 y,4,0.5,Cycling,1.6,-0.7,decrease
+Body Mass,Healthy,< 30 y,4,0.5,Cycling,0.5,-0.5,decrease
+Fasting Glucose,Healthy,< 30 y,4,0.5,Cycling,-0.2,0,decrease
+Fasting Insulin,Healthy,< 30 y,4,0.5,Cycling,5.2,19.1,decrease
+HDL,Healthy,< 30 y,4,0.5,Cycling,-0.1,0,increase
+HOMA-IR,Healthy,< 30 y,4,0.5,Cycling,0.13,0.53,decrease
+Total Cholesterol,Healthy,< 30 y,4,0.5,Cycling,-0.3,0.1,decrease
+VO2max,Healthy,< 30 y,4,0.5,Cycling,5.7,2.2,increase
+Body Mass,Healthy,< 30 y,8,1,Running,-1.5,-2.3,decrease
+Body Mass,Healthy,< 30 y,8,1,Running,-0.8,-2.3,decrease
+HDL,Healthy,< 30 y,8,1,Running,-0.06,0.05,increase
+LDL,Healthy,< 30 y,8,1,Running,0,-0.09,decrease
+Total Cholesterol,Healthy,< 30 y,8,1,Running,0.15,0.132,decrease
+Triglycerides,Healthy,< 30 y,8,1,Running,-0.1,-0.14,decrease
+VO2max,Healthy,< 30 y,8,1,Running,4.9,1,increase
+VO2max,Healthy,< 30 y,8,1,Running,3.9,1,increase
+VO2max,Healthy,< 30 y,7.5,1,Cycling,1.73,5.38,increase
+BMI,Healthy,30 - 50 y,2,1,Cycling,-0.2,0,decrease
+Body Fat,Healthy,30 - 50 y,2,1,Cycling,-1,-0.8,decrease
+Body Mass,Healthy,30 - 50 y,2,1,Cycling,-0.5,0,decrease
+Diastolic Blood Pressure,Healthy,30 - 50 y,2,1,Cycling,0,1,decrease
+Fasting Glucose,Healthy,30 - 50 y,2,1,Cycling,0.4,0.2,decrease
+Fasting Insulin,Healthy,30 - 50 y,2,1,Cycling,1,1.3,decrease
+HbA1c,Healthy,30 - 50 y,2,1,Cycling,-1.3,-3.2,decrease
+HDL,Healthy,30 - 50 y,2,1,Cycling,-0.2,-0.1,increase
+LDL,Healthy,30 - 50 y,2,1,Cycling,-0.6,-0.2,decrease
+Systolic Blood Pressure,Healthy,30 - 50 y,2,1,Cycling,1,3,decrease
+Total Cholesterol,Healthy,30 - 50 y,2,1,Cycling,-0.7,-0.3,decrease
+Triglycerides,Healthy,30 - 50 y,2,1,Cycling,-0.1,-0.2,decrease
+VO2max,Healthy,30 - 50 y,2,1,Cycling,2,1,increase
+BMI,T2D,30 - 50 y,2,1,Cycling,-0.1,0,decrease
+Body Fat,T2D,30 - 50 y,2,1,Cycling,-1.1,-0.5,decrease
+Body Mass,T2D,30 - 50 y,2,1,Cycling,-0.2,-0.1,decrease
+Diastolic Blood Pressure,T2D,30 - 50 y,2,1,Cycling,-6,-5,decrease
+Fasting Glucose,T2D,30 - 50 y,2,1,Cycling,-0.3,0.2,decrease
+Fasting Insulin,T2D,30 - 50 y,2,1,Cycling,-0.9,-1,decrease
+HbA1c,T2D,30 - 50 y,2,1,Cycling,-2.2,-1.7,decrease
+HDL,T2D,30 - 50 y,2,1,Cycling,-0.2,-0.1,increase
+LDL,T2D,30 - 50 y,2,1,Cycling,-0.2,-0.2,decrease
+Systolic Blood Pressure,T2D,30 - 50 y,2,1,Cycling,-2,-9,decrease
+Total Cholesterol,T2D,30 - 50 y,2,1,Cycling,-0.5,-0.2,decrease
+Triglycerides,T2D,30 - 50 y,2,1,Cycling,-0.2,-0.2,decrease
+VO2max,T2D,30 - 50 y,2,1,Cycling,1.9,-0.9,increase
+C-reactive Protein,Healthy,< 30 y,2,0.5,Cycling,-0.03183,-0.16,decrease
+HOMA-IR,Healthy,< 30 y,2,0.5,Cycling,-0.53,0.01,decrease
+BMI,Metabolic Syndrome,> 50 y,8,0.53,Running,-0.3,-0.5,decrease
+Body Mass,Metabolic Syndrome,> 50 y,8,0.53,Running,-0.8,-1.1,decrease
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,8,0.53,Running,-7.1,-7.8,decrease
+Fasting Glucose,Metabolic Syndrome,> 50 y,8,0.53,Running,-0.7,-0.8,decrease
+Flow-mediated Dilation,Metabolic Syndrome,> 50 y,8,0.53,Running,6.1,2.9,increase
+HDL,Metabolic Syndrome,> 50 y,8,0.53,Running,1.4,3.1,increase
+LDL,Metabolic Syndrome,> 50 y,8,0.53,Running,-5.9,-3.2,decrease
+Systolic Blood Pressure,Metabolic Syndrome,> 50 y,8,0.53,Running,-9.4,-10.6,decrease
+Total Cholesterol,Metabolic Syndrome,> 50 y,8,0.53,Running,-25,-7,decrease
+Triglycerides,Metabolic Syndrome,> 50 y,8,0.53,Running,-30.6,-15.4,decrease
+Body Fat,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,-0.5,-1,decrease
+Body Mass,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,0.2,-0.8,decrease
+C-reactive Protein,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,0.2,-1.1,decrease
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,-2.9,-3.5,decrease
+Fasting Glucose,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,-0.1,0.1,decrease
+Fasting Insulin,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,-0.6,-0.7,decrease
+HDL,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,0,0,increase
+LDL,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,0,0.3,decrease
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,-5.6,-4.3,decrease
+Total Cholesterol,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,0,0.2,decrease
+Triglycerides,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,0,-0.1,decrease
+VO2max,Overweight/obese,30 - 50 y,12,0.22727273,Cycling,5.1,4.3,increase
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,10,0.82820513,Running,-7,0,decrease
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,10,0.82820513,Running,-9,2,decrease
+VO2max,Cardiac Rehabilitation,> 50 y,10,0.82820513,Running,3.6,1.7,increase
+C-reactive Protein,Cardiac Rehabilitation,> 50 y,6,0.78571429,Running,-1.14,-1.72,decrease
+HDL,Cardiac Rehabilitation,> 50 y,6,0.78571429,Running,0,-0.07,increase
+LDL,Cardiac Rehabilitation,> 50 y,6,0.78571429,Running,-46.57,-30.64,decrease
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,6,0.78571429,Running,-45.67,-26.752,decrease
+Triglycerides,Cardiac Rehabilitation,> 50 y,6,0.78571429,Running,4.5,19.79,decrease
+VO2max,Cardiac Rehabilitation,> 50 y,6,0.78571429,Running,6.46,2.47,increase
+Body Mass,Healthy,> 50 y,2,0,Cycling,-0.3,0,decrease
+Diastolic Blood Pressure,Healthy,> 50 y,2,0,Cycling,-2,-3,decrease
+Flow-mediated Dilation,Healthy,> 50 y,2,0,Cycling,-1.6,-1.9,increase
+Systolic Blood Pressure,Healthy,> 50 y,2,0,Cycling,-7,-2,decrease
+VO2max,Healthy,> 50 y,2,0,Cycling,2.2,1.7,increase
+Fasting Glucose,Healthy,< 30 y,5,1,Running,2.43,-0.98,decrease
+BMI,Overweight/obese,30 - 50 y,12,0.44444444,Running,0,-0.1,decrease
+BMI,Overweight/obese,30 - 50 y,12,0.44444444,Running,-0.1,-0.1,decrease
+Body Fat,Overweight/obese,30 - 50 y,12,0.44444444,Running,-0.5,-0.5,decrease
+Body Fat,Overweight/obese,30 - 50 y,12,0.44444444,Running,-1.1,-0.5,decrease
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,12,0.44444444,Running,-3.4,-1.9,decrease
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,12,0.44444444,Running,-5.4,-1.9,decrease
+HDL,Overweight/obese,30 - 50 y,12,0.44444444,Running,-1,-2,increase
+HDL,Overweight/obese,30 - 50 y,12,0.44444444,Running,-2,-2,increase
+HOMA-IR,Overweight/obese,30 - 50 y,12,0.44444444,Running,0.01646841,-0.1339599,decrease
+HOMA-IR,Overweight/obese,30 - 50 y,12,0.44444444,Running,-0.0215641,-0.1339599,decrease
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,12,0.44444444,Running,-2.9,-5.2,decrease
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,12,0.44444444,Running,-6.5,-5.2,decrease
+Total Cholesterol,Overweight/obese,30 - 50 y,12,0.44444444,Running,-1,-16,decrease
+Total Cholesterol,Overweight/obese,30 - 50 y,12,0.44444444,Running,-7,-16,decrease
+Triglycerides,Overweight/obese,30 - 50 y,12,0.44444444,Running,-1,-6,decrease
+Triglycerides,Overweight/obese,30 - 50 y,12,0.44444444,Running,8,-6,decrease
+VO2max,Overweight/obese,30 - 50 y,12,0.44444444,Running,1.4,-1.3,increase
+VO2max,Overweight/obese,30 - 50 y,12,0.44444444,Running,0.2,-1.3,increase
+Body Fat,Healthy,< 30 y,6,0.6,Cycling,-1.8,-1.1,decrease
+Body Mass,Healthy,< 30 y,6,0.6,Cycling,-1.1,-0.3,decrease
+VO2max,Healthy,< 30 y,6,0.6,Cycling,5.4,5.5,increase
+BMI,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,0.1,0,decrease
+C-reactive Protein,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,-1.25,-0.13,decrease
+Fasting Glucose,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,-0.15,0.05,decrease
+Flow-mediated Dilation,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,3.35,5.1,increase
+HbA1c,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,0,-0.1,decrease
+HDL,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,0.05,0.1,increase
+LDL,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,-0.15,-0.1,decrease
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,0,0.05,decrease
+Triglycerides,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,-0.05,0.15,decrease
+VO2max,Cardiac Rehabilitation,> 50 y,12,0.82380952,Running,3.55,1.65,increase
+BMI,T2D,> 50 y,16,0,Cycling,-0.2,0.2,decrease
+Body Fat,T2D,> 50 y,16,0,Cycling,-1,-1.2,decrease
+Body Mass,T2D,> 50 y,16,0,Cycling,-0.1,0.6,decrease
+Fasting Glucose,T2D,> 50 y,16,0,Cycling,0.3,0.4,decrease
+HbA1c,T2D,> 50 y,16,0,Cycling,-0.1,-0.2,decrease
+HDL,T2D,> 50 y,16,0,Cycling,0.1,0.1,increase
+LDL,T2D,> 50 y,16,0,Cycling,0.1,-0.2,decrease
+Total Cholesterol,T2D,> 50 y,16,0,Cycling,-0.1,-0.2,decrease
+Triglycerides,T2D,> 50 y,16,0,Cycling,0,-0.1,decrease
+Body Mass,Overweight/obese,30 - 50 y,12,0.5,Cycling,-1.3,-0.8,decrease
+VO2max,Overweight/obese,30 - 50 y,12,0.5,Cycling,2.8,2.9,increase
+BMI,Healthy,< 30 y,8,1,Cycling,0.1,-0.3,decrease
+Body Fat,Healthy,< 30 y,8,1,Cycling,-0.2,-1.1,decrease
+Body Mass,Healthy,< 30 y,8,1,Cycling,0.2,-0.9,decrease
+Diastolic Blood Pressure,Healthy,< 30 y,8,1,Cycling,-6,-3,decrease
+Systolic Blood Pressure,Healthy,< 30 y,8,1,Cycling,-3,-2,decrease
+VO2max,Healthy,< 30 y,8,1,Cycling,8.6,5.4,increase
+Body Fat,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-0.6,-0.4,decrease
+Body Mass,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-0.9,-0.9,decrease
+Diastolic Blood Pressure,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-2,1,decrease
+Fasting Glucose,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-3,-8,decrease
+Fasting Insulin,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-2.6,-2.5,decrease
+HbA1c,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-1,-2,decrease
+HDL,Metabolic Syndrome,30 - 50 y,8,1,Cycling,3,3,increase
+HOMA-IR,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-1,-1.2,decrease
+LDL,Metabolic Syndrome,30 - 50 y,8,1,Cycling,5,0,decrease
+Systolic Blood Pressure,Metabolic Syndrome,30 - 50 y,8,1,Cycling,1,2,decrease
+Total Cholesterol,Metabolic Syndrome,30 - 50 y,8,1,Cycling,2,4,decrease
+Triglycerides,Metabolic Syndrome,30 - 50 y,8,1,Cycling,-28,-2,decrease
+VO2max,Metabolic Syndrome,30 - 50 y,8,1,Cycling,7,4.4,increase
+BMI,T2D,> 50 y,10,0.35714286,Running,-1.1,-0.2,decrease
+Body Fat,T2D,> 50 y,10,0.35714286,Running,-2.2,-2.6,decrease
+Body Mass,T2D,> 50 y,10,0.35714286,Running,-2.1,-0.5,decrease
+Diastolic Blood Pressure,T2D,> 50 y,10,0.35714286,Running,2,0,decrease
+Fasting Glucose,T2D,> 50 y,10,0.35714286,Running,-1.05,-0.99,decrease
+Flow-mediated Dilation,T2D,> 50 y,10,0.35714286,Running,2,1.3,increase
+HDL,T2D,> 50 y,10,0.35714286,Running,0.31,0.08,increase
+HOMA-IR,T2D,> 50 y,10,0.35714286,Running,-0.6,-0.5,decrease
+LDL,T2D,> 50 y,10,0.35714286,Running,-0.73,-0.57,decrease
+Systolic Blood Pressure,T2D,> 50 y,10,0.35714286,Running,-12,-5,decrease
+Total Cholesterol,T2D,> 50 y,10,0.35714286,Running,-0.49,-0.1,decrease
+Triglycerides,T2D,> 50 y,10,0.35714286,Running,-0.2,-0.06,decrease
+VO2max,T2D,> 50 y,10,0.35714286,Running,6.1,3.3,increase
+Diastolic Blood Pressure,Overweight/obese,> 50 y,12,0.5462963,Running,-8.5,-4,decrease
+Flow-mediated Dilation,Overweight/obese,> 50 y,12,0.5462963,Running,4.17,0.61,increase
+Systolic Blood Pressure,Overweight/obese,> 50 y,12,0.5462963,Running,-13,-5,decrease
+VO2max,Overweight/obese,> 50 y,12,0.5462963,Running,5.2,1.8,increase
+BMI,Overweight/obese,30 - 50 y,12,0.36,Cycling,-0.4,-0.4,decrease
+Body Fat,Overweight/obese,30 - 50 y,12,0.36,Cycling,-0.6,-0.9,decrease
+Body Mass,Overweight/obese,30 - 50 y,12,0.36,Cycling,-1.2,-1.3,decrease
+BMI,Healthy,30 - 50 y,2,1,Cycling,-0.2,0,decrease
+Body Fat,Healthy,30 - 50 y,2,1,Cycling,-1,-0.8,decrease
+Fasting Glucose,Healthy,30 - 50 y,2,1,Cycling,-0.1,-0.1,decrease
+Fasting Insulin,Healthy,30 - 50 y,2,1,Cycling,-0.4,0.2,decrease
+HbA1c,Healthy,30 - 50 y,2,1,Cycling,-1.3,-3.1,decrease
+HDL,Healthy,30 - 50 y,2,1,Cycling,-0.2,-0.1,increase
+LDL,Healthy,30 - 50 y,2,1,Cycling,-0.6,-0.2,decrease
+Total Cholesterol,Healthy,30 - 50 y,2,1,Cycling,-0.7,-0.3,decrease
+Triglycerides,Healthy,30 - 50 y,2,1,Cycling,-0.05,-0.16,decrease
+VO2max,Healthy,30 - 50 y,2,1,Cycling,2,1,increase
+BMI,Healthy,< 30 y,7,1,Cycling,-0.2,-0.3,decrease
+Body Fat,Healthy,< 30 y,7,1,Cycling,-1.2,-0.9,decrease
+Body Mass,Healthy,< 30 y,7,1,Cycling,-0.5,-0.9,decrease
+C-reactive Protein,Healthy,< 30 y,7,1,Cycling,0.32,-1.15,decrease
+HDL,Healthy,< 30 y,7,1,Cycling,1.5,-0.7,increase
+LDL,Healthy,< 30 y,7,1,Cycling,7,0.8,decrease
+Total Cholesterol,Healthy,< 30 y,7,1,Cycling,-2,2,decrease
+Triglycerides,Healthy,< 30 y,7,1,Cycling,-7,7,decrease
+VO2max,Healthy,< 30 y,7,1,Cycling,2.8,3.5,increase
+BMI,Healthy,< 30 y,12,0,Cycling,-1.5,-1.7,decrease
+Body Fat,Healthy,< 30 y,12,0,Cycling,-1.9,-1.7,decrease
+Body Mass,Healthy,< 30 y,12,0,Cycling,-3.9,-4.2,decrease
+VO2max,Healthy,< 30 y,12,0,Cycling,4.1,3.8,increase
+VO2max,Healthy,< 30 y,6,0.8,Cycling,0.28,0.29,increase
+Body Fat,Metabolic Syndrome,> 50 y,16,0.63,Running,-0.5,-0.4,decrease
+Body Mass,Metabolic Syndrome,> 50 y,16,0.63,Running,-1,-1,decrease
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,16,0.63,Running,-4,-5,decrease
+Fasting Glucose,Metabolic Syndrome,> 50 y,16,0.63,Running,0.1,-0.4,decrease
+Fasting Insulin,Metabolic Syndrome,> 50 y,16,0.63,Running,-15,-25,decrease
+HbA1c,Metabolic Syndrome,> 50 y,16,0.63,Running,0.2,-1.2,decrease
+HDL,Metabolic Syndrome,> 50 y,16,0.63,Running,0.08,0.08,increase
+HOMA-IR,Metabolic Syndrome,> 50 y,16,0.63,Running,-0.3,-0.5,decrease
+Systolic Blood Pressure,Metabolic Syndrome,> 50 y,16,0.63,Running,-2,-7,decrease
+Triglycerides,Metabolic Syndrome,> 50 y,16,0.63,Running,-0.13,-0.11,decrease
+VO2max,Metabolic Syndrome,> 50 y,16,0.63,Running,3.6,0.8,increase
+BMI,Metabolic Syndrome,> 50 y,16,0.69,Running,-1,0,decrease
+Body Fat,Metabolic Syndrome,> 50 y,16,0.69,Running,-1.02,-0.42,decrease
+Body Mass,Metabolic Syndrome,> 50 y,16,0.69,Running,-3,0,decrease
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,16,0.69,Running,-9,-6,decrease
+Fasting Glucose,Metabolic Syndrome,> 50 y,16,0.69,Running,-0.17,-0.37,decrease
+HDL,Metabolic Syndrome,> 50 y,16,0.69,Running,0,0.03,increase
+LDL,Metabolic Syndrome,> 50 y,16,0.69,Running,0.41,0.06,decrease
+Systolic Blood Pressure,Metabolic Syndrome,> 50 y,16,0.69,Running,-1,-9,decrease
+Total Cholesterol,Metabolic Syndrome,> 50 y,16,0.69,Running,0.42,0,decrease
+Triglycerides,Metabolic Syndrome,> 50 y,16,0.69,Running,-0.16,-0.02,decrease
+VO2max,Metabolic Syndrome,> 50 y,16,0.69,Running,4.35,0.8,increase
+BMI,Metabolic Syndrome,> 50 y,2,0.18,Cycling,-0.3,-0.1,decrease
+Body Mass,Metabolic Syndrome,> 50 y,2,0.18,Cycling,-0.7,-1.4,decrease
+Fasting Glucose,Metabolic Syndrome,> 50 y,2,0.18,Cycling,0.1,-0.3,decrease
+Fasting Insulin,Metabolic Syndrome,> 50 y,2,0.18,Cycling,-0.6,0.8,decrease
+HOMA-IR,Metabolic Syndrome,> 50 y,2,0.18,Cycling,0,0.1,decrease
+VO2max,Metabolic Syndrome,> 50 y,2,0.18,Cycling,1.5,1.5,increase
+Body Mass,Cardiac Rehabilitation,> 50 y,10,0.81944444,Running,-0.1,-0.8,decrease
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,10,0.81944444,Running,1,0,decrease
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,10,0.81944444,Running,-3,-1,decrease
+VO2max,Cardiac Rehabilitation,> 50 y,10,0.81944444,Running,6,2.7,increase
+BMI,Healthy,< 30 y,8,0.345,Running,-0.2,-0.1,decrease
+Body Fat,Healthy,< 30 y,8,0.345,Running,-0.2,-0.5,decrease
+Body Mass,Healthy,< 30 y,8,0.345,Running,-0.4,-0.6,decrease
+Fasting Glucose,Healthy,< 30 y,8,0.345,Running,-0.2,-0.2,decrease
+Fasting Insulin,Healthy,< 30 y,8,0.345,Running,0.3,-4.1,decrease
+HDL,Healthy,< 30 y,8,0.345,Running,0,-0.1,increase
+HOMA-IR,Healthy,< 30 y,8,0.345,Running,0,-0.1,decrease
+LDL,Healthy,< 30 y,8,0.345,Running,-0.3,0,decrease
+Total Cholesterol,Healthy,< 30 y,8,0.345,Running,-0.3,-0.1,decrease
+Triglycerides,Healthy,< 30 y,8,0.345,Running,-0.07,0.07,decrease
+VO2max,Healthy,< 30 y,8,0.345,Running,2.6,1.8,increase
+BMI,Overweight/obese,30 - 50 y,8,0.5,Cycling,0,0,decrease
+Body Fat,Overweight/obese,30 - 50 y,8,0.5,Cycling,-0.8,-0.3,decrease
+Body Mass,Overweight/obese,30 - 50 y,8,0.5,Cycling,-0.1,0,decrease
+C-reactive Protein,Overweight/obese,30 - 50 y,8,0.5,Cycling,0.5,0.4,decrease
+Fasting Glucose,Overweight/obese,30 - 50 y,8,0.5,Cycling,-3,2.4,decrease
+Fasting Insulin,Overweight/obese,30 - 50 y,8,0.5,Cycling,-2.2,-2.3,decrease
+Flow-mediated Dilation,Overweight/obese,30 - 50 y,8,0.5,Cycling,3.8,-0.4,increase
+HDL,Overweight/obese,30 - 50 y,8,0.5,Cycling,1,-0.7,increase
+HOMA-IR,Overweight/obese,30 - 50 y,8,0.5,Cycling,-0.6,-0.5,decrease
+LDL,Overweight/obese,30 - 50 y,8,0.5,Cycling,4.9,2.6,decrease
+Total Cholesterol,Overweight/obese,30 - 50 y,8,0.5,Cycling,5,4.8,decrease
+Triglycerides,Overweight/obese,30 - 50 y,8,0.5,Cycling,-3.2,23.6,decrease
+VO2max,Overweight/obese,30 - 50 y,8,0.5,Cycling,4.1,3.1,increase
+Body Mass,Healthy,< 30 y,6,0.7,Cycling,0,0,decrease
+VO2max,Healthy,< 30 y,6,0.7,Cycling,6.6,7,increase
+BMI,Healthy,< 30 y,6,1,Cycling,0,0,decrease
+Body Mass,Healthy,< 30 y,6,1,Cycling,0.1,0,decrease
+VO2max,Healthy,< 30 y,6,1,Cycling,3.2,6.5,increase
+BMI,T2D,30 - 50 y,2,0.61818182,Cycling,-0.2,-0.2,decrease
+Body Fat,T2D,30 - 50 y,2,0.61818182,Cycling,-1,-0.9,decrease
+Body Mass,T2D,30 - 50 y,2,0.61818182,Cycling,-0.5,-0.4,decrease
+Fasting Glucose,T2D,30 - 50 y,2,0.61818182,Cycling,-0.1,0.2,decrease
+Fasting Insulin,T2D,30 - 50 y,2,0.61818182,Cycling,0.1,0.3,decrease
+HbA1c,T2D,30 - 50 y,2,0.61818182,Cycling,-1.8,-2,decrease
+VO2max,T2D,30 - 50 y,2,0.61818182,Cycling,1.3,-0.1,increase
+BMI,Overweight/obese,30 - 50 y,2,1,Cycling,0,0,decrease
+Body Fat,Overweight/obese,30 - 50 y,2,1,Cycling,-1.1,0.1,decrease
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,2,1,Cycling,-3,-1,decrease
+Fasting Glucose,Overweight/obese,30 - 50 y,2,1,Cycling,0.16,-0.34,decrease
+Fasting Insulin,Overweight/obese,30 - 50 y,2,1,Cycling,0.24,0.21,decrease
+HOMA-IR,Overweight/obese,30 - 50 y,2,1,Cycling,0.15,-0.12,decrease
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,2,1,Cycling,-1,0,decrease
+VO2max,Overweight/obese,30 - 50 y,2,1,Cycling,-0.4,0,increase
+BMI,Metabolic Syndrome,> 50 y,16,0.43181818,Running,-0.7,-1.2,decrease
+Body Mass,Metabolic Syndrome,> 50 y,16,0.43181818,Running,-2.3,-3.6,decrease
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,16,0.43181818,Running,-6,-6,decrease
+Fasting Glucose,Metabolic Syndrome,> 50 y,16,0.43181818,Running,-0.3,0.4,decrease
+Fasting Insulin,Metabolic Syndrome,> 50 y,16,0.43181818,Running,2,1.3,decrease
+Flow-mediated Dilation,Metabolic Syndrome,> 50 y,16,0.43181818,Running,10.32,5.81,increase
+HDL,Metabolic Syndrome,> 50 y,16,0.43181818,Running,0.15,0.06,increase
+Systolic Blood Pressure,Metabolic Syndrome,> 50 y,16,0.43181818,Running,-9,-10,decrease
+Triglycerides,Metabolic Syndrome,> 50 y,16,0.43181818,Running,0.05,0.2,decrease
+VO2max,Metabolic Syndrome,> 50 y,16,0.43181818,Running,11.7,5.6,increase
+Body Fat,Healthy,< 30 y,15,0,Cycling,-2.7,0.6,decrease
+Body Mass,Healthy,< 30 y,15,0,Cycling,-1.5,-0.1,decrease
+Fasting Glucose,Healthy,< 30 y,15,0,Cycling,-0.2,-0.1,decrease
+Fasting Insulin,Healthy,< 30 y,15,0,Cycling,-6,-1,decrease
+HOMA-IR,Healthy,< 30 y,15,0,Cycling,-1.2,-0.3,decrease
+VO2max,Healthy,< 30 y,15,0,Cycling,7.6,6,increase
+Diastolic Blood Pressure,Healthy,30 - 50 y,24,0.37,Running,-2,-1,decrease
+Systolic Blood Pressure,Healthy,30 - 50 y,24,0.37,Running,1,4,decrease
+BMI,Overweight/obese,30 - 50 y,4,0.5,Running,-0.1,-0.3,decrease
+Body Fat,Overweight/obese,30 - 50 y,4,0.5,Running,0.4,-0.1,decrease
+Body Mass,Overweight/obese,30 - 50 y,4,0.5,Running,-0.3,-1,decrease
+Fasting Glucose,Overweight/obese,30 - 50 y,4,0.5,Running,-3,-21.4,decrease
+Fasting Insulin,Overweight/obese,30 - 50 y,4,0.5,Running,0.5,-7.5,decrease
+HDL,Overweight/obese,30 - 50 y,4,0.5,Running,3.4,-1.4,increase
+HOMA-IR,Overweight/obese,30 - 50 y,4,0.5,Running,0.02,-3.3,decrease
+LDL,Overweight/obese,30 - 50 y,4,0.5,Running,-10.7,-0.5,decrease
+Total Cholesterol,Overweight/obese,30 - 50 y,4,0.5,Running,-3,-2.4,decrease
+Triglycerides,Overweight/obese,30 - 50 y,4,0.5,Running,22.1,-2.6,decrease
+VO2max,Overweight/obese,30 - 50 y,4,0.5,Running,-0.2,0.1,increase
+VO2max,Cardiac Rehabilitation,> 50 y,12,0.22,Running,6,1.9,increase
+Body Mass,Overweight/obese,< 30 y,12,0,Cycling,-0.4,-1.9,decrease
+Fasting Glucose,Overweight/obese,< 30 y,12,0,Cycling,-3.3,-4.1,decrease
+Fasting Insulin,Overweight/obese,< 30 y,12,0,Cycling,-0.9,-2,decrease
+HDL,Overweight/obese,< 30 y,12,0,Cycling,-3.9,-1,increase
+LDL,Overweight/obese,< 30 y,12,0,Cycling,-7.2,-9.4,decrease
+Total Cholesterol,Overweight/obese,< 30 y,12,0,Cycling,-7.6,-7.9,decrease
+Triglycerides,Overweight/obese,< 30 y,12,0,Cycling,4,-5.6,decrease

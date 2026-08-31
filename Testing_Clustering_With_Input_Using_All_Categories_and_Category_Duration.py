@@ -1,0 +1,394 @@
+import os
+import streamlit as st
+import pandas as pd
+from kmodes.kprototypes import KPrototypes
+from sklearn.preprocessing import (
+    MaxAbsScaler,
+    MinMaxScaler,
+    Normalizer,
+    PowerTransformer,
+    QuantileTransformer,
+    RobustScaler,
+    StandardScaler,
+    minmax_scale,
+
+)
+import numpy as np
+import altair as alt
+import matplotlib.pyplot as plt
+import plotly.express as px
+import seaborn as sns
+from kmodes.kmodes import KModes
+import pickle
+
+PATH = '.'
+
+file_name_clustering_data =  "DataForClustering_With_CategoryDuration.csv"
+load_cluster_data = os.path.join(PATH, file_name_clustering_data)
+
+
+
+df_clustering_data = pd.read_csv(load_cluster_data)
+
+
+df_clustering_data = df_clustering_data.drop(['men_ratio'], axis=1)
+
+# <editor-fold desc="Removing Outliers">
+df_clustering_data.drop(df_clustering_data[(df_clustering_data['Mean_HIIE'] > df_clustering_data['Mean_HIIE'].quantile(0.975)) |
+                                           (df_clustering_data['Mean_HIIE'] <
+                                            df_clustering_data['Mean_HIIE'].quantile(0.025))].index,inplace=True)
+df_clustering_data.drop(df_clustering_data[(df_clustering_data['Mean_MICT'] > df_clustering_data['Mean_MICT'].quantile(0.975)) |
+                                           (df_clustering_data['Mean_MICT'] <
+                                            df_clustering_data['Mean_MICT'].quantile(0.025))].index,inplace=True)
+# </editor-fold>
+
+
+kmode_data = df_clustering_data.copy()
+
+# for c in df_clustering_data.select_dtypes(exclude='object').columns:
+#     pt = PowerTransformer()
+#     kmode_data[c] =  pt.fit_transform(np.array(kmode_data[c]).reshape(-1, 1))
+
+##categorical_indices = [0, 1, 2, 4, 5]
+#### Changed dataset data On July 3rd to include `study`
+#### Changed dataset data On July 3rd to include `desired effect`
+####
+##categorical_indices = [0, 1, 2, 5, 8]
+
+
+
+
+
+streamlit_kprot_data = st.data_editor(kmode_data)
+
+
+
+#### July 4 will create two new columns with the boolean value of comparing the desired effect with real effect
+#### with HIIE and MICT
+
+streamlit_kprot_data['HIIE_success'] = streamlit_kprot_data.apply(lambda row: 1 if (row['Mean_HIIE'] < 0
+                            and row['desired_effect'] == 'decrease') or (row['Mean_HIIE'] > 0
+                                                                         and row['desired_effect'] == 'increase') else 0, axis=1)
+streamlit_kprot_data['MICT_success'] = streamlit_kprot_data.apply(lambda row: 1 if (row['Mean_MICT'] < 0
+                            and row['desired_effect'] == 'decrease') or (row['Mean_MICT'] > 0
+                                                                         and row['desired_effect'] == 'increase') else 0, axis=1)
+
+
+# <editor-fold desc="dropping 'desired_effect', 'Mean_HIIE', 'Mean_MICT'">
+#### JULY 9 2025 ####
+
+streamlit_kprot_data = streamlit_kprot_data.drop(['desired_effect', 'Mean_HIIE', 'Mean_MICT'], axis=1)
+
+st.write("data without Mean_HIIE, Mean_MICT, desored_effect", streamlit_kprot_data)
+
+
+
+
+
+# </editor-fold>
+
+# region includng the 'MICT_success' and 'HIIE_success'] columns in the categorical set
+categorical_indices = [0, 1, 2, 4, 5,6 ]
+# endregion
+
+st.write("Here is the dataframe that will be used for clustering")
+st.write(streamlit_kprot_data)
+
+
+
+
+# <editor-fold desc="Description">
+# region adding a new column and dropping the HIIE_Success and `MICT_success`
+# streamlit_kprot_data['target_protocol'] = streamlit_kprot_data.apply(lambda row: 1 if (row['HIIE_success'] == 1
+#                             and row['MICT_success'] == 0)  else (2  if row['HIIE_success'] == 0
+#                             and row['MICT_success'] == 1 else 3 ), axis =1)
+# </editor-fold>
+
+def target_protocol_value(row):
+    if (row['HIIE_success'] == 1
+            and row['MICT_success'] == 0):
+        return 0
+    elif (row['HIIE_success'] == 0
+          and row['MICT_success'] == 1):
+        return 1
+    elif (row['HIIE_success'] == 1
+          and row['MICT_success'] == 1):
+        return 2
+    else:
+        return 3
+
+
+streamlit_kprot_data['target_protocol'] = streamlit_kprot_data.apply(target_protocol_value, axis=1)
+
+streamlit_kprot_data = streamlit_kprot_data.drop(['HIIE_success', 'MICT_success'], axis=1)
+st.write(streamlit_kprot_data)
+
+## Concatenating the mode of exercise with the type of exercise in the target column
+streamlit_kprot_data['target_protocol']= streamlit_kprot_data['target_protocol'].astype(str) + \
+                                         ' ' + streamlit_kprot_data['type_exercise'].astype(str)
+
+streamlit_kprot_data = streamlit_kprot_data.drop(['type_exercise'], axis=1)
+st.write(streamlit_kprot_data)
+
+# all columns are categorical
+categorical_indices = [0, 1, 2, 3, 4, 5]
+
+# endregion
+
+
+
+# colors = {'30 - 50 y': 'red', '> 50 y': 'green', '< 30 y': 'blue'}
+# kprot_data['color'] = [colors[group] for group in streamlit_kprot_data['category_age']]
+# st.write(kprot_data['color'])
+#color_list = [colors[group] for group in kprot_data['category_age']]
+#st.write(kprot_data['duration'].count())
+#st.write(kprot_data['category_age'].count())
+#st.write(len(color_list))
+
+#### July 10
+### After Running SelectingClusters.py, we can see that the optimum number of clusters is 3
+## July 14 Changed to KModes because KPrototype only works when at least one variable is numerical
+kmodes = KModes(n_clusters= 3, init='Cao')
+clusters = kmodes.fit_predict(streamlit_kprot_data, categorical=categorical_indices)
+st.write("Cost of model with 3 clusters: ", kmodes.cost_)
+
+clusters_df = streamlit_kprot_data
+clusters_df['Cluster'] = clusters
+
+
+clusters_df.to_csv('clusters_with_kModes_and_Categoy_Duration.csv', index = False)
+filename = 'trained_model.pkl'
+with open(filename, 'wb') as file:
+        pickle.dump(kmodes, file)
+
+f, axs = plt.subplots(1,3,figsize = (25,5))
+sns.countplot(x=clusters_df['Cluster'],order=clusters_df['Cluster'].value_counts().index,hue=clusters_df['target_protocol'],ax=axs[0],palette='rainbow')
+sns.countplot(x=clusters_df['population'],order=clusters_df['population'].value_counts().index,hue=clusters_df['target_protocol'],ax=axs[1],palette='rainbow')
+sns.countplot(x=clusters_df['category_age'],order=clusters_df['category_age'].value_counts().index,hue=clusters_df['target_protocol'],ax=axs[2],palette='rainbow')
+
+
+plt.tight_layout
+st.pyplot(f)
+
+f2, axs2 = plt.subplots(figsize = (20,5))
+sns.countplot(x=clusters_df['endpoint'],order=clusters_df['endpoint'].value_counts().index,hue=clusters_df['target_protocol'],ax=axs2,palette='rainbow')
+plt.tight_layout
+st.pyplot(f2)
+
+
+f3, axs3 = plt.subplots(figsize = (20,5))
+sns.countplot(x=clusters_df['endpoint'],order=clusters_df['endpoint'].value_counts().index,hue=clusters_df['Cluster'],ax=axs3,palette='rainbow')
+##plt.tight_layout
+st.pyplot(f3)
+
+# <editor-fold desc="Description">
+f4, axs4 = plt.subplots(figsize = (20,5))
+sns.countplot(x=clusters_df['endpoint'],order=clusters_df['endpoint'].value_counts().index,hue=clusters_df['category_duration'],ax=axs4,palette='rainbow')
+##plt.tight_layout
+st.pyplot(f4)
+# </editor-fold>
+
+
+
+
+centroids = kmodes.cluster_centroids_
+print("Cluster Centroids:")
+print(centroids)
+st.write(centroids)
+
+# Cluster analysis
+for cluster in range(kmodes.n_clusters):
+    st.write('\nCluster', cluster)
+    cluster_data = clusters_df[clusters_df['Cluster'] == cluster]
+    st.write(cluster_data)
+    ##describe(include='all')
+
+
+
+
+from streamlit import session_state as ss
+# <editor-fold desc="Description">
+# if 'absent' not in ss:
+#     ss.absent = False
+#
+#
+# def update():
+#     """A function to be called once there is a change in the checkbox.
+#
+#     This is an oppurtunity for us to assign the checkbox
+#     value to our session variable.
+#     """
+#     ss.absent = ss.cb
+#
+# st.checkbox(label='Absent', value=ss.absent, key='cb', on_change=update)
+# st.write(ss.absent)
+# </editor-fold>
+
+selected = st.selectbox('Seleccionar que indicador desea optimizar', options=[None, 'BMI', 'Fasting Insulin'])
+if selected:
+    st.write(selected)
+
+
+
+exit(0)
+
+streamlit_kprot_data['labels'] = kmodes.labels_
+st.write(streamlit_kprot_data['labels'])
+
+# streamlit_kprot_data.groupby('labels').agg(['median' ,'mean']).T
+# streamlit_kprot_data.groupby('labels').agg(['count']).T
+
+st.write("This is kprot_data", streamlit_kprot_data)
+
+
+
+streamlit_kprot_data = streamlit_kprot_data[streamlit_kprot_data["category_age"] != '< 30 y']
+df_profiles = streamlit_kprot_data.groupby(['labels', 'endpoint', 'population', 'category_age']).aggregate({'duration':'mean','Mean_HIIE':'mean',
+
+                                                                                         'Mean_MICT':'mean','endpoint':'count'})
+
+
+df_profiles = streamlit_kprot_data.groupby(['labels', 'endpoint']).agg(
+                        duration_mean = ('duration','mean'),
+                        mean_HIIE= ('Mean_HIIE','mean'),
+                        mean_MICT = ('Mean_MICT', 'mean'),
+                        count_endpoint = ('endpoint', 'count'))
+
+new_df_profiles = df_profiles.reset_index()
+
+
+st.write(new_df_profiles)
+
+
+fig = px.scatter(
+    new_df_profiles,
+    x="labels",
+    y="mean_HIIE",
+    color="endpoint",
+    size="count_endpoint",
+    hover_data=["duration_mean"],
+)
+
+event = st.plotly_chart(fig,  on_select="rerun")
+
+
+
+event.selection
+
+
+fig2 = px.scatter(
+    new_df_profiles,
+    x="labels",
+    y="mean_MICT",
+    color="endpoint",
+    size="count_endpoint",
+    hover_data=["duration_mean"],
+)
+
+event2 = st.plotly_chart(fig2,  on_select="rerun")
+event2.selection
+
+st.scatter_chart(
+     new_df_profiles,
+     x="labels",
+     y="mean_HIIE",
+     color="endpoint",
+     size="count_endpoint"
+)
+
+
+df_profiles = streamlit_kprot_data.groupby(['labels', 'endpoint', 'population']).agg(
+                        duration_mean = ('duration','mean'),
+                        mean_HIIE= ('Mean_HIIE','mean'),
+                        mean_MICT = ('Mean_MICT', 'mean'),
+                        count_study = ('study', 'count'),
+                        percent_sucess_HIIE = ('HIIE_success', lambda x: float(x.sum()/x.count())))
+
+
+new_df_profiles = df_profiles.reset_index()
+
+
+fig3 = px.scatter(
+    new_df_profiles,
+    x="labels",
+    y="mean_HIIE",
+    color="endpoint",
+    size="count_study",
+    hover_data=['population'],
+)
+
+
+event3 = st.plotly_chart(fig3,  on_select="rerun")
+event3.selection
+
+
+
+fig3a = px.scatter(
+    new_df_profiles,
+    x="labels",
+    y= 'mean_HIIE',
+    color="endpoint",
+    size="count_study",
+    hover_data=['percent_sucess_HIIE'],
+)
+event3a = st.plotly_chart(fig3a,  on_select="rerun")
+event3a.selection
+
+
+
+
+new_df_profiles = df_profiles.reset_index()
+fig4 = px.scatter(
+    new_df_profiles,
+    x="labels",
+    y="mean_MICT",
+    color="endpoint",
+    size="count_study",
+    hover_data=['population'],
+)
+
+event4 = st.plotly_chart(fig4,  on_select="rerun")
+event4.selection
+
+
+
+clusters_and_exercise_type_duration_age = streamlit_kprot_data.filter(['duration', 'type_exercise', 'category_age', 'labels'])
+
+clusters_and_exercise_type_duration_age['Cycling'] = streamlit_kprot_data.apply(lambda row: 1 if row['type_exercise'] == 'Cycling'
+                            else 0, axis=1)
+clusters_and_exercise_type_duration_age['Running'] = streamlit_kprot_data.apply(lambda row: 1 if row['type_exercise'] == 'Running'
+                            else 0, axis=1)
+
+st.write(clusters_and_exercise_type_duration_age)
+
+
+df_exercise_type_per_label = clusters_and_exercise_type_duration_age.groupby(['labels']).agg(
+                        count_cycling = ('Cycling', 'sum'),
+                        count_running = ('Running', 'sum'),
+)
+
+flipped_df_exercise_type_per_label =      df_exercise_type_per_label.reset_index()
+
+flipped_df_exercise_type_per_label.filter(['labels', 'count_cycling', 'count_running'])
+
+st.bar_chart(flipped_df_exercise_type_per_label)
+
+input = st.text_input("Enter Input Data :")
+st.write(input)
+
+
+# c = (
+#     alt.Chart(new_df_profiles)
+#     .mark_point()
+#     .encode(
+#         x="labels",
+#         y=alt.Y('mean_HIIE', scale=alt.Scale(domain=[-1, 2])),
+#         size="count_endpoint",
+#         color="endpoint",
+#
+#     )
+# )
+# st.altair_chart(c, use_container_width=True)
+
+##st.scatter_chart(data=kprot_data,  x='Mean_HIIE', y='duration', x_label='Mean_HIIE', y_label='duration', color = 'color')
+

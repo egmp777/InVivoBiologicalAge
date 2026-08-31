@@ -1,0 +1,1001 @@
+age,gender,health_status,exercise_program,duration,duration_weeks,baseline_fasting_insulin,post_exercise_fasting_insulin
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.1,16.5
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.7,12.3
+46,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,18.4,14.1
+62,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,10,11.6,10
+23,male,Healthy,High Intensity Interval Training,More than 15 minutes,8,3.6,3.1
+49,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,20,20.5,15.9
+35,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,12,13.2,11.6
+68,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,10.4,9.1
+56,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,30.2,22.6
+29,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,3.9,3.4
+43,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,13.8,11.4
+58,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,22,36.1,27.7
+41,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,17.1,13.9
+64,female,Cardiac Rehabilitation,High Intensity Interval Training,Less than 5 minutes,8,11.9,10.2
+27,female,Healthy,High Intensity Interval Training,More than 15 minutes,6,2.5,2.2
+54,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,20,28.6,21.5
+47,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,12.9,10.7
+51,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,18,19.4,14.9
+60,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,10.9,9.2
+37,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,11.1,9.8
+51,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,25,20.4
+46,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,15.3,12.8
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,8,6.6
+57,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,18,18.1,14.7
+44,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,10,16.5,13.9
+62,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,33.1,27.2
+28,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,4.9,4.3
+40,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,11.6,10.1
+53,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,14,14.7,12.4
+36,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,7,13.2,11.4
+48,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,23.2,19.5
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,19,18.5,15.2
+34,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,9,10.4,9.3
+55,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,13,15.7,13.4
+41,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,7.5,6.4
+49,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.1,10.5
+67,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,24,16.2,13.2
+24,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,3.7,3.2
+59,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,16,17.8,15
+32,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,11,9.5,8.3
+54,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,24.1,18.3
+49,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,18.7,15.5
+36,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,5.7,5.2
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,15.2,12.7
+44,male,Overweight/obese,High Intensity Interval Training,More than 15 minutes,14,20.6,16.9
+28,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,6,4.2,3.8
+58,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,28.4,22.5
+42,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,8,13.6,12.1
+51,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,16.5,13.8
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,4.7,4.1
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,15.8,12.9
+46,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,13.3,12
+41,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,12,13.1,11.2
+27,female,Healthy,High Intensity Interval Training,Less than 5 minutes,5,3.8,3.5
+67,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,34.2,28.7
+35,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,5.1,4.6
+59,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,18,14.1,12.3
+53,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,13,17.5,15.6
+23,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,3.7,3.4
+47,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,14.9,13.1
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.1,19.2
+38,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,15,12.4
+64,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,20,11.5,10
+27,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,4.8,4.2
+57,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,19.3,16.4
+45,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,18,14.2,12
+31,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.3,4.5
+70,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,22,12,11
+49,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,16,18.2,15.7
+42,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,10.6,8.9
+36,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,6.5,5.8
+58,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,24,27.7,22.5
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,10.8,9.7
+40,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.1,11.2
+50,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,17.3,15
+24,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,2.7,2.2
+55,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,22.5,19.4
+61,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,20,10.5,8.7
+47,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,11.7,9.5
+34,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,4.1,3.8
+47,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,24.5,18.3
+52,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14,11.2
+39,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,7.8,6.9
+45,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,14,19,15.4
+58,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,11,8.9
+23,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,5.6,5.1
+62,male,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,18,29.2,23.8
+28,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,13.1,11.5
+50,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,15,17.4,13.8
+33,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,4.8,4.4
+42,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.6,11
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,22,27.6,23
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,10.4,8.7
+36,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,8,10.6,9.4
+49,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,16.9,14.2
+68,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,24,7.8,6.2
+31,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,5.3,4.7
+59,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,16,25.8,21.1
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,12.9,10.8
+25,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,4.9,4.3
+55,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,28,23
+42,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,16,13
+64,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,21,18
+28,female,Healthy,High Intensity Interval Training,Less than 5 minutes,8,4,3
+37,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,10,15,12
+49,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,18,19,15
+58,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,14,33,28
+25,female,Healthy,High Intensity Interval Training,Less than 5 minutes,6,5,4
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14,12
+50,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,16,17,14
+46,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,12,10
+33,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,2.5,2
+52,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,20,16,13
+43,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,12,11,9
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,24,19
+40,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,14,14,12
+60,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,18,36,29
+24,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,2,2
+45,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13,11
+53,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,30,26
+54,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,26.7,21.1
+38,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,14.5,12.1
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,18,13.7,10.9
+44,female,Healthy,High Intensity Interval Training,More than 15 minutes,12,8.3,7.1
+49,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,15,18.4,15.5
+29,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,5.6,5.1
+59,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,33.2,27.5
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,13.8,11.4
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,12.2,10.2
+51,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,13,16.7,14.3
+36,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,7.4,6.7
+46,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,11,12.7,10.8
+71,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,11.9,10.1
+48,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,19.8,16.3
+27,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,4.9,4.5
+62,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,22,30.1,24.4
+55,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,18,16.2,13.4
+32,female,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,7,6.2,5.6
+47,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,14.8,12.5
+68,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,19,13.5,11.6
+53,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.1,18.5
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,14.5,11.7
+60,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,11.6,9.8
+39,female,Healthy,High Intensity Interval Training,More than 15 minutes,12,6.9,5.5
+50,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,18.8,14.3
+29,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,3.7,3.1
+46,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.4,10.2
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,10.1,7.6
+34,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,4.3,3.9
+57,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,14,31.4,26.7
+48,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,15,15.2,12.1
+55,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,13,16.9,14.5
+41,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,7.2,6.3
+66,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,22,9.4,8.3
+38,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,7,10.7,9.2
+59,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,17,37.5,31.9
+47,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,11,17.6,14.2
+25,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,3.2,2.8
+52,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,13,15.7,13.1
+64,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,5,8.9,8.2
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.2,18.7
+46,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,13,10.8
+41,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,7.4,6.5
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,13.7,11.9
+56,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,27.8,22.5
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,4.9,4.5
+49,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,14,15.2,12.6
+55,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,16,10.5,8.6
+33,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,6,11.6,9.7
+60,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,32.4,27.1
+44,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,12,6.6,5.7
+29,male,Overweight/obese,Medium Intensity Interval Training,Less than 5 minutes,4,9.3,8.5
+68,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,24,11,8.9
+50,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,16.5,13.1
+24,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,3.1,2.8
+63,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,28.9,24.3
+54,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,15,15.7,13.4
+36,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,5.8,5
+47,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,13,10.1,8.6
+71,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,22,13.8,10.9
+53,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.4,18.5
+42,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.2,10.5
+36,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,5.8,5
+59,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,18,15.6,13
+47,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,20,16.8,13.2
+61,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,26.1,22.3
+28,female,Healthy,High Intensity Interval Training,Less than 5 minutes,8,4.8,4.5
+49,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.1,11.7
+38,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,10,15.5,12.6
+65,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,17.7,14.3
+56,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,12,19.8,16.9
+31,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,3.8,3.2
+44,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.7,10.9
+50,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,16,15,12.2
+35,female,Healthy,High Intensity Interval Training,Less than 5 minutes,5,4.5,4.1
+72,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,14.7,12.6
+40,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,12,12.9,10.6
+25,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,3.5,2.9
+58,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,16,14.9,12
+63,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,29.2,24
+57,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,16,24.2,19.5
+47,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,15.7,13.8
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,6.4,5.9
+65,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,10.2,8.9
+53,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,20,19.6,16
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.3,11.2
+59,male,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,14,27.8,22.5
+23,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,3.8,3.5
+50,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,18,16.6,13
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,9.3,8.6
+29,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,5.6,4.8
+41,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,11,14.9,12.6
+72,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,10.1,8.7
+54,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,16.9,14.3
+45,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,13,17.5,14.8
+67,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,22,28.7,21.4
+35,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,7,5.3,5.1
+60,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,19,25.9,19.3
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,28.3,23.6
+46,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,15.5,12.9
+59,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,20,18.9,15.4
+39,female,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,8,6.3,5.8
+62,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,18,24.2,19.6
+41,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,13.4,11.1
+34,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,12,5.8,5.2
+50,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,14,21.8,18.2
+56,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,16,16.7,13.9
+47,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,10,14.3,11.5
+25,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,6,4.7,4.2
+67,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,34.1,28.4
+43,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,10.7,9
+70,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,11.3,10.9
+36,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.5,5.1
+57,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,15,22.7,18.8
+63,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,29.7,24.2
+29,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,4.4,4
+54,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,16,17.6,14
+48,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.5,11.1
+54,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,19.6,17
+38,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,10,5.7,5.2
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,15.1,13.8
+46,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,20,17.8,15.6
+51,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,14,12.2
+27,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,4.9,4.4
+59,female,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,5,21.2,19.1
+42,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,12.7,11.1
+36,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,7,3.8,3.4
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,9,13.2,12
+49,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,13,11.6,10
+29,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,2.5,2.3
+56,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,16,28,24.5
+45,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,15.5,13.3
+39,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,7,6.5
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,17.2,15
+51,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,19.6,17.1
+28,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,3.5,3.1
+59,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,18,14,12.4
+47,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,31,27.8
+34,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,6,5.4
+68,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,11,9.3
+41,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,13.9,12.1
+49,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,16,27.8,24
+25,male,Healthy,High Intensity Interval Training,Less than 5 minutes,5,2.7,2.6
+53,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,13.5,11.4
+36,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,7.2,6.9
+60,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,20,21.2,18.4
+70,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,12,10.1
+48,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,13,11.4,9.8
+30,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,4.1,3.5
+44,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,9,12.5,11
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,27.2,20.9
+42,male,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,16.7,12.9
+37,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,6.2,5.1
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,19.5,15.2
+54,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,29.8,23.3
+29,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,6,3.4,3.1
+48,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,14.5,11.8
+67,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,18,31.9,25.1
+51,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,8,18.8,15.1
+25,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,2.7,2.3
+46,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,12,23.7,17.2
+38,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,7,10.3,8.6
+58,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,21,32.8,27
+63,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,15,15.7,11.8
+34,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,9,5.1,4.5
+50,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,13,33.6,26.1
+45,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,11,13.2,10.1
+60,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,17,37.7,30.2
+40,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,7,14.7,11.9
+31,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,3.2,2.8
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.3,18.1
+47,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,16.5,13.9
+43,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,6.8,5.9
+59,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,14.7,12.6
+34,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,5,4.3
+50,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,27.1,23
+39,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,14.8,12.1
+60,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,18.6,15.4
+46,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,18.2,15.8
+28,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,2.6,2.4
+68,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,24,12.5,10.8
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,10,34.1,29.2
+42,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,8,15.3,13.2
+48,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,17.2,15.7
+35,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,7.2,6.1
+63,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,12.9,10.6
+54,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.9,12.4
+45,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,14,13.7,12
+31,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,6,4.5,3.8
+37,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,13.2,11
+52,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,26.1,19.8
+38,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,13.4,10.7
+46,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,19.7,15.4
+62,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,16.5,13.8
+29,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,5.3,4.4
+57,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,32.8,25.5
+41,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,9,15.5,12.7
+54,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,21,16.8
+63,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,14,10.2,8.6
+35,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,6.6,5.1
+47,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,16,18.2,14.6
+50,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,20.3,16.2
+67,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.8,11.2
+26,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,4,3,2.6
+59,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,20,28.9,22.3
+44,male,Overweight/obese,High Intensity Interval Training,More than 15 minutes,15,14.7,12.2
+48,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,8,12.6,10.5
+60,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,18,34.2,27.6
+32,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,6.8,5.7
+70,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,11.1,9
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,19.5,16.2
+47,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.2,11
+41,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,18,16.8,13.5
+36,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.1,4.4
+59,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,10.9,9.7
+29,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,4,4,3.2
+55,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,16,31.2,25.7
+50,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,10,18.6,15.5
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,12,10.5,8.7
+45,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,24,15,12.5
+38,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,2.9,2.4
+48,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,20.8,16.6
+62,male,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,8,36,30.4
+27,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,2.2,1.9
+53,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,8,11.4,9.9
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,12.8,10.9
+56,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,10,19.1,16.4
+35,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,11.8,10.1
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,12,10.3
+49,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,27.9,22.5
+54,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,19.2,14.1
+37,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,6.7,5.2
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,14.8,11.2
+42,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,11.7,8.6
+49,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,18,21.3,16.9
+29,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,5.4,4
+58,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,30.6,23.5
+33,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,8,9.1,7
+46,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.5,11.2
+40,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,6,5
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,16.3,12.2
+50,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,23,17.3
+62,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,20,20.5,16.2
+35,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,10.3,7.9
+48,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,16,13.4,10.2
+56,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,12,29.7,22.4
+31,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,5.6,4.5
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,11.2,8.2
+73,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,18.9,14
+39,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,10,13.9,10.7
+53,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,28.5,23.4
+44,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,16.7,13.9
+36,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.6,4.7
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,16,18.2,14.8
+49,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,18,25.6,19.1
+28,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,3.8,3.2
+54,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,22,34.3,28
+47,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,14,15.1,12.5
+42,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,11.5,9.8
+57,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,16,20.3,16.7
+39,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,5.1,4
+66,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,6,11.7,10
+58,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,16,32.1,26.8
+34,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,5,3.5,3
+50,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,20,14.9,12
+59,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,13,13.6,11.4
+40,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,9,10.1,8.7
+31,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,7,4.2,3.6
+45,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,10.5,8.8
+52,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,15,20.4,16.8
+42,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,16,17.5,14.9
+50,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,20,25.2,22.7
+28,male,Healthy,High Intensity Interval Training,More than 15 minutes,8,4.8,4.3
+59,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,14,15.9,13.5
+36,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,14.4,12.8
+63,male,Metabolic Syndrome,Medium Intensity Interval Training,Less than 5 minutes,6,18.7,16.5
+47,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,13.7,11.9
+54,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,5,13.2,12.2
+21,female,Healthy,High Intensity Interval Training,More than 15 minutes,7,3.7,3.4
+45,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,13,16.4,14.1
+38,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,6.2,5.7
+66,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,12,32.5,29
+58,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,8,15.7,13.9
+25,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,4.6,4.2
+73,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,35.1,32.2
+32,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,6,5.8,5.2
+62,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,9,15.2,13.8
+48,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,11,12.1,10.8
+40,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.8,11.1
+60,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,16,16.8,14.7
+48,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,24,19.3
+41,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,15.2,12.7
+53,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,18,21.8,17.5
+36,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.2,4.7
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,13.7,10.2
+28,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,3.1,2.8
+50,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,14,28.9,23.5
+45,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,15,18.3,15.7
+60,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.5,9.7
+44,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,9,10.2,8.8
+39,male,Overweight/obese,Medium Intensity Interval Training,Less than 5 minutes,5,13.4,12.3
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,17,32,25.4
+33,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,4.1,3.6
+58,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,13,16.5,13.3
+47,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,21,10.8,9
+65,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,23,13.1,10.6
+51,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,25.7,21.2
+27,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,2.4,2.1
+38,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,7,8.7,8.1
+72,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,14.2,11.8
+58,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.1,18.2
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.2,10.8
+52,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,15.7,13.3
+37,female,Healthy,High Intensity Interval Training,Less than 5 minutes,8,5.2,4.6
+61,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,28.9,24.5
+29,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,3.4,2.8
+49,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,16.6,13.7
+35,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,9.9,8.3
+66,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,14.2,11
+41,female,Overweight/obese,High Intensity Interval Training,Less than 5 minutes,5,15.8,13.6
+57,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,26.3,21.4
+25,female,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,4,2.8,2.3
+47,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,12.3,10.1
+54,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,23,13.8,11.6
+32,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,4.5,3.9
+42,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,10.7,9.1
+68,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,12.9,10.5
+38,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,9,12.1,10
+59,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,20.7,16.8
+48,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,11,10.4,8.6
+54,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,29.5,24.2
+43,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,13.8,11.4
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,7.3,6.4
+67,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,17.1,15
+50,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,22.3,18.9
+53,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,22.5,19.2
+42,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,10,6.5,5.9
+47,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.8,11.3
+58,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,18,15.7,13.8
+36,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,4.3,3.9
+61,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,31,26.1
+50,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,16,17.6,14.7
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,10.7,9.2
+44,male,Overweight/obese,High Intensity Interval Training,Less than 5 minutes,6,12,11
+68,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,17,14.6,12.7
+29,male,Healthy,High Intensity Interval Training,Less than 5 minutes,5,2.7,2.5
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,13,29.3,24.2
+46,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,11,13.5,11.6
+34,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,7,3.5,3.1
+49,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,11.5,9.9
+73,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,21,13,11.1
+59,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,14,18.1,15.5
+40,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,9,10.3,9
+25,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,2.8,2.5
+64,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,34.6,29.4
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,21.2,16.8
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.5,11.4
+37,female,Healthy,High Intensity Interval Training,Less than 5 minutes,8,7.1,6.2
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,17.3,13.2
+49,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,10,20.4,17
+28,male,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,6,5,4.6
+55,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,28.3,23
+40,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.7,10.8
+64,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,16,13.5
+58,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,22.1,17.9
+34,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,4.7,4.2
+47,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,11.6,9.8
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,27,22.1
+41,male,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,16.8,13.9
+29,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,6.1,5.3
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,11.2,9.4
+50,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,32.5,27.3
+37,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,13.7,11.3
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,14,15.1,12.9
+45,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,18.9,16
+60,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,21.7,18.2
+34,female,Healthy,High Intensity Interval Training,Less than 5 minutes,6,3.7,3.4
+53,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,10,16.5,14.2
+25,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,3.5,3.2
+48,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,13,12.3,10.6
+48,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23,18
+42,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14,11
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,16,13
+51,female,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,10,31,25
+34,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,7,6
+59,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,13,10
+28,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,5,4
+54,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,19,16
+61,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,14,18,14
+44,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,13,10
+36,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,6,6,5
+39,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,16,21,17
+47,male,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,12,26,20
+56,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,20,15,12
+68,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,16,12,10
+49,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,20,17
+23,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,4,4
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,13,11
+57,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,16,14,11
+46,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,19,16
+53,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,16,26.1,19.8
+44,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,10,17.4,13.2
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,14.6,11
+32,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,12,5.4,4.2
+50,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,14,19.2,14.3
+27,male,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,8,2.8,2.4
+58,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,29.8,22.3
+41,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,9,11.8,8.7
+65,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,22,16.3,13.5
+36,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,10.6,8
+48,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,8,24.5,18.1
+39,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,8.2,6.3
+24,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,3.5,3.1
+60,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,13.5,10.8
+46,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,11,13.2,10
+29,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,2.9,2.5
+55,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,17,21.9,16.6
+40,male,Metabolic Syndrome,High Intensity Interval Training,Less than 5 minutes,6,9.7,8.2
+70,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,22,17.1,13.9
+37,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,7,7.6,5.9
+51,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,24.5,19.7
+42,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.2,10.5
+36,male,Healthy,High Intensity Interval Training,Less than 5 minutes,8,6.3,5.8
+58,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,19,15.7
+49,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,16.6,13.1
+59,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,18,28.2,23
+34,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,3.8,3.3
+46,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,10.7,8.9
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,17.7,14.4
+39,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,12.8,10
+54,male,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,8,25.3,21.6
+44,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,14.2,12.1
+27,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,2.8,2.5
+62,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,16,36.4,29.5
+48,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,15.4,11.8
+38,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,4.5,4.1
+66,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,31.1,26.9
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,12.2,10.4
+55,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,21.8,17.2
+31,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,2.7,2.3
+52,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,16,28.5,22.1
+38,female,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,10,5.8,4.8
+47,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,14,15.2,11.7
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,18,17.1,13.5
+29,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,3.2,2.5
+45,male,Overweight/obese,High Intensity Interval Training,More than 15 minutes,12,13.7,10.2
+57,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,16,23.5,18.8
+41,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,11.1,8.6
+66,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,15.9,13.6
+35,female,Healthy,High Intensity Interval Training,Less than 5 minutes,5,5.4,4.3
+53,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,14,33.1,25.9
+46,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,12,13,10.5
+58,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,22,25.4,19.6
+27,male,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,6,3.7,3.1
+49,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,11,13.8,11
+60,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,17.5,14.3
+43,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,14,13.2,10.8
+36,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,7,6.4,5.1
+50,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,13,14.3,12
+63,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,22,29.5,23.8
+54,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.7,18.4
+45,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.8,11.5
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,10.5,9
+28,female,Healthy,High Intensity Interval Training,More than 15 minutes,8,6.3,5.6
+60,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,14,16.1,13.9
+37,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,9.7,7.8
+41,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,6,5,4.4
+59,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,20,29.1,23
+48,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,12.3,10.2
+57,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,22,18.4,15.7
+33,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,4.1,3.5
+51,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.2,10.7
+68,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,8.4,7.2
+44,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,11,11.3,9.8
+26,male,Healthy,High Intensity Interval Training,More than 15 minutes,6,2.7,2.4
+56,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,31.4,26.9
+39,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,8,8.2,7.3
+70,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,18,6.8,6.1
+50,male,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,12,17.5,15.2
+47,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,16,15.4,13.1
+53,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,27.5,22.1
+48,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.2,11.9
+35,female,Healthy,High Intensity Interval Training,Less than 5 minutes,8,7.8,7.1
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,15,12.2
+59,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,20,33.1,29
+28,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,4.9,4.3
+46,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,12.9,10.4
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,17.3,15
+39,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,8,13.2,11
+50,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,13.9,12
+44,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,16,29.7,25.8
+37,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,6.1,5.6
+66,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,22,16.9,14.2
+32,female,Overweight/obese,High Intensity Interval Training,Less than 5 minutes,7,10.3,8.9
+58,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,19,19.8,15.9
+42,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,13,11.2,9.1
+64,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,21,13.7,12
+24,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,3.5,3.2
+56,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,24,37.5,32.4
+49,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,15.2,13
+53,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.5,19.1
+41,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13,10.9
+65,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,14.9,13.4
+28,male,Healthy,High Intensity Interval Training,More than 15 minutes,8,4.5,3.9
+49,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,14,17.4,14.9
+37,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,11.8,9.5
+60,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,18,28.3,24
+44,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,15.7,13.1
+56,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,10,12.8,11.3
+33,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,5.3,4.7
+47,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,13.7,11.5
+22,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,2.5,2.2
+70,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,20,37,33.2
+58,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,12,15.9,13.5
+36,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,10.2,8.7
+73,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,22,13.4,12.2
+25,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,3.1,2.6
+61,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,18,23.9,20.7
+39,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,8,13.2,11.3
+50,male,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,24,16.5,13.7
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,21.7,18.3
+47,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,15.2,12.7
+39,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,7.5,6.2
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,18.8,16.2
+45,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,12.1,10
+33,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,5.6,5
+59,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,26.4,22.7
+50,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,13.5,11
+42,male,Metabolic Syndrome,Medium Intensity Interval Training,Less than 5 minutes,6,10.7,9.4
+26,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,4,3.4,3.2
+56,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,11,17.2,15
+38,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,9.8,8.7
+44,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,12,11.9,10.2
+29,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,6,4.7,4.4
+67,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,21,29.6,25.8
+53,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,18,14.8,12
+36,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,8,8.8,8
+62,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,22,20.4,17.1
+41,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,11.2,9.4
+49,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,13,7.1,6.4
+56,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,22.1,18.5
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,11.5,10.2
+53,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,20,17.9,15.1
+37,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,5.2,4.6
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,15.2,13.1
+28,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,2.7,2.3
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,8,9.6,8.4
+47,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.8,11.5
+60,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,32.7,28
+34,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,4,3.9,3.4
+49,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,12.8,11
+67,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,13.7,11.5
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,8,10.4,9.1
+72,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,18,10.3,8.6
+25,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,2.4,2.1
+59,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,14,20.6,18.4
+46,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,6,11.8,10.5
+61,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,14,28.5,24.9
+31,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,3.5,3.1
+50,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,12,15.3,13
+57,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,25.4,19.3
+44,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,13.6,10.9
+60,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,20,14.8,11.2
+29,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,6,4.2,3.7
+50,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,10,22,18.7
+38,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,11,9.4
+65,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,18,15.7,13.4
+55,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,12,33,26.7
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,15.2,11.6
+34,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,2.7,2.3
+48,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,15,16.4,13
+53,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,13,31,24.9
+25,female,Healthy,High Intensity Interval Training,Less than 5 minutes,4,3.1,2.5
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,17.6,13.9
+59,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,14,27.5,22.6
+46,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,14.1,11.8
+36,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,5.6,4.4
+72,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,19,14.8,12.6
+54,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,11,19.9,16.7
+47,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,13,12.7,9.8
+59,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,24,18.7
+43,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,15.9,13.5
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.3,4.7
+64,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,20.5,15.6
+52,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,19.8,16.3
+25,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,3,2.7
+47,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,13.7,11.2
+54,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,18,33.1,26.8
+36,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,8,11.2,9.6
+48,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,12,14.8,11.7
+29,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,2.7,2.4
+67,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,22.6,18.5
+45,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,13.1,10.6
+40,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,10.8,9
+72,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,17.2,13.9
+34,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,5.8,5
+55,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,16,13.5
+63,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,28.5,23
+49,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.6,10.2
+21,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,2.2,2.1
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.5,20.2
+45,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,20,18.7,16.5
+36,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,12.1,10.2
+67,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,8,13.9,11.7
+29,male,Healthy,High Intensity Interval Training,More than 15 minutes,12,5.4,4.6
+41,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,11.8,10
+54,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,7,10.4,8.7
+23,female,Healthy,Medium Intensity Interval Training,More than 15 minutes,11,4.3,3.6
+47,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,28.3,23.4
+58,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,15,17.1,14.9
+39,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,12,10.5,8.6
+50,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,13,15.3,12.9
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,5,10.1,9.1
+27,male,Healthy,High Intensity Interval Training,More than 15 minutes,8,3.7,3.2
+43,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,9,11.7,10
+63,male,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,21,31.2,27.5
+33,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,6.1,5.2
+48,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.8,11.3
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23,18.6
+46,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,16.5,14
+38,male,Healthy,High Intensity Interval Training,More than 15 minutes,10,6.4,5.9
+63,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,13.2,11.4
+55,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,18.7,16.2
+44,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,13.6,11.7
+29,male,Healthy,High Intensity Interval Training,More than 15 minutes,6,5,4.5
+59,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,27.5,22.8
+41,male,Metabolic Syndrome,High Intensity Interval Training,Less than 5 minutes,4,14.8,13
+48,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,12,10.5,9.4
+37,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,8,11.5,10.3
+67,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,22,24.8,21.5
+47,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,16,22,18.5
+39,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,13.7,11.8
+55,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,18,15.2
+24,male,Healthy,High Intensity Interval Training,Less than 5 minutes,8,5.1,4.6
+62,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,24,29.2,24.1
+44,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,14.6,13
+53,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,14,30.5,25.7
+36,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,10,7,6.2
+48,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,17.2,15
+29,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,3.5,3.2
+59,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,19,16.3
+40,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,12,11.1,9.9
+67,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,22,35.3,29.7
+51,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,18,13.8,12.2
+57,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,20,16.5,14.8
+32,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,4.6,4.2
+50,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,13.3,12.1
+46,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.4,11.3
+35,male,Healthy,High Intensity Interval Training,Less than 5 minutes,8,5.7,5.2
+61,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,18,28.1,23.8
+63,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,26.1,21.8
+54,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,17.8,13.9
+36,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,16.2,13.7
+42,male,Healthy,Medium Intensity Interval Training,More than 15 minutes,10,6.1,5.6
+50,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,11.5,10
+61,female,Type 2 diabetes,High Intensity Interval Training,Less than 5 minutes,8,32.7,26.8
+29,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,6,2.9,2.5
+58,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,13,19.5,14.3
+46,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,11,13.2,10.8
+71,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,39.2,33.3
+40,male,Healthy,High Intensity Interval Training,More than 15 minutes,8,4.2,3.7
+67,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,7,12.5,10.4
+34,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,15,11.7,9.8
+48,female,Metabolic Syndrome,High Intensity Interval Training,Less than 5 minutes,4,14.8,12.3
+38,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,9,4.8,3.6
+69,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,35.6,29.2
+23,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,5,3.5,2.8
+59,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,12,10.6,8.9
+52,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,15,21.2,16.3
+45,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,24,12.9,10.1
+56,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.2,18.6
+42,female,Healthy,Medium Intensity Interval Training,More than 15 minutes,12,7.5,6.3
+37,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,13.9,10.7
+60,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,15.8,13.1
+24,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,4.2,3.8
+50,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,18,31.4,25.9
+48,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,19.6,16.2
+33,male,Overweight/obese,Medium Intensity Interval Training,Less than 5 minutes,6,9.3,8.4
+58,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,15,14.2,12.1
+45,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,22,27.3,22
+28,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,3.2,3.1
+65,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,15.1,12.6
+53,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,17.7,14.1
+38,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,11,9.4
+61,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,24,36.2,28.4
+46,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,14.7,12.4
+35,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,8,11.5,9
+29,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,3.6,3.4
+72,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,16.3,13.9
+41,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,13.2,10.8
+47,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,26,20.3
+41,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,16,13.8
+59,female,Cardiac Rehabilitation,High Intensity Interval Training,Less than 5 minutes,8,13.9,10.4
+36,male,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,10,4.8,4.2
+44,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,17.2,13.5
+53,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,20,25.4,19.5
+28,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,9,3.2,2.9
+62,female,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,6,36.3,29.2
+39,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,18.3,14.2
+50,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,18,11.1,8.6
+34,male,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,7,15.8,13.7
+70,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,5,9.2,8.2
+60,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,10,20,16.5
+21,female,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,4,2.8,2.5
+45,male,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,32.5,25.1
+67,female,Overweight/obese,High Intensity Interval Training,Less than 5 minutes,8,23.9,20.1
+56,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,6,10.2,8.9
+48,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,28.7,22.4
+32,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,12.6,10.9
+38,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,13,17.7,14.1
+53,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,14,28.3,24.6
+41,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,10,15.6,13.9
+37,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,7.2,6.8
+66,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,18,16.7,14.8
+59,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,32.2,27.7
+28,female,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,6,4.1,3.9
+47,male,Overweight/obese,High Intensity Interval Training,More than 15 minutes,16,19.3,16.5
+61,female,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,5,34.5,33.1
+44,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,12,17.4,15.9
+54,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,9,13.9,12.1
+34,male,Healthy,Medium Intensity Interval Training,Between 10 and 15 minutes,7,5.2,4.9
+69,female,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,6,37.1,35.5
+52,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,13,15.9,14.2
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,8,11.8,10.6
+63,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,20,18.2,15.4
+25,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,2.9,2.6
+50,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,11.5,10.2
+71,male,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,4,39,38.2
+60,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,15,26.5,23.1
+46,male,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,12,12,10.8
+63,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,25.4,20.9
+47,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,12,17.1,14.8
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,10,14.5,12
+29,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,5.8,5.1
+58,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,13.8,11.3
+53,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,19.2,16.1
+45,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,8,13.3,11.4
+37,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,6.1,5.5
+62,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,22,10.5,8.9
+56,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,14,15.6,13
+24,female,Healthy,High Intensity Interval Training,Less than 5 minutes,5,2.9,2.6
+50,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,18,22.7,19.6
+34,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,10.9,9.2
+69,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,24,33.5,28.2
+48,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,12,7.3,6
+41,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,9,12.2,10.6
+52,female,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,13,16.5,13.7
+26,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,2.5,2.2
+65,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,23,31.8,27.4
+42,male,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,11,11.8,10
+56,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,16,22,17.9
+48,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,16.2,13.1
+35,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,6.8,5.5
+59,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,18.9,14.3
+44,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,13.6,11.3
+29,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,10,4.9,4.2
+61,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,20,31.5,27
+52,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,11,14.4,12.2
+41,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,9,12.3,10.8
+68,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,20,16,13.7
+36,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,5.5,4.3
+46,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,14,17.3,15
+50,male,Type 2 diabetes,Medium Intensity Interval Training,Less than 5 minutes,6,26.7,22.1
+23,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,2.5,2.2
+38,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,10.7,8.9
+63,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,22,20.2,16.5
+54,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,14.8,12.4
+60,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,19,35.9,30.4
+47,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,11.1,9.2
+31,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,4.1,3.5
+54,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.4,19.1
+42,female,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,13.7,11.4
+36,male,Healthy,High Intensity Interval Training,Less than 5 minutes,8,7.3,6.2
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,15.5,12.6
+47,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,16,13.2
+29,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,5,4.4
+66,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,18,18.7,14.5
+51,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,17.9,15
+40,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,7.9,6.3
+58,female,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,20,21.2,17.8
+34,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,6.4,5.7
+45,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,12.1,10.5
+68,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,20,27.8,23.6
+50,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,16,18.5,15.9
+27,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,3.7,3.2
+56,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 10 and 15 minutes,12,20.6,16.8
+60,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,18,15.2,12.9
+49,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,10,10.7,9.2
+38,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,8,6.7
+72,female,Type 2 diabetes,Medium Intensity Interval Training,More than 15 minutes,22,34.3,28.7
+46,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,16,28.1,23.9
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,12,17.3,13.2
+52,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,20,15.2,12.6
+23,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,8,5.3,4.6
+63,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,18,27.4,21.2
+34,female,Overweight/obese,High Intensity Interval Training,Less than 5 minutes,6,14.7,11.8
+49,male,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,14,32.3,28
+56,female,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,20,13,10.7
+42,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,10,8.5,7.9
+28,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,12,4.7,4.2
+44,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,14,18.6,15.9
+60,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,22,16.7,13.8
+38,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,6.1,5.8
+67,male,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,8,13.5,12.9
+58,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,10,25.9,20.4
+26,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,6,2.8,2.3
+70,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Less than 5 minutes,5,10.9,10.1
+32,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,8,11.2,9.6
+54,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,20,36.5,30.3
+48,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,14.8,12.7
+52,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,24.8,19.5
+43,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,20,18.4,14.1
+38,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,10,13.1,11.2
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,18,10.5,9.2
+29,male,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,12,5.9,4.8
+54,female,Overweight/obese,Medium Intensity Interval Training,More than 15 minutes,20,21.7,17.9
+48,male,Type 2 diabetes,High Intensity Interval Training,Between 5 and 10 minutes,8,29,24.3
+40,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,14,16.7,13.9
+36,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,11.8,9.9
+57,female,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,10.1,8.6
+22,male,Healthy,High Intensity Interval Training,Less than 5 minutes,6,3.5,3.2
+60,male,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,10,31.2,25.8
+41,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,14,11.4
+69,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,8,12.5,10.6
+50,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,15.6,12.2
+34,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,5,5.1,4.5
+57,female,Overweight/obese,High Intensity Interval Training,More than 15 minutes,22,20.1,16.3
+46,male,Metabolic Syndrome,High Intensity Interval Training,Between 5 and 10 minutes,7,13.8,11.7
+45,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,12,23.9,19.8
+28,male,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,8,5.5,4.9
+52,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,28,21.5
+46,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,12,16.1,12.8
+61,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,18,12,9.8
+35,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,5,4.4
+44,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,13.2,10.4
+29,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,6,3.8,3.6
+56,male,Cardiac Rehabilitation,High Intensity Interval Training,More than 15 minutes,20,15,12
+48,female,Type 2 diabetes,Medium Intensity Interval Training,Between 5 and 10 minutes,12,18.2,14.7
+38,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,8,11.8,9.1
+41,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 5 and 10 minutes,10,14.6,12.3
+67,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,22,11.9,10.3
+24,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,4,2.9,2.7
+58,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,29.7,23.4
+31,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,8,8.1,7
+50,male,Metabolic Syndrome,High Intensity Interval Training,More than 15 minutes,20,18.8,14.5
+27,female,Healthy,Medium Intensity Interval Training,Between 5 and 10 minutes,6,4.1,3.9
+72,male,Cardiac Rehabilitation,Medium Intensity Interval Training,More than 15 minutes,24,10.5,9.4
+37,female,Overweight/obese,High Intensity Interval Training,Between 5 and 10 minutes,7,9.3,7.9
+60,male,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,15,15.7,13.1
+55,female,Type 2 diabetes,Medium Intensity Interval Training,Between 10 and 15 minutes,16,26.4,21.9
+53,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,27.4,20.3
+42,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,12,14.9,11.6
+62,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,20,16.2,13.3
+36,female,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,8.3,6.9
+47,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,18,18.7,15.5
+51,male,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,14,13.2,10.6
+28,female,Healthy,High Intensity Interval Training,Between 10 and 15 minutes,8,4.1,3.2
+58,male,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,20,22.3,17.2
+46,female,Overweight/obese,High Intensity Interval Training,Between 10 and 15 minutes,12,10.7,8.6
+66,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,16,15.8,13.1
+38,female,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,6.1,5.4
+55,male,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,20,28.2,23
+61,female,Metabolic Syndrome,Medium Intensity Interval Training,More than 15 minutes,22,19.2,14.8
+49,male,Overweight/obese,Medium Intensity Interval Training,Between 5 and 10 minutes,8,12.9,11.5
+45,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,8,14.1,11.8
+35,male,Healthy,High Intensity Interval Training,Less than 5 minutes,4,5.2,4.7
+70,male,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 10 and 15 minutes,24,17,13.9
+57,female,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,32.6,24.8
+53,female,Type 2 diabetes,High Intensity Interval Training,Between 10 and 15 minutes,16,23.1,18.2
+44,male,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,17.4,13.7
+61,female,Cardiac Rehabilitation,Medium Intensity Interval Training,Between 5 and 10 minutes,20,14.8,11.4
+31,male,Healthy,High Intensity Interval Training,Between 5 and 10 minutes,10,5.9,5.1
+39,female,Overweight/obese,Medium Intensity Interval Training,Between 10 and 15 minutes,14,13.2,10.4
+57,male,Type 2 diabetes,High Intensity Interval Training,More than 15 minutes,18,28.5,22.3
+48,female,Metabolic Syndrome,Medium Intensity Interval Training,Between 10 and 15 minutes,13,15.5,12.8
+28,male,Healthy,Medium Intensity Interval Training,Less than 5 minutes,4,3.9,3.4
+65,female,Cardiac Rehabilitation,High Intensity Interval Training,Between 5 and 10 minutes,12,12.6,10.2
+50,male,Overweight/obese,High Intensity Interval Training,More than 15 minutes,24,20.8,15.7
+46,female,Metabolic Syndrome,High Intensity Interval Training,Between 10 and 15 minutes,12,15.9,12.5
+35,male,Overweight/obese,Medium Intensity Interval Training,Less than 5 minutes,6,11.1,9.2

@@ -1,0 +1,352 @@
+endpoint,population,category_age,category_duration,target_protocol,Cluster
+BMI,T2D,> 50 y,5 - 10 weeks,2 Cycling,0
+HbA1c,T2D,> 50 y,5 - 10 weeks,2 Cycling,0
+HDL,T2D,> 50 y,5 - 10 weeks,2 Cycling,0
+HOMA-IR,T2D,> 50 y,5 - 10 weeks,2 Cycling,0
+LDL,T2D,> 50 y,5 - 10 weeks,2 Cycling,0
+Body Mass,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Running,1
+Flow-mediated Dilation,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Running,1
+VO2max,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Running,1
+Body Fat,Overweight/obese,> 50 y,> 10 weeks,3 Running,0
+Body Mass,Overweight/obese,> 50 y,> 10 weeks,1 Running,0
+VO2max,Overweight/obese,> 50 y,> 10 weeks,2 Running,1
+Body Fat,Healthy,< 30 y,5 - 10 weeks,3 Cycling,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,0 Cycling,2
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Diastolic Blood Pressure,Healthy,< 30 y,> 10 weeks,2 Running,0
+Fasting Glucose,Healthy,< 30 y,> 10 weeks,3 Running,0
+Fasting Insulin,Healthy,< 30 y,> 10 weeks,2 Running,0
+HDL,Healthy,< 30 y,> 10 weeks,2 Running,0
+HOMA-IR,Healthy,< 30 y,> 10 weeks,2 Running,0
+LDL,Healthy,< 30 y,> 10 weeks,2 Running,0
+Systolic Blood Pressure,Healthy,< 30 y,> 10 weeks,2 Running,0
+Total Cholesterol,Healthy,< 30 y,> 10 weeks,2 Running,0
+Triglycerides,Healthy,< 30 y,> 10 weeks,0 Running,0
+VO2max,Healthy,< 30 y,> 10 weeks,2 Running,0
+BMI,Healthy,< 30 y,5 - 10 weeks,3 Cycling,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,3 Cycling,2
+Diastolic Blood Pressure,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Systolic Blood Pressure,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+BMI,Cardiac Rehabilitation,> 50 y,> 10 weeks,1 Cycling,0
+Body Mass,Cardiac Rehabilitation,> 50 y,> 10 weeks,1 Cycling,0
+C-reactive Protein,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Fasting Glucose,Cardiac Rehabilitation,> 50 y,> 10 weeks,3 Cycling,0
+Flow-mediated Dilation,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+HDL,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+LDL,Cardiac Rehabilitation,> 50 y,> 10 weeks,3 Cycling,0
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,> 10 weeks,1 Cycling,0
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,> 10 weeks,3 Cycling,0
+Triglycerides,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+VO2max,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+BMI,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Body Mass,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,> 10 weeks,1 Cycling,0
+HDL,Cardiac Rehabilitation,> 50 y,> 10 weeks,0 Cycling,0
+LDL,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,> 10 weeks,1 Cycling,0
+Triglycerides,Cardiac Rehabilitation,> 50 y,> 10 weeks,3 Cycling,0
+VO2max,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Cycling,0
+Body Fat,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Running,1
+Body Mass,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Running,1
+VO2max,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Running,1
+BMI,Healthy,> 50 y,> 10 weeks,2 Cycling,0
+Body Fat,Healthy,> 50 y,> 10 weeks,2 Cycling,0
+Body Mass,Healthy,> 50 y,> 10 weeks,2 Cycling,0
+Diastolic Blood Pressure,Healthy,> 50 y,> 10 weeks,2 Cycling,0
+Fasting Glucose,Healthy,> 50 y,> 10 weeks,0 Cycling,0
+HbA1c,Healthy,> 50 y,> 10 weeks,2 Cycling,0
+HDL,Healthy,> 50 y,> 10 weeks,3 Cycling,0
+LDL,Healthy,> 50 y,> 10 weeks,2 Cycling,0
+BMI,Overweight/obese,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Fat,Overweight/obese,< 30 y,5 - 10 weeks,2 Cycling,1
+Body Mass,Overweight/obese,< 30 y,5 - 10 weeks,2 Cycling,0
+Diastolic Blood Pressure,Overweight/obese,< 30 y,5 - 10 weeks,1 Cycling,1
+HDL,Overweight/obese,< 30 y,5 - 10 weeks,3 Cycling,2
+HOMA-IR,Overweight/obese,< 30 y,5 - 10 weeks,1 Cycling,1
+LDL,Overweight/obese,< 30 y,5 - 10 weeks,2 Cycling,1
+Systolic Blood Pressure,Overweight/obese,< 30 y,5 - 10 weeks,2 Cycling,1
+VO2max,Overweight/obese,< 30 y,5 - 10 weeks,2 Cycling,1
+BMI,Healthy,< 30 y,> 10 weeks,0 Cycling,2
+Body Fat,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Body Mass,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Fasting Glucose,Healthy,< 30 y,> 10 weeks,3 Cycling,2
+Fasting Insulin,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+HOMA-IR,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Body Mass,Healthy,< 30 y,5 - 10 weeks,0 Cycling,2
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Mass,Healthy,< 30 y,< 5 weeks,2 Cycling,0
+Body Mass,Healthy,< 30 y,< 5 weeks,1 Cycling,0
+BMI,Healthy,< 30 y,< 5 weeks,1 Cycling,2
+Body Fat,Healthy,< 30 y,< 5 weeks,1 Cycling,2
+Body Mass,Healthy,< 30 y,< 5 weeks,1 Cycling,0
+Fasting Glucose,Healthy,< 30 y,< 5 weeks,0 Cycling,2
+HDL,Healthy,< 30 y,< 5 weeks,3 Cycling,2
+HOMA-IR,Healthy,< 30 y,< 5 weeks,3 Cycling,2
+Total Cholesterol,Healthy,< 30 y,< 5 weeks,0 Cycling,2
+VO2max,Healthy,< 30 y,< 5 weeks,2 Cycling,0
+Body Mass,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+HDL,Healthy,< 30 y,5 - 10 weeks,1 Running,2
+LDL,Healthy,< 30 y,5 - 10 weeks,1 Running,2
+Total Cholesterol,Healthy,< 30 y,5 - 10 weeks,3 Running,2
+Triglycerides,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Running,1
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Running,1
+BMI,Healthy,30 - 50 y,< 5 weeks,0 Cycling,2
+Body Fat,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Body Mass,Healthy,30 - 50 y,< 5 weeks,0 Cycling,0
+Diastolic Blood Pressure,Healthy,30 - 50 y,< 5 weeks,3 Cycling,2
+Fasting Glucose,Healthy,30 - 50 y,< 5 weeks,3 Cycling,2
+Fasting Insulin,Healthy,30 - 50 y,< 5 weeks,3 Cycling,2
+HbA1c,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+HDL,Healthy,30 - 50 y,< 5 weeks,3 Cycling,2
+LDL,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Systolic Blood Pressure,Healthy,30 - 50 y,< 5 weeks,3 Cycling,2
+Total Cholesterol,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Triglycerides,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+VO2max,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+BMI,T2D,30 - 50 y,< 5 weeks,0 Cycling,1
+Body Fat,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Body Mass,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Diastolic Blood Pressure,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Fasting Glucose,T2D,30 - 50 y,< 5 weeks,0 Cycling,1
+Fasting Insulin,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+HbA1c,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+HDL,T2D,30 - 50 y,< 5 weeks,3 Cycling,1
+LDL,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Systolic Blood Pressure,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Total Cholesterol,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Triglycerides,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+VO2max,T2D,30 - 50 y,< 5 weeks,0 Cycling,1
+C-reactive Protein,Healthy,< 30 y,< 5 weeks,2 Cycling,0
+HOMA-IR,Healthy,< 30 y,< 5 weeks,0 Cycling,2
+BMI,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,1
+Body Mass,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,0
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,1
+Fasting Glucose,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,1
+Flow-mediated Dilation,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,1
+HDL,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,1
+LDL,Metabolic Syndrome,> 50 y,5 - 10 weeks,2 Running,1
+Body Fat,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+Body Mass,Overweight/obese,30 - 50 y,> 10 weeks,1 Cycling,0
+C-reactive Protein,Overweight/obese,30 - 50 y,> 10 weeks,1 Cycling,1
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+Fasting Glucose,Overweight/obese,30 - 50 y,> 10 weeks,0 Cycling,1
+Fasting Insulin,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+HDL,Overweight/obese,30 - 50 y,> 10 weeks,3 Cycling,1
+LDL,Overweight/obese,30 - 50 y,> 10 weeks,3 Cycling,1
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+Total Cholesterol,Overweight/obese,30 - 50 y,> 10 weeks,3 Cycling,1
+Triglycerides,Overweight/obese,30 - 50 y,> 10 weeks,1 Cycling,1
+VO2max,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,1
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,0 Running,0
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,0 Running,0
+VO2max,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,2 Running,1
+C-reactive Protein,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,2 Running,1
+HDL,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,3 Running,0
+VO2max,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,2 Running,1
+Body Mass,Healthy,> 50 y,< 5 weeks,0 Cycling,0
+Diastolic Blood Pressure,Healthy,> 50 y,< 5 weeks,2 Cycling,0
+Flow-mediated Dilation,Healthy,> 50 y,< 5 weeks,3 Cycling,0
+Systolic Blood Pressure,Healthy,> 50 y,< 5 weeks,2 Cycling,0
+VO2max,Healthy,> 50 y,< 5 weeks,2 Cycling,0
+Fasting Glucose,Healthy,< 30 y,< 5 weeks,1 Running,2
+BMI,Overweight/obese,30 - 50 y,> 10 weeks,1 Running,1
+BMI,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Body Fat,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Body Fat,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+HDL,Overweight/obese,30 - 50 y,> 10 weeks,3 Running,1
+HDL,Overweight/obese,30 - 50 y,> 10 weeks,3 Running,1
+HOMA-IR,Overweight/obese,30 - 50 y,> 10 weeks,1 Running,1
+HOMA-IR,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+Triglycerides,Overweight/obese,30 - 50 y,> 10 weeks,2 Running,1
+VO2max,Overweight/obese,30 - 50 y,> 10 weeks,0 Running,1
+VO2max,Overweight/obese,30 - 50 y,> 10 weeks,0 Running,1
+Body Fat,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,2 Cycling,0
+BMI,Cardiac Rehabilitation,> 50 y,> 10 weeks,3 Running,0
+C-reactive Protein,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Running,0
+Fasting Glucose,Cardiac Rehabilitation,> 50 y,> 10 weeks,0 Running,0
+HbA1c,Cardiac Rehabilitation,> 50 y,> 10 weeks,1 Running,0
+HDL,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Running,0
+LDL,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Running,0
+Total Cholesterol,Cardiac Rehabilitation,> 50 y,> 10 weeks,3 Running,0
+Triglycerides,Cardiac Rehabilitation,> 50 y,> 10 weeks,0 Running,0
+VO2max,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Running,0
+BMI,T2D,> 50 y,> 10 weeks,0 Cycling,0
+Body Fat,T2D,> 50 y,> 10 weeks,2 Cycling,0
+Body Mass,T2D,> 50 y,> 10 weeks,0 Cycling,0
+Fasting Glucose,T2D,> 50 y,> 10 weeks,3 Cycling,0
+HbA1c,T2D,> 50 y,> 10 weeks,2 Cycling,0
+HDL,T2D,> 50 y,> 10 weeks,2 Cycling,0
+LDL,T2D,> 50 y,> 10 weeks,1 Cycling,0
+Total Cholesterol,T2D,> 50 y,> 10 weeks,2 Cycling,0
+Triglycerides,T2D,> 50 y,> 10 weeks,1 Cycling,0
+Body Mass,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+VO2max,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,1
+BMI,Healthy,< 30 y,5 - 10 weeks,1 Cycling,2
+Body Fat,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,1 Cycling,2
+Diastolic Blood Pressure,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Systolic Blood Pressure,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Fat,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,1
+Body Mass,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,0
+Diastolic Blood Pressure,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,0 Cycling,1
+Fasting Glucose,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,1
+Fasting Insulin,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,1
+HbA1c,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,1
+HDL,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,1
+HOMA-IR,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,2 Cycling,1
+LDL,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,3 Cycling,1
+Systolic Blood Pressure,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,3 Cycling,1
+Total Cholesterol,Metabolic Syndrome,30 - 50 y,5 - 10 weeks,3 Cycling,1
+BMI,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Body Fat,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Body Mass,T2D,> 50 y,5 - 10 weeks,2 Running,0
+Diastolic Blood Pressure,T2D,> 50 y,5 - 10 weeks,3 Running,0
+Fasting Glucose,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Flow-mediated Dilation,T2D,> 50 y,5 - 10 weeks,2 Running,1
+HDL,T2D,> 50 y,5 - 10 weeks,2 Running,1
+HOMA-IR,T2D,> 50 y,5 - 10 weeks,2 Running,1
+LDL,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Systolic Blood Pressure,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Total Cholesterol,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Triglycerides,T2D,> 50 y,5 - 10 weeks,2 Running,1
+VO2max,T2D,> 50 y,5 - 10 weeks,2 Running,1
+Diastolic Blood Pressure,Overweight/obese,> 50 y,> 10 weeks,2 Running,0
+Flow-mediated Dilation,Overweight/obese,> 50 y,> 10 weeks,2 Running,0
+VO2max,Overweight/obese,> 50 y,> 10 weeks,2 Running,1
+BMI,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+Body Fat,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+Body Mass,Overweight/obese,30 - 50 y,> 10 weeks,2 Cycling,0
+BMI,Healthy,30 - 50 y,< 5 weeks,0 Cycling,2
+Body Fat,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Fasting Glucose,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Fasting Insulin,Healthy,30 - 50 y,< 5 weeks,0 Cycling,0
+HbA1c,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+HDL,Healthy,30 - 50 y,< 5 weeks,3 Cycling,2
+LDL,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Total Cholesterol,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+Triglycerides,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+VO2max,Healthy,30 - 50 y,< 5 weeks,2 Cycling,0
+BMI,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Fat,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,2 Cycling,0
+C-reactive Protein,Healthy,< 30 y,5 - 10 weeks,1 Cycling,2
+HDL,Healthy,< 30 y,5 - 10 weeks,0 Cycling,2
+Total Cholesterol,Healthy,< 30 y,5 - 10 weeks,0 Cycling,2
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+BMI,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Body Fat,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Body Mass,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+VO2max,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Cycling,2
+Body Fat,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Body Mass,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Fasting Glucose,Metabolic Syndrome,> 50 y,> 10 weeks,1 Running,0
+HbA1c,Metabolic Syndrome,> 50 y,> 10 weeks,1 Running,0
+HDL,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+HOMA-IR,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Systolic Blood Pressure,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Triglycerides,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+VO2max,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+BMI,Metabolic Syndrome,> 50 y,> 10 weeks,0 Running,0
+Body Fat,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Body Mass,Metabolic Syndrome,> 50 y,> 10 weeks,0 Running,0
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Fasting Glucose,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+HDL,Metabolic Syndrome,> 50 y,> 10 weeks,1 Running,0
+LDL,Metabolic Syndrome,> 50 y,> 10 weeks,3 Running,0
+Systolic Blood Pressure,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Total Cholesterol,Metabolic Syndrome,> 50 y,> 10 weeks,3 Running,0
+Triglycerides,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+VO2max,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+BMI,Metabolic Syndrome,> 50 y,< 5 weeks,2 Cycling,0
+Body Mass,Metabolic Syndrome,> 50 y,< 5 weeks,2 Cycling,0
+Fasting Glucose,Metabolic Syndrome,> 50 y,< 5 weeks,1 Cycling,0
+Fasting Insulin,Metabolic Syndrome,> 50 y,< 5 weeks,0 Cycling,0
+HOMA-IR,Metabolic Syndrome,> 50 y,< 5 weeks,3 Cycling,0
+VO2max,Metabolic Syndrome,> 50 y,< 5 weeks,2 Cycling,0
+Body Mass,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,2 Running,0
+Diastolic Blood Pressure,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,3 Running,0
+Systolic Blood Pressure,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,2 Running,1
+VO2max,Cardiac Rehabilitation,> 50 y,5 - 10 weeks,2 Running,1
+BMI,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+Body Fat,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+Fasting Glucose,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+Fasting Insulin,Healthy,< 30 y,5 - 10 weeks,1 Running,2
+HDL,Healthy,< 30 y,5 - 10 weeks,3 Running,2
+HOMA-IR,Healthy,< 30 y,5 - 10 weeks,1 Running,2
+LDL,Healthy,< 30 y,5 - 10 weeks,0 Running,2
+Total Cholesterol,Healthy,< 30 y,5 - 10 weeks,2 Running,2
+Triglycerides,Healthy,< 30 y,5 - 10 weeks,0 Running,2
+VO2max,Healthy,< 30 y,5 - 10 weeks,2 Running,1
+BMI,Overweight/obese,30 - 50 y,5 - 10 weeks,3 Cycling,1
+Body Fat,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Cycling,1
+Body Mass,Overweight/obese,30 - 50 y,5 - 10 weeks,0 Cycling,1
+C-reactive Protein,Overweight/obese,30 - 50 y,5 - 10 weeks,3 Cycling,1
+Fasting Glucose,Overweight/obese,30 - 50 y,5 - 10 weeks,0 Cycling,1
+Fasting Insulin,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Cycling,1
+Flow-mediated Dilation,Overweight/obese,30 - 50 y,5 - 10 weeks,0 Cycling,1
+HDL,Overweight/obese,30 - 50 y,5 - 10 weeks,0 Cycling,1
+HOMA-IR,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Cycling,1
+LDL,Overweight/obese,30 - 50 y,5 - 10 weeks,3 Cycling,1
+Total Cholesterol,Overweight/obese,30 - 50 y,5 - 10 weeks,3 Cycling,1
+VO2max,Overweight/obese,30 - 50 y,5 - 10 weeks,2 Cycling,1
+Body Mass,Healthy,< 30 y,5 - 10 weeks,3 Cycling,2
+BMI,Healthy,< 30 y,5 - 10 weeks,3 Cycling,2
+Body Mass,Healthy,< 30 y,5 - 10 weeks,3 Cycling,2
+BMI,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Body Fat,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Body Mass,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+Fasting Glucose,T2D,30 - 50 y,< 5 weeks,0 Cycling,1
+Fasting Insulin,T2D,30 - 50 y,< 5 weeks,3 Cycling,1
+HbA1c,T2D,30 - 50 y,< 5 weeks,2 Cycling,0
+VO2max,T2D,30 - 50 y,< 5 weeks,0 Cycling,1
+BMI,Overweight/obese,30 - 50 y,< 5 weeks,3 Cycling,1
+Body Fat,Overweight/obese,30 - 50 y,< 5 weeks,0 Cycling,1
+Diastolic Blood Pressure,Overweight/obese,30 - 50 y,< 5 weeks,2 Cycling,1
+Fasting Glucose,Overweight/obese,30 - 50 y,< 5 weeks,1 Cycling,1
+Fasting Insulin,Overweight/obese,30 - 50 y,< 5 weeks,3 Cycling,1
+HOMA-IR,Overweight/obese,30 - 50 y,< 5 weeks,1 Cycling,1
+Systolic Blood Pressure,Overweight/obese,30 - 50 y,< 5 weeks,0 Cycling,1
+VO2max,Overweight/obese,30 - 50 y,< 5 weeks,3 Cycling,1
+BMI,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Body Mass,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Diastolic Blood Pressure,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Fasting Glucose,Metabolic Syndrome,> 50 y,> 10 weeks,0 Running,0
+Fasting Insulin,Metabolic Syndrome,> 50 y,> 10 weeks,3 Running,0
+HDL,Metabolic Syndrome,> 50 y,> 10 weeks,2 Running,0
+Triglycerides,Metabolic Syndrome,> 50 y,> 10 weeks,3 Running,0
+Body Fat,Healthy,< 30 y,> 10 weeks,0 Cycling,0
+Body Mass,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Fasting Glucose,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Fasting Insulin,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+HOMA-IR,Healthy,< 30 y,> 10 weeks,2 Cycling,0
+Diastolic Blood Pressure,Healthy,30 - 50 y,> 10 weeks,2 Running,0
+Systolic Blood Pressure,Healthy,30 - 50 y,> 10 weeks,3 Running,0
+BMI,Overweight/obese,30 - 50 y,< 5 weeks,2 Running,1
+Body Fat,Overweight/obese,30 - 50 y,< 5 weeks,1 Running,1
+Body Mass,Overweight/obese,30 - 50 y,< 5 weeks,2 Running,1
+Fasting Insulin,Overweight/obese,30 - 50 y,< 5 weeks,1 Running,1
+HDL,Overweight/obese,30 - 50 y,< 5 weeks,0 Running,1
+HOMA-IR,Overweight/obese,30 - 50 y,< 5 weeks,1 Running,1
+LDL,Overweight/obese,30 - 50 y,< 5 weeks,2 Running,1
+Total Cholesterol,Overweight/obese,30 - 50 y,< 5 weeks,2 Running,1
+VO2max,Overweight/obese,30 - 50 y,< 5 weeks,1 Running,1
+VO2max,Cardiac Rehabilitation,> 50 y,> 10 weeks,2 Running,0
+Body Mass,Overweight/obese,< 30 y,> 10 weeks,2 Cycling,0
+Fasting Glucose,Overweight/obese,< 30 y,> 10 weeks,2 Cycling,0
+Fasting Insulin,Overweight/obese,< 30 y,> 10 weeks,2 Cycling,0
+HDL,Overweight/obese,< 30 y,> 10 weeks,3 Cycling,2
+LDL,Overweight/obese,< 30 y,> 10 weeks,2 Cycling,0
+Total Cholesterol,Overweight/obese,< 30 y,> 10 weeks,2 Cycling,0
+Triglycerides,Overweight/obese,< 30 y,> 10 weeks,1 Cycling,0

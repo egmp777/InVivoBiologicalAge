@@ -1,0 +1,340 @@
+endpoint,population,age,target_protocol,Cluster
+BMI,T2D,0.7254190759224944,2 Cycling,2
+HbA1c,T2D,0.7254190759224944,2 Cycling,2
+HDL,T2D,0.7254190759224944,2 Cycling,2
+HOMA-IR,T2D,0.7254190759224944,2 Cycling,2
+LDL,T2D,0.7254190759224944,2 Cycling,2
+Body Mass,Overweight/obese,-0.34180303720954314,0 Running,1
+Flow-mediated Dilation,Overweight/obese,-0.34180303720954314,2 Running,1
+VO2max,Overweight/obese,-0.34180303720954314,2 Running,1
+Body Fat,Overweight/obese,1.2788159913366457,3 Running,0
+Body Mass,Overweight/obese,1.2788159913366457,1 Running,0
+VO2max,Overweight/obese,1.2788159913366457,2 Running,0
+Body Fat,Healthy,-1.4267045979074602,3 Cycling,3
+Body Mass,Healthy,-1.4267045979074602,0 Cycling,3
+VO2max,Healthy,-1.4267045979074602,2 Cycling,3
+Diastolic Blood Pressure,Healthy,-1.3032361311829757,2 Running,3
+Fasting Glucose,Healthy,-1.3032361311829757,3 Running,3
+Fasting Insulin,Healthy,-1.3032361311829757,2 Running,3
+HDL,Healthy,-1.3032361311829757,2 Running,3
+HOMA-IR,Healthy,-1.3032361311829757,2 Running,3
+LDL,Healthy,-1.3032361311829757,2 Running,3
+Systolic Blood Pressure,Healthy,-1.3032361311829757,2 Running,3
+Total Cholesterol,Healthy,-1.3032361311829757,2 Running,3
+Triglycerides,Healthy,-1.3032361311829757,0 Running,3
+VO2max,Healthy,-1.3032361311829757,2 Running,3
+BMI,Healthy,-1.5475773775322987,3 Cycling,3
+Body Mass,Healthy,-1.5475773775322987,3 Cycling,3
+Diastolic Blood Pressure,Healthy,-1.5475773775322987,2 Cycling,3
+Systolic Blood Pressure,Healthy,-1.5475773775322987,2 Cycling,3
+BMI,Cardiac Rehabilitation,1.0191585967212669,3 Cycling,2
+Body Mass,Cardiac Rehabilitation,1.0191585967212669,1 Cycling,0
+C-reactive Protein,Cardiac Rehabilitation,1.0191585967212669,3 Cycling,0
+Diastolic Blood Pressure,Cardiac Rehabilitation,1.0191585967212669,2 Cycling,0
+Fasting Glucose,Cardiac Rehabilitation,1.0191585967212669,3 Cycling,0
+Flow-mediated Dilation,Cardiac Rehabilitation,1.0191585967212669,2 Cycling,0
+HDL,Cardiac Rehabilitation,1.0191585967212669,2 Cycling,0
+LDL,Cardiac Rehabilitation,1.0191585967212669,3 Cycling,0
+Systolic Blood Pressure,Cardiac Rehabilitation,1.0191585967212669,1 Cycling,0
+Total Cholesterol,Cardiac Rehabilitation,1.0191585967212669,3 Cycling,0
+Triglycerides,Cardiac Rehabilitation,1.0191585967212669,3 Cycling,0
+VO2max,Cardiac Rehabilitation,1.0191585967212669,2 Cycling,0
+BMI,Cardiac Rehabilitation,1.486791747310548,0 Cycling,0
+Body Mass,Cardiac Rehabilitation,1.486791747310548,2 Cycling,0
+Diastolic Blood Pressure,Cardiac Rehabilitation,1.486791747310548,1 Cycling,0
+HDL,Cardiac Rehabilitation,1.486791747310548,2 Cycling,0
+LDL,Cardiac Rehabilitation,1.486791747310548,3 Cycling,0
+Systolic Blood Pressure,Cardiac Rehabilitation,1.486791747310548,2 Cycling,0
+Total Cholesterol,Cardiac Rehabilitation,1.486791747310548,3 Cycling,0
+Triglycerides,Cardiac Rehabilitation,1.486791747310548,3 Cycling,0
+VO2max,Cardiac Rehabilitation,1.486791747310548,2 Cycling,0
+Body Fat,Overweight/obese,0.26718709086732545,0 Running,1
+Body Mass,Overweight/obese,0.26718709086732545,2 Running,1
+VO2max,Overweight/obese,0.26718709086732545,2 Running,1
+BMI,Healthy,0.4517735673904931,2 Cycling,2
+Body Fat,Healthy,0.4517735673904931,0 Cycling,2
+Body Mass,Healthy,0.4517735673904931,2 Cycling,1
+Diastolic Blood Pressure,Healthy,0.4517735673904931,2 Cycling,1
+Fasting Glucose,Healthy,0.4517735673904931,0 Cycling,2
+HbA1c,Healthy,0.4517735673904931,3 Cycling,2
+HDL,Healthy,0.4517735673904931,3 Cycling,2
+LDL,Healthy,0.4517735673904931,2 Cycling,1
+BMI,Healthy,-1.17731866362507,0 Cycling,3
+Body Fat,Healthy,-1.17731866362507,2 Cycling,3
+Body Mass,Healthy,-1.17731866362507,2 Cycling,3
+Fasting Glucose,Healthy,-1.17731866362507,3 Cycling,3
+Fasting Insulin,Healthy,-1.17731866362507,2 Cycling,3
+HOMA-IR,Healthy,-1.17731866362507,3 Cycling,3
+Body Mass,Healthy,-1.2090203180467627,0 Cycling,3
+VO2max,Healthy,-1.2090203180467627,2 Cycling,3
+Body Mass,Healthy,-1.5773707401235406,1 Cycling,3
+Body Mass,Healthy,-1.5773707401235406,1 Cycling,3
+BMI,Healthy,-1.517611347237556,3 Cycling,3
+Body Fat,Healthy,-1.517611347237556,1 Cycling,3
+Body Mass,Healthy,-1.517611347237556,1 Cycling,3
+Fasting Glucose,Healthy,-1.517611347237556,3 Cycling,3
+HDL,Healthy,-1.517611347237556,2 Cycling,3
+HOMA-IR,Healthy,-1.517611347237556,3 Cycling,3
+Total Cholesterol,Healthy,-1.517611347237556,3 Cycling,3
+VO2max,Healthy,-1.517611347237556,2 Cycling,3
+Body Mass,Healthy,-1.359108315026251,2 Running,3
+Body Mass,Healthy,-1.359108315026251,2 Running,3
+HDL,Healthy,-1.359108315026251,2 Running,3
+LDL,Healthy,-1.359108315026251,3 Running,3
+Total Cholesterol,Healthy,-1.359108315026251,3 Running,3
+Triglycerides,Healthy,-1.359108315026251,3 Running,3
+VO2max,Healthy,-1.359108315026251,2 Running,3
+VO2max,Healthy,-1.359108315026251,2 Running,3
+BMI,Healthy,0.19402197295402532,3 Cycling,2
+Body Fat,Healthy,0.19402197295402532,2 Cycling,1
+Body Mass,Healthy,0.19402197295402532,0 Cycling,1
+Diastolic Blood Pressure,Healthy,0.19402197295402532,3 Cycling,2
+Fasting Glucose,Healthy,0.19402197295402532,3 Cycling,2
+Fasting Insulin,Healthy,0.19402197295402532,3 Cycling,2
+HbA1c,Healthy,0.19402197295402532,2 Cycling,1
+HDL,Healthy,0.19402197295402532,2 Cycling,1
+LDL,Healthy,0.19402197295402532,0 Cycling,1
+Systolic Blood Pressure,Healthy,0.19402197295402532,3 Cycling,2
+Total Cholesterol,Healthy,0.19402197295402532,0 Cycling,1
+Triglycerides,Healthy,0.19402197295402532,3 Cycling,2
+VO2max,Healthy,0.19402197295402532,2 Cycling,1
+BMI,T2D,0.15758575410173603,3 Cycling,2
+Body Fat,T2D,0.15758575410173603,2 Cycling,1
+Body Mass,T2D,0.15758575410173603,3 Cycling,2
+Diastolic Blood Pressure,T2D,0.15758575410173603,2 Cycling,1
+Fasting Glucose,T2D,0.15758575410173603,3 Cycling,2
+Fasting Insulin,T2D,0.15758575410173603,2 Cycling,1
+HbA1c,T2D,0.15758575410173603,2 Cycling,1
+HDL,T2D,0.15758575410173603,2 Cycling,1
+LDL,T2D,0.15758575410173603,3 Cycling,2
+Systolic Blood Pressure,T2D,0.15758575410173603,2 Cycling,1
+Total Cholesterol,T2D,0.15758575410173603,0 Cycling,1
+Triglycerides,T2D,0.15758575410173603,3 Cycling,2
+VO2max,T2D,0.15758575410173603,0 Cycling,1
+C-reactive Protein,Healthy,-1.4267045979074602,3 Cycling,3
+HOMA-IR,Healthy,-1.4267045979074602,0 Cycling,3
+BMI,Metabolic Syndrome,0.4406320502179384,1 Running,2
+Body Mass,Metabolic Syndrome,0.4406320502179384,2 Running,2
+Diastolic Blood Pressure,Metabolic Syndrome,0.4406320502179384,2 Running,2
+Fasting Glucose,Metabolic Syndrome,0.4406320502179384,2 Running,2
+Flow-mediated Dilation,Metabolic Syndrome,0.4406320502179384,2 Running,2
+HDL,Metabolic Syndrome,0.4406320502179384,2 Running,2
+LDL,Metabolic Syndrome,0.4406320502179384,2 Running,2
+Body Fat,Overweight/obese,-0.13028961470811368,2 Cycling,1
+Body Mass,Overweight/obese,-0.13028961470811368,1 Cycling,1
+C-reactive Protein,Overweight/obese,-0.13028961470811368,1 Cycling,1
+Diastolic Blood Pressure,Overweight/obese,-0.13028961470811368,2 Cycling,1
+Fasting Glucose,Overweight/obese,-0.13028961470811368,3 Cycling,1
+Fasting Insulin,Overweight/obese,-0.13028961470811368,2 Cycling,1
+HDL,Overweight/obese,-0.13028961470811368,2 Cycling,1
+LDL,Overweight/obese,-0.13028961470811368,3 Cycling,1
+Systolic Blood Pressure,Overweight/obese,-0.13028961470811368,2 Cycling,1
+Total Cholesterol,Overweight/obese,-0.13028961470811368,3 Cycling,1
+Triglycerides,Overweight/obese,-0.13028961470811368,3 Cycling,1
+VO2max,Overweight/obese,-0.13028961470811368,2 Cycling,1
+Diastolic Blood Pressure,Cardiac Rehabilitation,1.0576775469863042,0 Running,0
+Systolic Blood Pressure,Cardiac Rehabilitation,1.0576775469863042,0 Running,0
+VO2max,Cardiac Rehabilitation,1.0576775469863042,2 Running,0
+C-reactive Protein,Cardiac Rehabilitation,1.026855677365162,2 Running,0
+HDL,Cardiac Rehabilitation,1.026855677365162,2 Running,0
+VO2max,Cardiac Rehabilitation,1.026855677365162,2 Running,0
+Body Mass,Healthy,1.4473806458962641,3 Cycling,0
+Diastolic Blood Pressure,Healthy,1.4473806458962641,2 Cycling,0
+Flow-mediated Dilation,Healthy,1.4473806458962641,3 Cycling,0
+Systolic Blood Pressure,Healthy,1.4473806458962641,2 Cycling,0
+VO2max,Healthy,1.4473806458962641,2 Cycling,0
+Fasting Glucose,Healthy,-1.2493838607153143,1 Running,3
+BMI,Overweight/obese,0.31127150834092876,3 Running,2
+BMI,Overweight/obese,0.31127150834092876,3 Running,2
+Body Fat,Overweight/obese,0.31127150834092876,2 Running,1
+Body Fat,Overweight/obese,0.31127150834092876,2 Running,1
+Diastolic Blood Pressure,Overweight/obese,0.31127150834092876,2 Running,1
+Diastolic Blood Pressure,Overweight/obese,0.31127150834092876,2 Running,1
+HDL,Overweight/obese,0.31127150834092876,3 Running,1
+HDL,Overweight/obese,0.31127150834092876,3 Running,1
+HOMA-IR,Overweight/obese,0.31127150834092876,3 Running,1
+HOMA-IR,Overweight/obese,0.31127150834092876,3 Running,1
+Systolic Blood Pressure,Overweight/obese,0.31127150834092876,2 Running,1
+Systolic Blood Pressure,Overweight/obese,0.31127150834092876,2 Running,1
+Triglycerides,Overweight/obese,0.31127150834092876,2 Running,1
+VO2max,Overweight/obese,0.31127150834092876,0 Running,1
+VO2max,Overweight/obese,0.31127150834092876,0 Running,1
+Body Fat,Healthy,-1.4205915199518915,2 Cycling,3
+Body Mass,Healthy,-1.4205915199518915,0 Cycling,3
+BMI,Cardiac Rehabilitation,0.9807237230435317,3 Running,0
+C-reactive Protein,Cardiac Rehabilitation,0.9807237230435317,0 Running,0
+Fasting Glucose,Cardiac Rehabilitation,0.9807237230435317,3 Running,0
+HbA1c,Cardiac Rehabilitation,0.9807237230435317,3 Running,0
+HDL,Cardiac Rehabilitation,0.9807237230435317,2 Running,0
+LDL,Cardiac Rehabilitation,0.9807237230435317,3 Running,0
+Total Cholesterol,Cardiac Rehabilitation,0.9807237230435317,3 Running,0
+Triglycerides,Cardiac Rehabilitation,0.9807237230435317,3 Running,0
+VO2max,Cardiac Rehabilitation,0.9807237230435317,2 Running,0
+BMI,T2D,1.861025017300681,3 Cycling,0
+Body Fat,T2D,1.861025017300681,2 Cycling,0
+Body Mass,T2D,1.861025017300681,3 Cycling,0
+Fasting Glucose,T2D,1.861025017300681,3 Cycling,0
+HbA1c,T2D,1.861025017300681,3 Cycling,0
+HDL,T2D,1.861025017300681,2 Cycling,0
+LDL,T2D,1.861025017300681,3 Cycling,0
+Total Cholesterol,T2D,1.861025017300681,3 Cycling,0
+Triglycerides,T2D,1.861025017300681,3 Cycling,0
+Body Mass,Overweight/obese,-0.78942489111439,2 Cycling,3
+VO2max,Overweight/obese,-0.78942489111439,2 Cycling,1
+BMI,Healthy,-1.068459748860369,3 Cycling,3
+Body Fat,Healthy,-1.068459748860369,1 Cycling,3
+Body Mass,Healthy,-1.068459748860369,1 Cycling,3
+Diastolic Blood Pressure,Healthy,-1.068459748860369,2 Cycling,3
+Systolic Blood Pressure,Healthy,-1.068459748860369,2 Cycling,3
+Body Fat,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+Body Mass,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+Diastolic Blood Pressure,Metabolic Syndrome,0.19402197295402532,0 Cycling,2
+Fasting Glucose,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+Fasting Insulin,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+HbA1c,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+HDL,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+HOMA-IR,Metabolic Syndrome,0.19402197295402532,2 Cycling,1
+LDL,Metabolic Syndrome,0.19402197295402532,3 Cycling,2
+Systolic Blood Pressure,Metabolic Syndrome,0.19402197295402532,3 Cycling,2
+Total Cholesterol,Metabolic Syndrome,0.19402197295402532,3 Cycling,2
+BMI,T2D,1.2515155391667068,0 Running,0
+Body Fat,T2D,1.2515155391667068,2 Running,0
+Body Mass,T2D,1.2515155391667068,2 Running,0
+Diastolic Blood Pressure,T2D,1.2515155391667068,3 Running,0
+Fasting Glucose,T2D,1.2515155391667068,2 Running,0
+Flow-mediated Dilation,T2D,1.2515155391667068,2 Running,0
+HDL,T2D,1.2515155391667068,2 Running,0
+HOMA-IR,T2D,1.2515155391667068,2 Running,0
+LDL,T2D,1.2515155391667068,2 Running,0
+Systolic Blood Pressure,T2D,1.2515155391667068,2 Running,0
+Total Cholesterol,T2D,1.2515155391667068,0 Running,0
+Triglycerides,T2D,1.2515155391667068,3 Running,0
+VO2max,T2D,1.2515155391667068,2 Running,0
+Diastolic Blood Pressure,Overweight/obese,0.6086246418839385,2 Running,1
+Flow-mediated Dilation,Overweight/obese,0.6086246418839385,2 Running,1
+VO2max,Overweight/obese,0.6086246418839385,2 Running,1
+BMI,Overweight/obese,-0.34180303720954314,2 Cycling,1
+Body Fat,Overweight/obese,-0.34180303720954314,2 Cycling,1
+Body Mass,Overweight/obese,-0.34180303720954314,2 Cycling,1
+BMI,Healthy,0.23055599838238808,3 Cycling,2
+Body Fat,Healthy,0.23055599838238808,2 Cycling,1
+Fasting Glucose,Healthy,0.23055599838238808,3 Cycling,2
+Fasting Insulin,Healthy,0.23055599838238808,0 Cycling,1
+HbA1c,Healthy,0.23055599838238808,2 Cycling,1
+HDL,Healthy,0.23055599838238808,2 Cycling,1
+LDL,Healthy,0.23055599838238808,0 Cycling,1
+Total Cholesterol,Healthy,0.23055599838238808,0 Cycling,1
+Triglycerides,Healthy,0.23055599838238808,3 Cycling,2
+VO2max,Healthy,0.23055599838238808,2 Cycling,1
+BMI,Healthy,-1.535611527138336,3 Cycling,3
+Body Fat,Healthy,-1.535611527138336,2 Cycling,3
+Body Mass,Healthy,-1.535611527138336,2 Cycling,3
+C-reactive Protein,Healthy,-1.535611527138336,1 Cycling,3
+HDL,Healthy,-1.535611527138336,0 Cycling,3
+Total Cholesterol,Healthy,-1.535611527138336,0 Cycling,3
+VO2max,Healthy,-1.535611527138336,2 Cycling,3
+BMI,Healthy,-1.5773707401235406,2 Cycling,3
+Body Fat,Healthy,-1.5773707401235406,2 Cycling,3
+Body Mass,Healthy,-1.5773707401235406,2 Cycling,3
+VO2max,Healthy,-1.5773707401235406,2 Cycling,3
+VO2max,Healthy,-1.2090203180467627,2 Cycling,3
+Body Fat,Metabolic Syndrome,0.8659288675704958,2 Running,2
+Body Mass,Metabolic Syndrome,0.8659288675704958,2 Running,2
+Diastolic Blood Pressure,Metabolic Syndrome,0.8659288675704958,2 Running,2
+Fasting Glucose,Metabolic Syndrome,0.8659288675704958,1 Running,2
+HbA1c,Metabolic Syndrome,0.8659288675704958,1 Running,2
+HDL,Metabolic Syndrome,0.8659288675704958,2 Running,2
+HOMA-IR,Metabolic Syndrome,0.8659288675704958,1 Running,2
+Systolic Blood Pressure,Metabolic Syndrome,0.8659288675704958,2 Running,2
+Triglycerides,Metabolic Syndrome,0.8659288675704958,3 Running,2
+VO2max,Metabolic Syndrome,0.8659288675704958,2 Running,0
+BMI,Metabolic Syndrome,0.8278356461430384,0 Running,2
+Body Fat,Metabolic Syndrome,0.8278356461430384,2 Running,2
+Body Mass,Metabolic Syndrome,0.8278356461430384,0 Running,2
+Diastolic Blood Pressure,Metabolic Syndrome,0.8278356461430384,2 Running,2
+Fasting Glucose,Metabolic Syndrome,0.8278356461430384,3 Running,2
+HDL,Metabolic Syndrome,0.8278356461430384,2 Running,2
+LDL,Metabolic Syndrome,0.8278356461430384,3 Running,2
+Systolic Blood Pressure,Metabolic Syndrome,0.8278356461430384,2 Running,2
+Total Cholesterol,Metabolic Syndrome,0.8278356461430384,3 Running,2
+Triglycerides,Metabolic Syndrome,0.8278356461430384,3 Running,2
+VO2max,Metabolic Syndrome,0.8278356461430384,2 Running,0
+BMI,Metabolic Syndrome,0.5262631421190631,3 Cycling,2
+Body Mass,Metabolic Syndrome,0.5262631421190631,2 Cycling,2
+Fasting Glucose,Metabolic Syndrome,0.5262631421190631,3 Cycling,2
+Fasting Insulin,Metabolic Syndrome,0.5262631421190631,0 Cycling,2
+HOMA-IR,Metabolic Syndrome,0.5262631421190631,3 Cycling,2
+VO2max,Metabolic Syndrome,0.5262631421190631,2 Cycling,1
+Body Mass,Cardiac Rehabilitation,1.2983405447871657,1 Running,0
+Diastolic Blood Pressure,Cardiac Rehabilitation,1.2983405447871657,3 Running,0
+Systolic Blood Pressure,Cardiac Rehabilitation,1.2983405447871657,2 Running,0
+VO2max,Cardiac Rehabilitation,1.2983405447871657,2 Running,0
+BMI,Healthy,-1.3219158863842422,3 Running,3
+Body Fat,Healthy,-1.3219158863842422,1 Running,3
+Body Mass,Healthy,-1.3219158863842422,2 Running,3
+Fasting Glucose,Healthy,-1.3219158863842422,3 Running,3
+Fasting Insulin,Healthy,-1.3219158863842422,1 Running,3
+HDL,Healthy,-1.3219158863842422,2 Running,3
+HOMA-IR,Healthy,-1.3219158863842422,3 Running,3
+LDL,Healthy,-1.3219158863842422,3 Running,3
+Total Cholesterol,Healthy,-1.3219158863842422,3 Running,3
+Triglycerides,Healthy,-1.3219158863842422,3 Running,3
+VO2max,Healthy,-1.3219158863842422,2 Running,3
+BMI,Overweight/obese,-0.6718318419522028,3 Cycling,1
+Body Fat,Overweight/obese,-0.6718318419522028,0 Cycling,1
+Body Mass,Overweight/obese,-0.6718318419522028,3 Cycling,1
+C-reactive Protein,Overweight/obese,-0.6718318419522028,3 Cycling,1
+Fasting Glucose,Overweight/obese,-0.6718318419522028,0 Cycling,1
+Fasting Insulin,Overweight/obese,-0.6718318419522028,2 Cycling,1
+Flow-mediated Dilation,Overweight/obese,-0.6718318419522028,0 Cycling,1
+HDL,Overweight/obese,-0.6718318419522028,0 Cycling,1
+HOMA-IR,Overweight/obese,-0.6718318419522028,2 Cycling,1
+LDL,Overweight/obese,-0.6718318419522028,3 Cycling,1
+Total Cholesterol,Overweight/obese,-0.6718318419522028,3 Cycling,1
+VO2max,Overweight/obese,-0.6718318419522028,2 Cycling,1
+Body Mass,Healthy,-1.5773707401235406,3 Cycling,3
+BMI,Healthy,-1.5475773775322987,3 Cycling,3
+Body Mass,Healthy,-1.5475773775322987,3 Cycling,3
+BMI,T2D,0.3039145239045427,3 Cycling,2
+Body Fat,T2D,0.3039145239045427,2 Cycling,1
+Body Mass,T2D,0.3039145239045427,2 Cycling,1
+Fasting Glucose,T2D,0.3039145239045427,3 Cycling,2
+Fasting Insulin,T2D,0.3039145239045427,3 Cycling,2
+HbA1c,T2D,0.3039145239045427,2 Cycling,1
+VO2max,T2D,0.3039145239045427,2 Cycling,1
+BMI,Overweight/obese,-0.4322327958856602,3 Cycling,1
+Body Fat,Overweight/obese,-0.4322327958856602,0 Cycling,1
+Diastolic Blood Pressure,Overweight/obese,-0.4322327958856602,2 Cycling,1
+Fasting Glucose,Overweight/obese,-0.4322327958856602,3 Cycling,1
+Fasting Insulin,Overweight/obese,-0.4322327958856602,3 Cycling,1
+HOMA-IR,Overweight/obese,-0.4322327958856602,3 Cycling,1
+Systolic Blood Pressure,Overweight/obese,-0.4322327958856602,0 Cycling,1
+VO2max,Overweight/obese,-0.4322327958856602,1 Cycling,1
+BMI,Metabolic Syndrome,0.6537335472660373,2 Running,2
+Body Mass,Metabolic Syndrome,0.6537335472660373,2 Running,2
+Diastolic Blood Pressure,Metabolic Syndrome,0.6537335472660373,2 Running,2
+Fasting Glucose,Metabolic Syndrome,0.6537335472660373,3 Running,2
+Fasting Insulin,Metabolic Syndrome,0.6537335472660373,3 Running,2
+HDL,Metabolic Syndrome,0.6537335472660373,2 Running,2
+Triglycerides,Metabolic Syndrome,0.6537335472660373,3 Running,2
+Body Fat,Healthy,-1.535611527138336,0 Cycling,3
+Body Mass,Healthy,-1.535611527138336,0 Cycling,3
+Fasting Glucose,Healthy,-1.535611527138336,3 Cycling,3
+Fasting Insulin,Healthy,-1.535611527138336,2 Cycling,3
+HOMA-IR,Healthy,-1.535611527138336,0 Cycling,3
+BMI,Overweight/obese,-0.0946641625138481,3 Running,1
+Body Fat,Overweight/obese,-0.0946641625138481,3 Running,1
+Body Mass,Overweight/obese,-0.0946641625138481,1 Running,1
+Fasting Insulin,Overweight/obese,-0.0946641625138481,1 Running,1
+HDL,Overweight/obese,-0.0946641625138481,0 Running,1
+HOMA-IR,Overweight/obese,-0.0946641625138481,1 Running,1
+LDL,Overweight/obese,-0.0946641625138481,2 Running,1
+Total Cholesterol,Overweight/obese,-0.0946641625138481,2 Running,1
+VO2max,Overweight/obese,-0.0946641625138481,2 Running,1
+Body Mass,Overweight/obese,-1.4389112804164368,2 Cycling,3
+Fasting Glucose,Overweight/obese,-1.4389112804164368,2 Cycling,3
+Fasting Insulin,Overweight/obese,-1.4389112804164368,2 Cycling,3
+HDL,Overweight/obese,-1.4389112804164368,3 Cycling,3
+LDL,Overweight/obese,-1.4389112804164368,2 Cycling,3
+Total Cholesterol,Overweight/obese,-1.4389112804164368,2 Cycling,3
+Triglycerides,Overweight/obese,-1.4389112804164368,1 Cycling,3

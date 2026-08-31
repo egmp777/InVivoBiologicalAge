@@ -1,0 +1,392 @@
+study,endpoint,population,age,category_age,duration,category_duration,men_ratio,category_men_ratio,type_exercise,bsln,bsln_adjusted,category_bsln,N_HIIE,Mean_HIIE,SD_HIIE,N_MICT,Mean_MICT,SD_MICT,HIIE,desired_effect
+Abdelbasset 2020,BMI,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,36.5,36.5,BMI > 30 kg/m²,16,-2.2,2.47891105124811,15,-2.40000000000001,1.85202591774521,HIIT,decrease
+Abdelbasset 2020,HbA1c,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,47.545,47.545,> 40 mmol/mol,16,-0.4,0.214476105895272,15,-0.4,0.264575131106459,HIIT,decrease
+Abdelbasset 2020,HDL,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,0.97279792746114,0.97279792746114,< 1.3 mmol/L,16,2.1,2.03568170399992,15,2.3,1.88573593061171,HIIT,increase
+Abdelbasset 2020,HOMA-IR,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,4.8,4.8,> 3,16,-0.800000000000001,1.23125951772971,15,-0.8,1.00995049383621,HIIT,decrease
+Abdelbasset 2020,LDL,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,2.5220207253886,2.5220207253886,< 3 mmol/L,16,-5.89999999999999,2.8467525357853,15,-7.10000000000001,3.01264003823889,HIIT,decrease
+Abdelbasset 2020,Total Cholesterol,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,4.98186528497409,4.98186528497409,< 5.2 mmol/L,16,-14.9,5.00599640431353,15,-12.8,4.79353731601205,HIIT,decrease
+Abdelbasset 2020,Triglycerides,T2D,54.65,> 50 y,8,5 - 10 weeks,0.58,> 0.5,Cycling,2.20734463276836,2.20734463276836,> 1.7 mmol/L,16,-20.6,6.20822035691389,15,-19.1,6.71386624829539,HIIT,decrease
+Bækkerud 2016,Body Mass,Overweight/obese,40.0,30 - 50 y,6,5 - 10 weeks,0.41,< 0.5,Running,92.8,30.2,BMI > 30 kg/m²,8,-0.899999999999992,9.99109603597123,9,-0.200000000000003,6.6932802122726,HIIT,decrease
+Bækkerud 2016,Flow-mediated Dilation,Overweight/obese,40.0,30 - 50 y,6,5 - 10 weeks,0.41,< 0.5,Running,6.5,6.5,> 6 %,8,0.699999999999999,3.74259268422306,9,2.7,2.83725219182222,HIIT,increase
+Bækkerud 2016,VO2max,Overweight/obese,40.0,30 - 50 y,6,5 - 10 weeks,0.41,< 0.5,Running,34.05,40.8661047248529,30 - 60%,8,2.8,4.60966376214144,9,0.399999999999999,3.64609380021963,HIIT,increase
+Beetham 2019,Body Fat,Overweight/obese,61.85,> 50 y,12,> 10 weeks,0.7,> 0.5,Running,36.4,30.8,BMI > 30 kg/m²,9,0.1,1.5,5,0.2,2.8,HIIT,decrease
+Beetham 2019,Body Mass,Overweight/obese,61.85,> 50 y,12,> 10 weeks,0.7,> 0.5,Running,85.55,30.8,BMI > 30 kg/m²,9,0.1,2.0,5,-1.3,1.9,HIIT,decrease
+Beetham 2019,Diastolic Blood Pressure,Overweight/obese,61.85,> 50 y,12,> 10 weeks,0.7,> 0.5,Running,77.3,77.3,< 80 mmHg,9,4.3,12.8,5,-11,9.4,HIIT,decrease
+Beetham 2019,Systolic Blood Pressure,Overweight/obese,61.85,> 50 y,12,> 10 weeks,0.7,> 0.5,Running,133.4,133.4,120 - 140 mmHg,9,1.3,15.3,5,-9.8,11.1,HIIT,decrease
+Beetham 2019,VO2max,Overweight/obese,61.85,> 50 y,12,> 10 weeks,0.7,> 0.5,Running,22.0,3.14212987337504,< 30%,9,0.1,2.4,5,1.6,2.3,HIIT,increase
+Burgomaster 2008,Body Fat,Healthy,23.5,< 30 y,6,5 - 10 weeks,0.5,< 0.5,Cycling,24.5,24.05,BMI < 25 kg/m²,10,1.0,3.46410161513776,10,0,3.46410161513776,SIT,decrease
+Burgomaster 2008,Body Mass,Healthy,23.5,< 30 y,6,5 - 10 weeks,0.5,< 0.5,Cycling,72.0,24.05,BMI < 25 kg/m²,10,-1.0,5.19615242270663,10,0,6.92820323027551,SIT,decrease
+Burgomaster 2008,VO2max,Healthy,23.5,< 30 y,6,5 - 10 weeks,0.5,< 0.5,Cycling,41.0,32.5429959186596,30 - 60%,10,3.0,3.46410161513776,10,4,3.46410161513776,SIT,increase
+Ciolac 2010,Diastolic Blood Pressure,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,74.75,74.75,< 80 mmHg,16,-1.19999999999999,2.55695130966548,16,-1,2.9748949561287,HIIT,decrease
+Ciolac 2010,Fasting Glucose,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,4.6509000046509,4.6509000046509,< 5.6 mmol/L,11,0.5,4.29150323313405,11,1,3.33406658601774,HIIT,decrease
+Ciolac 2010,Fasting Insulin,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,58.68525,58.68525,> 40 pmol/L,11,-2.8,1.69528758622247,11,-2.5,1.74928556845359,HIIT,decrease
+Ciolac 2010,HDL,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,1.51683937823834,1.51683937823834,> 1.3 mmol/L,11,2.3,9.0515192095029,11,3.6,5.01846590104984,HIIT,increase
+Ciolac 2010,HOMA-IR,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,1.705,1.705,< 3,16,-0.47,0.49801606399794,16,-0.51,0.387724128730725,HIIT,decrease
+Ciolac 2010,LDL,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,2.74740932642487,2.74740932642487,< 3 mmol/L,11,-12.3,11.7324336776306,11,-6,17.0764164859024,HIIT,decrease
+Ciolac 2010,Systolic Blood Pressure,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,117.05,117.05,< 120 mmHg,16,-0.799999999999997,3.67396243856684,16,-1.89999999999999,3.78259170410976,HIIT,decrease
+Ciolac 2010,Total Cholesterol,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,4.62694300518135,4.62694300518135,< 5.2 mmol/L,11,-9.0,14.3285030620787,11,-2.79999999999998,18.8674322577292,HIIT,decrease
+Ciolac 2010,Triglycerides,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,0.802824858757062,0.802824858757062,< 1.7 mmol/L,11,-0.700000000000003,15.0175230980345,11,2,14.2353433397302,HIIT,decrease
+Ciolac 2010,VO2max,Healthy,25.5,< 30 y,16,> 10 weeks,0,< 0.5,Running,29.6,11.5912348079612,< 30%,11,4.6,2.4429490375364,11,2.4,3.04630924234556,HIIT,increase
+Cocks 2013,BMI,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,23.7,23.7,BMI < 25 kg/m²,8,0.0,1.34461890511773,8,0,2.4265201420965,SIT,decrease
+Cocks 2013,Body Mass,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,73.0,23.7,BMI < 25 kg/m²,8,0.0,4.6475800154489,8,0,7.48331477354789,SIT,decrease
+Cocks 2013,Diastolic Blood Pressure,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,61.5,61.5,< 80 mmHg,8,-3.0,4.6475800154489,8,-4,4.6475800154489,SIT,decrease
+Cocks 2013,Systolic Blood Pressure,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,115.5,115.5,< 120 mmHg,8,-2.0,4.6475800154489,8,-1,7.48331477354789,SIT,decrease
+Cocks 2013,VO2max,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,41.8,35.8544653342298,30 - 60%,8,3.2,3.45485166107027,8,6.5,7.46190324247105,SIT,increase
+Conraads 2015,BMI,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,28.2,28.2,BMI 25 - 30 kg/m²,85,0.100000000000001,2.19931807613178,89,-0.300000000000001,2.32980685894775,HIIT,decrease
+Conraads 2015,Body Mass,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,84.85,28.2,BMI 25 - 30 kg/m²,85,0.5,7.86511284089428,89,-0.5,7.49186225180362,HIIT,decrease
+Conraads 2015,C-reactive Protein,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,1.2524635,1.2524635,< 2 mg/L,85,-0.106181,0.894557385515205,89,-0.198741,0.948535474699708,HIIT,decrease
+Conraads 2015,Diastolic Blood Pressure,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,76.0,76.0,< 80 mmHg,85,-1.09999999999999,6.05970296301725,89,-3.7,8.20365772079747,HIIT,decrease
+Conraads 2015,Fasting Glucose,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,5.345,5.345,< 5.6 mmol/L,85,0.19,0.766446345154049,89,0.18,0.762141719104787,HIIT,decrease
+Conraads 2015,Flow-mediated Dilation,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,5.435,5.435,< 6 %,85,1.21,1.60643705136554,89,1.07,1.64943020464644,HIIT,increase
+Conraads 2015,HDL,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,1.12,1.12,< 1.3 mmol/L,85,0.0800000000000001,0.145464772367745,89,0.0899999999999999,0.164134091522755,HIIT,increase
+Conraads 2015,LDL,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,1.93,1.93,< 3 mmol/L,85,0.0900000000000001,0.285464533699022,89,0.0699999999999998,0.36149688795341,HIIT,decrease
+Conraads 2015,Systolic Blood Pressure,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,126.5,126.5,120 - 140 mmHg,85,0.0,7.83243257232387,89,-6,9.15630930014927,HIIT,decrease
+Conraads 2015,Total Cholesterol,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,3.605,3.605,< 5.2 mmol/L,85,0.17,0.398145701973536,89,0.16,0.42722359485403,HIIT,decrease
+Conraads 2015,Triglycerides,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,1.385,1.385,< 1.7 mmol/L,85,-0.02,0.524785670536077,89,-0.03,0.263609559765954,HIIT,decrease
+Conraads 2015,VO2max,Cardiac Rehabilitation,58.5,> 50 y,12,> 10 weeks,0.9,> 0.5,Cycling,22.95,3.04228603214796,< 30%,85,5.1,3.63854366470982,89,4.4,3.5307223057046,HIIT,increase
+Currie 2015,BMI,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,28.1,28.1,BMI 25 - 30 kg/m²,9,-0.399999999999999,2.6581948762271,10,-0.300000000000001,2.29128784747792,HIIT,decrease
+Currie 2015,Body Mass,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,84.9,28.1,BMI 25 - 30 kg/m²,9,-1.2,8.77200091199266,10,-1.39999999999999,9.34301878409756,HIIT,decrease
+Currie 2015,Diastolic Blood Pressure,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,62.5,62.5,< 80 mmHg,9,2.0,4.72228758124704,10,-4,3.68781778291716,HIIT,decrease
+Currie 2015,HDL,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,1.04,1.04,< 1.3 mmol/L,9,0.11,0.226053091109146,10,-0.06,0.114236596587959,HIIT,increase
+Currie 2015,LDL,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,1.725,1.725,< 3 mmol/L,9,-0.01,0.310805405358401,10,-0.35,0.505014851266772,HIIT,decrease
+Currie 2015,Systolic Blood Pressure,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,123.0,123.0,120 - 140 mmHg,9,-3.0,6.6932802122726,10,-6,5.29150262212918,HIIT,decrease
+Currie 2015,Total Cholesterol,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,3.16,3.16,< 5.2 mmol/L,9,0.12,0.295330323536206,10,-0.37,0.602079728939615,HIIT,decrease
+Currie 2015,Triglycerides,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,0.905,0.905,< 1.7 mmol/L,9,0.0299999999999999,0.129151074327704,10,0.1,0.269221098727421,HIIT,decrease
+Currie 2015,VO2max,Cardiac Rehabilitation,64.5,> 50 y,12,> 10 weeks,0.95,> 0.5,Cycling,20.45,2.67611742463095,< 30%,9,5.3,2.9593918294136,10,3.4,4.02690948495245,HIIT,increase
+Earnest 2013,Body Fat,Overweight/obese,48.5,30 - 50 y,6,5 - 10 weeks,1,> 0.5,Running,29.005,30.925,BMI > 30 kg/m²,21,-0.829999999999998,2.49155663121054,16,-0.169999999999998,3.2471357193048,HIIT,decrease
+Earnest 2013,Body Mass,Overweight/obese,48.5,30 - 50 y,6,5 - 10 weeks,1,> 0.5,Running,96.395,30.925,BMI > 30 kg/m²,21,-2.28999999999999,7.513421926916,16,-1.31999999999999,10.2702809808742,HIIT,decrease
+Earnest 2013,VO2max,Overweight/obese,48.5,30 - 50 y,6,5 - 10 weeks,1,> 0.5,Running,28.915,6.59715791479914,< 30%,21,2.94,2.13352946552331,16,3.1,2.37062554937023,HIIT,increase
+Eguchi 2012,BMI,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,25.05,25.05,BMI 25 - 30 kg/m²,10,-0.5,1.95524934471284,10,-0.399999999999999,2.10713075057055,HIIT,decrease
+Eguchi 2012,Body Fat,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,36.15,25.05,BMI 25 - 30 kg/m²,10,-0.5,3.21340940435544,10,-0.299999999999997,3.12793861832358,HIIT,decrease
+Eguchi 2012,Body Mass,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,62.45,25.05,BMI 25 - 30 kg/m²,10,-1.3,5.65915187991982,10,-0.899999999999999,5.5989284689126,HIIT,decrease
+Eguchi 2012,Diastolic Blood Pressure,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,78.25,78.25,< 80 mmHg,10,-5.0,6.78078166585534,10,-5,5.9,HIIT,decrease
+Eguchi 2012,Fasting Glucose,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,5.439000005439,5.439000005439,< 5.6 mmol/L,10,-0.599999999999994,3.06724632202893,10,0.699999999999989,5.57853027239254,HIIT,decrease
+Eguchi 2012,HbA1c,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,34.70225,34.70225,< 40 mmol/mol,10,-0.11,0.195140974682407,10,-0.12,0.16431676725155,HIIT,decrease
+Eguchi 2012,HDL,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,1.52849740932642,1.52849740932642,> 1.3 mmol/L,10,-2.9,5.65437883414262,10,-3.6,9.19086503001758,HIIT,increase
+Eguchi 2012,LDL,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,3.30958549222798,3.30958549222798,> 3 mmol/L,10,-9.59999999999999,18.8556092449966,10,-4.90000000000001,17.6344832643318,HIIT,decrease
+Eguchi 2012,Systolic Blood Pressure,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,125.15,125.15,120 - 140 mmHg,10,-10.0,11.5704364654061,10,-10.5,11.4554353911146,HIIT,decrease
+Eguchi 2012,Total Cholesterol,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,5.59585492227979,5.59585492227979,> 5.2 mmol/L,10,-2.79999999999998,14.6912218688576,10,-11.1,14.279950980308,HIIT,decrease
+Eguchi 2012,Triglycerides,Healthy,51.0,> 50 y,12,> 10 weeks,1,> 0.5,Cycling,2.06158192090396,2.06158192090396,> 1.7 mmol/L,10,30.6,139.69790621194,10,-71.1,173.121922355316,HIIT,decrease
+Fisher 2015,BMI,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,29.5,29.5,BMI 25 - 30 kg/m²,13,-0.26,0.83,10,-0.35,0.75,SIT,decrease
+Fisher 2015,Body Fat,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,31.785,29.5,BMI 25 - 30 kg/m²,13,-0.88,1.41,10,-1.28,2.2,SIT,decrease
+Fisher 2015,Body Mass,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,92.0,29.5,BMI 25 - 30 kg/m²,13,-0.82,2.57,10,-1.09,2.42,SIT,decrease
+Fisher 2015,Diastolic Blood Pressure,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,70.0,70.0,< 80 mmHg,13,1.6,7.7,10,-4.6,6.4,SIT,decrease
+Fisher 2015,HDL,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,1.25647668393782,1.25647668393782,< 1.3 mmol/L,13,-1.4,7.9,10,-2,5.1,SIT,increase
+Fisher 2015,HOMA-IR,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,2.73,2.73,< 3,13,0.16,2.35,10,-0.27,0.4,SIT,decrease
+Fisher 2015,LDL,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,2.47020725388601,2.47020725388601,< 3 mmol/L,13,-4.78,16.9,10,-7.8,18.6,SIT,decrease
+Fisher 2015,Systolic Blood Pressure,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,128.0,128.0,120 - 140 mmHg,13,-0.3,11.1,10,-4.6,11.4,SIT,decrease
+Fisher 2015,Total Cholesterol,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,4.30440414507772,4.30440414507772,< 5.2 mmol/L,13,-9.2,17.6,10,-12.9,26.4,SIT,decrease
+Fisher 2015,Triglycerides,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,1.41694915254237,1.41694915254237,< 1.7 mmol/L,13,-15.3,46.3,10,-15.7,47.4,SIT,decrease
+Fisher 2015,VO2max,Overweight/obese,20.0,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,35.335,10.9664984766895,< 30%,13,0.84,3.5,10,3.4,3.36,SIT,increase
+Gillen 2016,BMI,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,26.5,26.5,BMI 25 - 30 kg/m²,9,-1.0,2.73861278752583,10,0,3.286335345031,SIT,decrease
+Gillen 2016,Body Fat,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,28.5,26.5,BMI 25 - 30 kg/m²,9,-2.0,4.2190046219458,10,-2,5.47722557505166,SIT,decrease
+Gillen 2016,Body Mass,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,84.0,26.5,BMI 25 - 30 kg/m²,9,-1.0,12.36122971229,10,-2,10.9544511501033,SIT,decrease
+Gillen 2016,Fasting Glucose,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,5.15,5.15,< 5.6 mmol/L,9,0.4,0.66932802122726,10,0.4,0.475394572960188,SIT,decrease
+Gillen 2016,Fasting Insulin,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,68.061,68.061,> 40 pmol/L,9,-1.7,2.82116997006561,10,-1.7,3.63730669589464,SIT,decrease
+Gillen 2016,HOMA-IR,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,2.25,2.25,< 3,9,-0.2,0.692820323027551,10,-0.1,1.1216059914248,SIT,decrease
+Gillen 2016,VO2max,Healthy,27.5,< 30 y,12,> 10 weeks,1,> 0.5,Cycling,31.545,5.372763409663,< 30%,9,5.19,5.02634857525819,10,6.88,3.30318028572465,SIT,increase
+Gorostiaga 1991,Body Mass,Healthy,27.0,< 30 y,8,5 - 10 weeks,0.25,< 0.5,Cycling,74.6,22.0,BMI < 25 kg/m²,6,-2.7,8.28130424510536,6,0.299999999999997,12.814835153056,SIT,decrease
+Gorostiaga 1991,VO2max,Healthy,27.0,< 30 y,8,5 - 10 weeks,0.25,< 0.5,Cycling,36.5,42.5901523352721,30 - 60%,6,5.90000000000001,2.35074456289917,6,2.7,2.06688170924221,SIT,increase
+Granata 2015,Body Mass,Healthy,21.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,80.7,24.65,BMI < 25 kg/m²,11,-0.200000000000003,7.43720377561352,9,-0.700000000000003,5.8637871721269,HIIT,decrease
+Granata 2015,Body Mass,Healthy,21.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,80.7,24.65,BMI < 25 kg/m²,9,0.299999999999997,10.3456270955414,9,-0.700000000000003,5.8637871721269,SIT,decrease
+Grieco 2013,BMI,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,25.1,25.1,BMI 25 - 30 kg/m²,12,0.0999999999999979,1.94679223339318,10,-0.100000000000001,3.83405790253616,HIIT,decrease
+Grieco 2013,Body Fat,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,18.5,25.1,BMI 25 - 30 kg/m²,12,1.6,6.43086308359928,10,-0.699999999999999,6.47085774839781,HIIT,decrease
+Grieco 2013,Body Mass,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,73.05,25.1,BMI 25 - 30 kg/m²,12,0.5,7.10928969729044,10,-0.5,11.0917987720658,HIIT,decrease
+Grieco 2013,Fasting Glucose,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,4.8,4.8,< 5.6 mmol/L,12,-0.2,0.291547594742265,10,0,0.264575131106459,HIIT,decrease
+Grieco 2013,Fasting Insulin,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,29.3,29.3,< 40 pmol/L,12,5.2,13.9596561562239,10,19.1,57.8444033593571,HIIT,decrease
+Grieco 2013,HDL,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,1.45,1.45,> 1.3 mmol/L,12,-0.1,0.273861278752583,10,0,0.167332005306815,HIIT,increase
+Grieco 2013,HOMA-IR,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,0.895,0.895,< 3,12,0.13,0.46,10,0.53,1.75035996297904,HIIT,decrease
+Grieco 2013,Total Cholesterol,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,4.2,4.2,< 5.2 mmol/L,12,-0.3,0.438178046004133,10,0.1,0.428952211790544,HIIT,decrease
+Grieco 2013,VO2max,Healthy,22.0,< 30 y,4,< 5 weeks,0.5,< 0.5,Cycling,39.15,23.3744759950028,< 30%,12,5.7,5.58462174189085,10,2.2,6.00599700299626,HIIT,increase
+Helgerud 2007,Body Mass,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,83.2333333333333,24.55,BMI < 25 kg/m²,10,-1.5,6.89359122663942,10,-2.3,4.79562300436554,HIIT,decrease
+Helgerud 2007,Body Mass,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,83.2333333333333,24.55,BMI < 25 kg/m²,10,-0.799999999999997,5.66895052015803,10,-2.3,4.79562300436554,SIT,decrease
+Helgerud 2007,HDL,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,1.25,1.25,< 1.3 mmol/L,10,-0.06,0.184797186125763,10,0.05,0.1236122971229,HIIT,increase
+Helgerud 2007,LDL,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,2.85,2.85,< 3 mmol/L,10,0.0,0.28,10,-0.0899999999999999,0.500449797682046,HIIT,decrease
+Helgerud 2007,Total Cholesterol,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,3.248,3.248,< 5.2 mmol/L,10,0.15,0.488931078987622,10,0.132,0.562777398266846,HIIT,decrease
+Helgerud 2007,Triglycerides,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,0.99,0.99,< 1.7 mmol/L,10,-0.1,0.333301665162357,10,-0.14,0.303578655376164,HIIT,decrease
+Helgerud 2007,VO2max,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,57.2666666666667,95.7148254209896,> 60%,10,4.9,4.02690948495245,10,1,3.54457331705806,HIIT,increase
+Helgerud 2007,VO2max,Healthy,24.6,< 30 y,8,5 - 10 weeks,1,> 0.5,Running,57.2666666666667,95.7148254209896,> 60%,10,3.90000000000001,2.85096474899288,10,1,3.54457331705806,SIT,increase
+Henriksson 1976,VO2max,Healthy,24.0,< 30 y,7.5,5 - 10 weeks,1,> 0.5,Cycling,46.98,66.3656810599858,> 60%,4,1.73,6.67184382311217,5,5.38,6.20748580344732,HIIT,increase
+Honkala 2017 (Healthy),BMI,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,26.15,26.15,BMI 25 - 30 kg/m²,14,-0.199999999999999,1.35436081726307,14,0,1.35436081726307,SIT,decrease
+Honkala 2017 (Healthy),Body Fat,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,22.55,26.15,BMI 25 - 30 kg/m²,14,-1.0,2.32414308562557,14,-0.799999999999997,2.32414308562557,SIT,decrease
+Honkala 2017 (Healthy),Body Mass,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,83.6,26.15,BMI 25 - 30 kg/m²,14,-0.5,5.4071900359452,14,0,5.4071900359452,SIT,decrease
+Honkala 2017 (Healthy),Diastolic Blood Pressure,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,79.0,79.0,< 80 mmHg,14,0.0,3.1935638871749,14,1,2.84588949260274,SIT,decrease
+Honkala 2017 (Healthy),Fasting Glucose,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,5.45,5.45,< 5.6 mmol/L,14,0.4,0.365355925742407,14,0.2,0.379451932347032,SIT,decrease
+Honkala 2017 (Healthy),Fasting Insulin,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,32.6415,32.6415,< 40 pmol/L,14,1.0,1.94083110351544,14,1.3,1.89982713031235,SIT,decrease
+Honkala 2017 (Healthy),HbA1c,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,37.05,37.05,< 40 mmol/mol,14,-1.3,2.69150206685698,14,-3.2,2.39673787661667,SIT,decrease
+Honkala 2017 (Healthy),HDL,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,1.4,1.4,> 1.3 mmol/L,14,-0.2,0.185731287923677,14,-0.0999999999999999,0.189725966173516,SIT,increase
+Honkala 2017 (Healthy),LDL,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,3.15,3.15,> 3 mmol/L,14,-0.6,0.411680573643651,14,-0.2,0.379451932347032,SIT,decrease
+Honkala 2017 (Healthy),Systolic Blood Pressure,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,126.0,126.0,120 - 140 mmHg,14,1.0,4.11680573643651,14,3,3.79451932347032,SIT,decrease
+Honkala 2017 (Healthy),Total Cholesterol,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,4.9,4.9,< 5.2 mmol/L,14,-0.7,0.502714144565937,14,-0.3,0.426883423890411,SIT,decrease
+Honkala 2017 (Healthy),Triglycerides,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,0.95,0.95,< 1.7 mmol/L,14,-0.1,0.229115871196268,14,-0.2,0.185731287923677,SIT,decrease
+Honkala 2017 (Healthy),VO2max,Healthy,47.5,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,34.2,20.026270866124,< 30%,14,2.0,1.20498962651137,14,1,1.20498962651137,SIT,increase
+Honkala 2017 (T2D),BMI,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,30.45,30.45,BMI > 30 kg/m²,9,-0.100000000000001,1.35386512544264,7,0,1.20039494972836,SIT,decrease
+Honkala 2017 (T2D),Body Fat,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,28.85,30.45,BMI > 30 kg/m²,9,-1.1,2.31582192509926,7,-0.5,2.05866035490628,SIT,decrease
+Honkala 2017 (T2D),Body Mass,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,96.35,30.45,BMI > 30 kg/m²,9,-0.200000000000003,5.09480823521838,7,-0.0999999999999943,4.65777739243249,SIT,decrease
+Honkala 2017 (T2D),Diastolic Blood Pressure,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,87.5,87.5,80 - 90 mmHg,9,-6.0,3.09232688941882,7,-5,2.86074874202131,SIT,decrease
+Honkala 2017 (T2D),Fasting Glucose,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,7.25,7.25,> 5.6 mmol/L,9,-0.3,0.344199466602042,7,0.2,0.325727189832144,SIT,decrease
+Honkala 2017 (T2D),Fasting Insulin,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,100.7025,100.7025,> 40 pmol/L,9,-0.9,4.34842011070327,7,-1,4.01539778293492,SIT,decrease
+Honkala 2017 (T2D),HbA1c,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,39.7,39.7,< 40 mmol/mol,9,-2.2,2.24805056059074,7,-1.7,2.10499127766299,SIT,decrease
+Honkala 2017 (T2D),HDL,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,1.2,1.2,< 1.3 mmol/L,9,-0.2,0.139511527291526,7,-0.0999999999999999,0.148057813560065,SIT,increase
+Honkala 2017 (T2D),LDL,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,2.75,2.75,< 3 mmol/L,9,-0.2,0.379289339023391,7,-0.2,0.370243225952017,SIT,decrease
+Honkala 2017 (T2D),Systolic Blood Pressure,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,139.5,139.5,120 - 140 mmHg,9,-2.0,3.56280296169117,7,-9,3.44479765432107,SIT,decrease
+Honkala 2017 (T2D),Total Cholesterol,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,4.7,4.7,< 5.2 mmol/L,9,-0.5,0.411397049800399,7,-0.2,0.444173440680196,SIT,decrease
+Honkala 2017 (T2D),Triglycerides,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,1.7,1.7,> 1.7 mmol/L,9,-0.2,0.344199466602042,7,-0.2,0.325727189832144,SIT,decrease
+Honkala 2017 (T2D),VO2max,T2D,47.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,29.45,6.87310842240665,< 30%,9,1.9,1.58839541676498,7,-0.899999999999999,1.69793992826602,SIT,increase
+Hovanloo 2013,C-reactive Protein,Healthy,23.5,< 30 y,2,< 5 weeks,0.5,< 0.5,Cycling,0.41745,0.41745,< 2 mg/L,8,-0.03183,0.3477,8,-0.16,0.22,SIT,decrease
+Hovanloo 2013,HOMA-IR,Healthy,23.5,< 30 y,2,< 5 weeks,0.5,< 0.5,Cycling,1.475,1.475,< 3,8,-0.53,0.65,8,0.01,0.22,SIT,decrease
+Jo 2020,BMI,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,24.9,24.9,BMI < 25 kg/m²,17,-0.299999999999997,1.53362316101446,17,-0.5,1.70132301459776,HIIT,decrease
+Jo 2020,Body Mass,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,67.7,24.9,BMI < 25 kg/m²,17,-0.800000000000011,6.7705243519243,17,-1.09999999999999,6.38748776906852,HIIT,decrease
+Jo 2020,Diastolic Blood Pressure,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,86.4,86.4,80 - 90 mmHg,17,-7.10000000000001,4.53596737201669,17,-7.80000000000001,4.25464452099115,HIIT,decrease
+Jo 2020,Fasting Glucose,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,5.60827500560828,5.60827500560828,> 5.6 mmol/L,17,-0.700000000000003,6.38169256545628,17,-0.799999999999997,5.39592438790612,HIIT,decrease
+Jo 2020,Flow-mediated Dilation,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,7.425,7.425,> 6 %,17,6.1,3.286335345031,17,2.9,3.68457324530264,HIIT,increase
+Jo 2020,HDL,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,1.22668393782383,1.22668393782383,< 1.3 mmol/L,17,1.40000000000001,4.57449450759316,17,3.1,7.07728761602918,HIIT,increase
+Jo 2020,LDL,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,2.79015544041451,2.79015544041451,< 3 mmol/L,17,-5.90000000000001,18.768057970925,17,-3.2,17.8052801157409,HIIT,decrease
+Jo 2020,Systolic Blood Pressure,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,139.15,139.15,120 - 140 mmHg,17,-9.40000000000001,7.92098478725973,17,-10.6,5.93902348875638,HIIT,decrease
+Jo 2020,Total Cholesterol,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,4.85233160621762,4.85233160621762,< 5.2 mmol/L,17,-25.0,23.1058434167636,17,-7,16.7051189759307,HIIT,decrease
+Jo 2020,Triglycerides,Metabolic Syndrome,50.85,> 50 y,8,5 - 10 weeks,0.53,> 0.5,Running,1.81186440677966,1.81186440677966,> 1.7 mmol/L,17,-30.6,43.3619187767331,17,-15.4,17.7316101919707,HIIT,decrease
+Keating 2014,Body Fat,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,42.35,28.35,BMI 25 - 30 kg/m²,11,-0.5,3.49428104193123,11,-1,4.02119385257662,HIIT,decrease
+Keating 2014,Body Mass,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,78.4,28.35,BMI 25 - 30 kg/m²,11,0.200000000000003,5.77607132919946,11,-0.799999999999997,3.14642654451046,HIIT,decrease
+Keating 2014,C-reactive Protein,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,3.7,3.7,> 2 mg/L,11,0.2,2.4863628053846,11,-1.1,3.35618831414449,HIIT,decrease
+Keating 2014,Diastolic Blood Pressure,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,77.6,77.6,< 80 mmHg,11,-2.89999999999999,4.28088775839778,11,-3.5,4.90815647672321,HIIT,decrease
+Keating 2014,Fasting Glucose,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,4.35,4.35,< 5.6 mmol/L,11,-0.1,0.419523539268061,11,0.1,0.18165902124585,HIIT,decrease
+Keating 2014,Fasting Insulin,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,57.6435,57.6435,> 40 pmol/L,11,-0.6,2.0738852427268,11,-0.699999999999999,2.46414285300183,HIIT,decrease
+Keating 2014,HDL,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,1.55,1.55,> 1.3 mmol/L,11,0.0,0.363318042491699,11,0,0.18165902124585,HIIT,increase
+Keating 2014,LDL,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,3.25,3.25,> 3 mmol/L,11,0.0,0.363318042491699,11,0.3,0.554977477020464,HIIT,decrease
+Keating 2014,Systolic Blood Pressure,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,119.5,119.5,< 120 mmHg,11,-5.60000000000001,6.82451463475609,11,-4.3,8.37472387604511,HIIT,decrease
+Keating 2014,Total Cholesterol,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,5.35,5.35,> 5.2 mmol/L,11,0.0,0.554977477020464,11,0.2,0.554977477020464,HIIT,decrease
+Keating 2014,Triglycerides,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,1.25,1.25,< 1.7 mmol/L,11,0.0,0.419523539268061,11,-0.0999999999999999,0.419523539268061,HIIT,decrease
+Keating 2014,VO2max,Overweight/obese,43.0,30 - 50 y,12,> 10 weeks,0.227272727272727,< 0.5,Cycling,24.65,5.96030621686462,< 30%,11,5.1,2.54322629744189,11,4.3,2.63248931621764,HIIT,increase
+Keteyian 2014,Diastolic Blood Pressure,Cardiac Rehabilitation,59.0,> 50 y,10,5 - 10 weeks,0.828205128205128,> 0.5,Running,76.0,76.0,< 80 mmHg,15,-7.0,5.80517010948,13,0,6.43428317685816,HIIT,decrease
+Keteyian 2014,Systolic Blood Pressure,Cardiac Rehabilitation,59.0,> 50 y,10,5 - 10 weeks,0.828205128205128,> 0.5,Running,121.0,121.0,120 - 140 mmHg,15,-9.0,9.48683298050514,13,2,14.1703916671347,HIIT,decrease
+Keteyian 2014,VO2max,Cardiac Rehabilitation,59.0,> 50 y,10,5 - 10 weeks,0.828205128205128,> 0.5,Running,22.1,2.55822070819002,< 30%,15,3.6,3.21309819333303,13,1.7,2.42487113059643,HIIT,increase
+Kim 2015,C-reactive Protein,Cardiac Rehabilitation,58.6,> 50 y,6,5 - 10 weeks,0.785714285714286,> 0.5,Running,1.495,1.495,< 2 mg/L,14,-1.14,3.11916014337193,14,-1.72,1.70770313579381,HIIT,decrease
+Kim 2015,HDL,Cardiac Rehabilitation,58.6,> 50 y,6,5 - 10 weeks,0.785714285714286,> 0.5,Running,1.02603626943005,1.02603626943005,< 1.3 mmol/L,14,0.0,4.21725028899163,14,-0.0700000000000003,3.82014528519532,HIIT,increase
+Kim 2015,LDL,Cardiac Rehabilitation,58.6,> 50 y,6,5 - 10 weeks,0.785714285714286,> 0.5,Running,3.0550518134715,3.0550518134715,> 3 mmol/L,14,-46.57,14.4589110931633,14,-30.64,25.9637564693555,HIIT,decrease
+Kim 2015,Total Cholesterol,Cardiac Rehabilitation,58.6,> 50 y,6,5 - 10 weeks,0.785714285714286,> 0.5,Running,4.63067357512953,4.63067357512953,< 5.2 mmol/L,14,-45.67,24.1298428258454,14,-26.752,32.5318312303504,HIIT,decrease
+Kim 2015,Triglycerides,Cardiac Rehabilitation,58.6,> 50 y,6,5 - 10 weeks,0.785714285714286,> 0.5,Running,1.19853107344633,1.19853107344633,< 1.7 mmol/L,14,4.5,27.7122088617995,14,19.79,36.8558228778032,HIIT,decrease
+Kim 2015,VO2max,Cardiac Rehabilitation,58.6,> 50 y,6,5 - 10 weeks,0.785714285714286,> 0.5,Running,28.135,10.6895072032101,< 30%,14,6.46,4.20612410658554,14,2.47,4.63299579106219,HIIT,increase
+Klonizakis 2014,Body Mass,Healthy,64.0,> 50 y,2,< 5 weeks,0,< 0.5,Cycling,62.65,22.85,BMI < 25 kg/m²,11,-0.299999999999997,3.31511689085016,7,0,7.4222638056054,HIIT,decrease
+Klonizakis 2014,Diastolic Blood Pressure,Healthy,64.0,> 50 y,2,< 5 weeks,0,< 0.5,Cycling,69.0,69.0,< 80 mmHg,11,-2.0,2.14476105895272,7,-3,4.72228758124704,HIIT,decrease
+Klonizakis 2014,Flow-mediated Dilation,Healthy,64.0,> 50 y,2,< 5 weeks,0,< 0.5,Cycling,8.5,8.5,> 6 %,11,-1.6,4.49911102330227,7,-1.9,4.81154860725734,HIIT,increase
+Klonizakis 2014,Systolic Blood Pressure,Healthy,64.0,> 50 y,2,< 5 weeks,0,< 0.5,Cycling,120.5,120.5,120 - 140 mmHg,11,-7.0,8.96660470858396,7,-2,6.91375440697744,HIIT,decrease
+Klonizakis 2014,VO2max,Healthy,64.0,> 50 y,2,< 5 weeks,0,< 0.5,Cycling,22.7,9.73371573789021,< 30%,11,2.2,1.80333025261598,7,1.7,3.99849971864448,HIIT,increase
+Lira 2017,Fasting Glucose,Healthy,26.36,< 30 y,5,< 5 weeks,1,> 0.5,Running,4.4091975044092,4.4091975044092,< 5.6 mmol/L,10,2.43000000000001,6.65819389924926,10,-0.980000000000004,5.4539502839685,HIIT,decrease
+Lunt 2014,BMI,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,32.4,32.5,BMI > 30 kg/m²,9,0.0,1.7632356620713,14,-0.100000000000001,1.86225669551756,HIIT,decrease
+Lunt 2014,BMI,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,32.4,32.5,BMI > 30 kg/m²,9,-0.100000000000001,1.58839541676498,14,-0.100000000000001,1.86225669551756,SIT,decrease
+Lunt 2014,Body Fat,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,39.7333333333333,32.5,BMI > 30 kg/m²,9,-0.5,3.01860895115614,14,-0.5,2.87715136897592,HIIT,decrease
+Lunt 2014,Body Fat,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,39.7333333333333,32.5,BMI > 30 kg/m²,9,-1.1,2.75354317198769,14,-0.5,2.87715136897592,SIT,decrease
+Lunt 2014,Diastolic Blood Pressure,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,80.9,80.9,80 - 90 mmHg,9,-3.40000000000001,4.2142615011411,14,-1.90000000000001,7.75164498671088,HIIT,decrease
+Lunt 2014,Diastolic Blood Pressure,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,80.9,80.9,80 - 90 mmHg,9,-5.39999999999999,6.06885491670381,14,-1.90000000000001,7.75164498671088,SIT,decrease
+Lunt 2014,HDL,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,1.29533678756477,1.29533678756477,< 1.3 mmol/L,9,-1.0,6.3718129288296,14,-2,4.9295030175465,HIIT,increase
+Lunt 2014,HDL,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,1.29533678756477,1.29533678756477,< 1.3 mmol/L,9,-2.0,8.0,14,-2,4.9295030175465,SIT,increase
+Lunt 2014,HOMA-IR,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,1.33179578133333,1.33179578133333,< 3,9,0.016468412,0.390281949364815,14,-0.133959897,0.389358446678636,HIIT,decrease
+Lunt 2014,HOMA-IR,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,1.33179578133333,1.33179578133333,< 3,9,-0.0215641169999998,0.436394317103237,14,-0.133959897,0.389358446678636,SIT,decrease
+Lunt 2014,Systolic Blood Pressure,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,127.033333333333,127.033333333333,120 - 140 mmHg,9,-2.90000000000001,7.21858711937454,14,-5.2,11.3964468146875,HIIT,decrease
+Lunt 2014,Systolic Blood Pressure,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,127.033333333333,127.033333333333,120 - 140 mmHg,9,-6.5,7.39026386538397,14,-5.2,11.3964468146875,SIT,decrease
+Lunt 2014,Total Cholesterol,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,5.59585492227979,5.59585492227979,> 5.2 mmol/L,9,-1.0,22.6185764361951,14,-16,19.5524934471284,HIIT,decrease
+Lunt 2014,Total Cholesterol,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,5.59585492227979,5.59585492227979,> 5.2 mmol/L,9,-7.0,30.0316499713219,14,-16,19.5524934471284,SIT,decrease
+Lunt 2014,Triglycerides,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,0.772128060263653,0.772128060263653,< 1.7 mmol/L,9,-1.0,31.3464511547958,14,-6,17.9610690105016,HIIT,decrease
+Lunt 2014,Triglycerides,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,0.772128060263653,0.772128060263653,< 1.7 mmol/L,9,8.0,20.4743742273116,14,-6,17.9610690105016,SIT,decrease
+Lunt 2014,VO2max,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,25.2333333333333,9.01478285130732,< 30%,9,1.4,2.6290682760248,14,-1.3,2.93496166925566,HIIT,increase
+Lunt 2014,VO2max,Overweight/obese,49.1,30 - 50 y,12,> 10 weeks,0.444444444444444,< 0.5,Running,25.2333333333333,9.01478285130732,< 30%,9,0.199999999999999,1.79332094171679,14,-1.3,2.93496166925566,SIT,increase
+Macpherson 2011,Body Fat,Healthy,23.6,< 30 y,6,5 - 10 weeks,0.6,> 0.5,Cycling,19.6,24.7,BMI < 25 kg/m²,10,-1.8,3.84551687033096,10,-1.1,5.18083004932607,SIT,decrease
+Macpherson 2011,Body Mass,Healthy,23.6,< 30 y,6,5 - 10 weeks,0.6,> 0.5,Cycling,72.4,24.7,BMI < 25 kg/m²,10,-1.09999999999999,7.94732659452221,10,-0.299999999999997,5.10832653615644,SIT,decrease
+Macpherson 2011,VO2max,Healthy,23.6,< 30 y,6,5 - 10 weeks,0.6,> 0.5,Cycling,45.4,57.4481206213417,30 - 60%,10,5.40000000000001,3.45036229981722,10,5.5,4.78946761133218,SIT,increase
+Madssen 2014,BMI,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,26.8,26.8,BMI 25 - 30 kg/m²,15,0.0999999999999979,1.95281740486222,21,0,2.23605679947165,HIIT,decrease
+Madssen 2014,C-reactive Protein,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,3.205,3.205,> 2 mg/L,15,-1.25,2.45708984282974,21,-0.13,1.58948002450141,HIIT,decrease
+Madssen 2014,Fasting Glucose,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,6.1,6.1,> 5.6 mmol/L,15,-0.15,0.809579593719055,21,0.0500000000000007,0.463428735119417,HIIT,decrease
+Madssen 2014,Flow-mediated Dilation,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,10.375,10.375,> 6 %,15,3.35,4.57789338407402,21,5.1,9.09193412845448,HIIT,increase
+Madssen 2014,HbA1c,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,40.4405,40.4405,> 40 mmol/mol,15,0.0,0.827506038212552,21,-0.1,0.300817840659209,HIIT,decrease
+Madssen 2014,HDL,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,1.25,1.25,< 1.3 mmol/L,15,0.05,0.193646853314403,21,0.0999999999999999,0.240654272527367,HIIT,increase
+Madssen 2014,LDL,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,2.45,2.45,< 3 mmol/L,15,-0.15,0.28551670855916,21,-0.1,0.320245046321383,HIIT,decrease
+Madssen 2014,Total Cholesterol,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,4.3,4.3,< 5.2 mmol/L,15,0.0,0.477760833918058,21,0.0499999999999998,0.290617644064518,HIIT,decrease
+Madssen 2014,Triglycerides,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,1.325,1.325,< 1.7 mmol/L,15,-0.0499999999999998,0.494529445634302,21,0.15,0.503364525095714,HIIT,decrease
+Madssen 2014,VO2max,Cardiac Rehabilitation,58.0,> 50 y,12,> 10 weeks,0.823809523809524,> 0.5,Running,31.075,19.4988689768884,< 30%,15,3.55,2.66648760720397,21,1.65,3.7617067501867,HIIT,increase
+Maillard 2016,BMI,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,31.15,31.15,BMI > 30 kg/m²,8,-0.200000000000003,2.57060304208954,8,0.199999999999999,1.95550504985285,HIIT,decrease
+Maillard 2016,Body Fat,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,37.05,31.15,BMI > 30 kg/m²,8,-1.0,2.5377155080899,8,-1.2,2.01395134002786,HIIT,decrease
+Maillard 2016,Body Mass,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,76.7,31.15,BMI > 30 kg/m²,8,-0.0999999999999943,8.05580536011143,8,0.599999999999994,5.35163526410386,HIIT,decrease
+Maillard 2016,Fasting Glucose,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,9.05,9.05,> 5.6 mmol/L,8,0.300000000000001,1.1933147112141,8,0.4,1.76861527755473,HIIT,decrease
+Maillard 2016,HbA1c,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,58.475,58.475,> 40 mmol/mol,8,-0.1,0.46475800154489,8,-0.199999999999999,0.46475800154489,HIIT,decrease
+Maillard 2016,HDL,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,1.45,1.45,> 1.3 mmol/L,8,0.0999999999999999,0.154919333848297,8,0.0999999999999999,0.357770876399966,HIIT,increase
+Maillard 2016,LDL,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,2.5,2.5,< 3 mmol/L,8,0.1,0.46475800154489,8,-0.2,0.473286382647969,HIIT,decrease
+Maillard 2016,Total Cholesterol,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,4.65,4.65,< 5.2 mmol/L,8,-0.0999999999999996,0.824621125123532,8,-0.2,0.46475800154489,HIIT,decrease
+Maillard 2016,Triglycerides,T2D,69.2,> 50 y,16,> 10 weeks,0,< 0.5,Cycling,1.5,1.5,< 1.7 mmol/L,8,0.0,0.824621125123532,8,-0.1,0.154919333848297,HIIT,decrease
+Martins 2016,Body Mass,Overweight/obese,33.45,30 - 50 y,12,> 10 weeks,0.5,< 0.5,Cycling,99.3,33.25,BMI > 30 kg/m²,16,-1.3,2.1,14,-0.8,3.2,SIT,decrease
+Martins 2016,VO2max,Overweight/obese,33.45,30 - 50 y,12,> 10 weeks,0.5,< 0.5,Cycling,31.1,5.63888497695533,< 30%,16,2.8,2.6,14,2.9,2.9,SIT,increase
+Matsuo 2014,BMI,Healthy,29.2,< 30 y,8,5 - 10 weeks,1,> 0.5,Cycling,21.85,21.85,BMI < 25 kg/m²,13,0.100000000000001,0.963327566303384,13,-0.300000000000001,1.15021737076085,HIIT,decrease
+Matsuo 2014,Body Fat,Healthy,29.2,< 30 y,8,5 - 10 weeks,1,> 0.5,Cycling,17.9,21.85,BMI < 25 kg/m²,13,-0.199999999999999,2.68737790420328,13,-1.1,4.16569321962144,HIIT,decrease
+Matsuo 2014,Body Mass,Healthy,29.2,< 30 y,8,5 - 10 weeks,1,> 0.5,Cycling,65.35,21.85,BMI < 25 kg/m²,13,0.200000000000003,2.71293199325011,13,-0.900000000000006,4.10791918128875,HIIT,decrease
+Matsuo 2014,Diastolic Blood Pressure,Healthy,29.2,< 30 y,8,5 - 10 weeks,1,> 0.5,Cycling,74.5,74.5,< 80 mmHg,13,-6.0,4.72228758124704,13,-3,9.58123165360279,HIIT,decrease
+Matsuo 2014,Systolic Blood Pressure,Healthy,29.2,< 30 y,8,5 - 10 weeks,1,> 0.5,Cycling,114.5,114.5,< 120 mmHg,13,-3.0,5.8309518948453,13,-2,5.80517010948,HIIT,decrease
+Matsuo 2014,VO2max,Healthy,29.2,< 30 y,8,5 - 10 weeks,1,> 0.5,Cycling,40.0,30.6401412913382,30 - 60%,13,8.6,4.65467506921804,13,5.4,4.54422710700071,HIIT,increase
+Matsuo 2015,Body Fat,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,25.1,27.5,BMI 25 - 30 kg/m²,12,-0.599999999999998,2.96951174437819,12,-0.399999999999999,2.05621010599598,HIIT,decrease
+Matsuo 2015,Body Mass,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,81.9,27.5,BMI 25 - 30 kg/m²,12,-0.900000000000006,4.09402002926219,12,-0.899999999999992,3.20562006482365,HIIT,decrease
+Matsuo 2015,Diastolic Blood Pressure,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,88.5,88.5,80 - 90 mmHg,12,-2.0,5.67450438364444,12,1,6.6407830863536,HIIT,decrease
+Matsuo 2015,Fasting Glucose,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,5.85525000585525,5.85525000585525,> 5.6 mmol/L,12,-3.0,12.6491106406735,12,-8,20.8086520466848,HIIT,decrease
+Matsuo 2015,Fasting Insulin,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,95.1465,95.1465,> 40 pmol/L,12,-2.6,8.3018070322069,12,-2.5,4.74341649025257,HIIT,decrease
+Matsuo 2015,HbA1c,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,39.8,39.8,< 40 mmol/mol,12,-1.0,5.5852484277783,12,-2,5.3619026473818,HIIT,decrease
+Matsuo 2015,HDL,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,1.19170984455959,1.19170984455959,< 1.3 mmol/L,12,3.0,3.68781778291716,12,3,5.01996015920445,HIIT,increase
+Matsuo 2015,HOMA-IR,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,3.9,3.9,> 3,12,-1.0,3.22614320822867,12,-1.2,2.69221098727421,HIIT,decrease
+Matsuo 2015,LDL,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,3.25129533678756,3.25129533678756,> 3 mmol/L,12,5.0,14.5464772367746,12,0,13.6967149346112,HIIT,decrease
+Matsuo 2015,Systolic Blood Pressure,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,130.0,130.0,120 - 140 mmHg,12,1.0,5.47722557505166,12,2,8.57904423581089,HIIT,decrease
+Matsuo 2015,Total Cholesterol,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,5.25906735751295,5.25906735751295,> 5.2 mmol/L,12,2.0,15.456390264224,12,4,13.6967149346112,HIIT,decrease
+Matsuo 2015,Triglycerides,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,1.80225988700565,1.80225988700565,> 1.7 mmol/L,12,-28.0,36.6824208579532,12,-2,44.1859706241698,HIIT,decrease
+Matsuo 2015,VO2max,Metabolic Syndrome,47.5,30 - 50 y,8,5 - 10 weeks,1,> 0.5,Cycling,28.45,5.58510347879032,< 30%,12,7.0,2.11660104885167,12,4.4,3.64965751817893,HIIT,increase
+Mitranun 2014,BMI,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,29.5,29.5,BMI 25 - 30 kg/m²,14,-1.1,1.09087121146357,14,-0.199999999999999,1.37985506485283,HIIT,decrease
+Mitranun 2014,Body Fat,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,33.15,29.5,BMI 25 - 30 kg/m²,14,-2.2,4.56574199884312,14,-2.6,4.01248052954778,HIIT,decrease
+Mitranun 2014,Body Mass,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,66.15,29.5,BMI 25 - 30 kg/m²,14,-2.09999999999999,7.31587315362972,14,-0.5,6.74744396049348,HIIT,decrease
+Mitranun 2014,Diastolic Blood Pressure,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,80.0,80.0,< 80 mmHg,14,2.0,6.26099033699941,14,0,4.09878030638384,HIIT,decrease
+Mitranun 2014,Fasting Glucose,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,7.65,7.65,> 5.6 mmol/L,14,-1.05,46.2514864625992,14,-0.99,56.9912273951,HIIT,decrease
+Mitranun 2014,Flow-mediated Dilation,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,5.1,5.1,< 6 %,14,2.0,2.17209576216151,14,1.3,3.55752723109746,HIIT,increase
+Mitranun 2014,HDL,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,1.215,1.215,< 1.3 mmol/L,14,0.31,9.89949493661166,14,0.0799999999999998,9.89949493661166,HIIT,increase
+Mitranun 2014,HOMA-IR,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,2.95,2.95,< 3,14,-0.6,2.77992805662305,14,-0.5,2.95803989154981,HIIT,decrease
+Mitranun 2014,LDL,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,3.375,3.375,> 3 mmol/L,14,-0.73,29.9332590941915,14,-0.57,29.9332590941915,HIIT,decrease
+Mitranun 2014,Systolic Blood Pressure,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,133.0,133.0,120 - 140 mmHg,14,-12.0,10.2469507659596,14,-5,9.89949493661166,HIIT,decrease
+Mitranun 2014,Total Cholesterol,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,4.8,4.8,< 5.2 mmol/L,14,-0.489999999999999,36.8890227574546,14,-0.0999999999999996,30.7408522978788,HIIT,decrease
+Mitranun 2014,Triglycerides,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,1.645,1.645,< 1.7 mmol/L,14,-0.2,40.1248052954778,14,-0.0599999999999998,40.1248052954778,HIIT,decrease
+Mitranun 2014,VO2max,T2D,61.5,> 50 y,10,5 - 10 weeks,0.357142857142857,< 0.5,Running,24.0,12.3890604435203,< 30%,14,6.1,3.20998442363822,14,3.3,2.36643191323985,HIIT,increase
+Molmen-Hansen 2011,Diastolic Blood Pressure,Overweight/obese,53.1,> 50 y,12,> 10 weeks,0.546296296296296,> 0.5,Running,95.75,95.75,> 90 mmHg,32,-8.5,6.34980314655502,27,-4,3.17175030543074,HIIT,decrease
+Molmen-Hansen 2011,Flow-mediated Dilation,Overweight/obese,53.1,> 50 y,12,> 10 weeks,0.546296296296296,> 0.5,Running,6.495,6.495,> 6 %,32,4.17,2.68869856994048,27,0.61,2.77009025123731,HIIT,increase
+Molmen-Hansen 2011,Systolic Blood Pressure,Overweight/obese,53.1,> 50 y,12,> 10 weeks,0.546296296296296,> 0.5,Running,157.25,157.25,> 140 mmHg,32,-13.0,6.74388612003495,27,-5,6.72681202353686,HIIT,decrease
+Molmen-Hansen 2011,VO2max,Overweight/obese,53.1,> 50 y,12,> 10 weeks,0.546296296296296,> 0.5,Running,35.15,31.8416648362584,30 - 60%,32,5.2,5.58784394914532,27,1.8,3.80788655293195,HIIT,increase
+Moreira 2008,BMI,Overweight/obese,40.0,30 - 50 y,12,> 10 weeks,0.36,< 0.5,Cycling,27.9,27.9,BMI 25 - 30 kg/m²,8,-0.400000000000002,2.02657346276912,8,-0.399999999999999,1.01784085199996,HIIT,decrease
+Moreira 2008,Body Fat,Overweight/obese,40.0,30 - 50 y,12,> 10 weeks,0.36,< 0.5,Cycling,30.7,27.9,BMI 25 - 30 kg/m²,8,-0.600000000000001,4.11242021199196,8,-0.899999999999999,2.17048381703251,HIIT,decrease
+Moreira 2008,Body Mass,Overweight/obese,40.0,30 - 50 y,12,> 10 weeks,0.36,< 0.5,Cycling,77.45,27.9,BMI 25 - 30 kg/m²,8,-1.19999999999999,7.75087091880648,8,-1.3,6.54339361493713,HIIT,decrease
+Motiani 2017,BMI,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,26.15,26.15,BMI 25 - 30 kg/m²,13,-0.199999999999999,1.24881646621641,13,0,1.22361882009614,SIT,decrease
+Motiani 2017,Body Fat,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,22.55,26.15,BMI 25 - 30 kg/m²,13,-1.0,2.17532234683759,13,-0.799999999999997,2.17532234683759,SIT,decrease
+Motiani 2017,Fasting Glucose,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,5.6,5.6,< 5.6 mmol/L,13,-0.0999999999999996,0.181276862236466,13,-0.1,0.181276862236466,SIT,decrease
+Motiani 2017,Fasting Insulin,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,38.1975,38.1975,< 40 pmol/L,13,-0.4,1.50397901265772,13,0.2,1.86489168571795,SIT,decrease
+Motiani 2017,HbA1c,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,36.95,36.95,< 40 mmol/mol,13,-1.3,1.97299136385248,13,-3.1,1.95521473441514,SIT,decrease
+Motiani 2017,HDL,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,1.4,1.4,> 1.3 mmol/L,13,-0.2,0.177460079782382,13,-0.0999999999999999,0.177460079782382,SIT,increase
+Motiani 2017,LDL,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,3.15,3.15,> 3 mmol/L,13,-0.6,0.393347121319057,13,-0.2,0.362553724472931,SIT,decrease
+Motiani 2017,Total Cholesterol,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,5.0,5.0,< 5.2 mmol/L,13,-0.7,0.407872940032048,13,-0.3,0.437825217672618,SIT,decrease
+Motiani 2017,Triglycerides,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,0.99,0.99,< 1.7 mmol/L,13,-0.05,0.159413736144801,13,-0.16,0.161079903803536,SIT,decrease
+Motiani 2017,VO2max,Healthy,48.0,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,34.2,20.5370311627476,< 30%,13,2.0,2.15413312370284,13,1,2.13000313127847,SIT,increase
+Nalcakan 2014,BMI,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,25.0,25.0,BMI < 25 kg/m²,8,-0.199999999999999,1.21354851571744,7,-0.300000000000001,1.07238052947636,SIT,decrease
+Nalcakan 2014,Body Fat,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,16.15,25.0,BMI < 25 kg/m²,8,-1.2,1.95966833928601,7,-0.9,1.43780388092396,SIT,decrease
+Nalcakan 2014,Body Mass,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,82.75,25.0,BMI < 25 kg/m²,8,-0.5,4.2596243965871,7,-0.899999999999992,3.74721496581128,SIT,decrease
+Nalcakan 2014,C-reactive Protein,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,3.83,3.83,> 2 mg/L,8,0.32,0.944499867654834,7,-1.15,2.65038487771116,SIT,decrease
+Nalcakan 2014,HDL,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,1.28367875647668,1.28367875647668,< 1.3 mmol/L,8,1.5,5.80904467188883,7,-0.700000000000003,3.06724632202893,SIT,increase
+Nalcakan 2014,LDL,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,2.62435233160622,2.62435233160622,< 3 mmol/L,8,7.0,15.618578680533,7,0.800000000000011,11.6419070602715,SIT,decrease
+Nalcakan 2014,Total Cholesterol,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,4.4300518134715,4.4300518134715,< 5.2 mmol/L,8,-2.0,20.5001463409411,7,2,14.6412431166209,SIT,decrease
+Nalcakan 2014,Triglycerides,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,1.13559322033898,1.13559322033898,< 1.7 mmol/L,8,-7.0,24.1966319970363,7,7,35.7281401698997,SIT,decrease
+Nalcakan 2014,VO2max,Healthy,21.7,< 30 y,7,5 - 10 weeks,1,> 0.5,Cycling,40.35,28.6169603592811,< 30%,8,2.8,2.27837661504853,7,3.5,3.17490157327751,SIT,increase
+Nie 2017,BMI,Healthy,21.0,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,26.6,26.6,BMI 25 - 30 kg/m²,16,-1.5,1.90315527480025,14,-1.7,1.58745078663876,HIIT,decrease
+Nie 2017,Body Fat,Healthy,21.0,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,38.45,26.6,BMI 25 - 30 kg/m²,16,-1.90000000000001,1.34536240470737,14,-1.7,1.76493625947228,HIIT,decrease
+Nie 2017,Body Mass,Healthy,21.0,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,68.6,26.6,BMI 25 - 30 kg/m²,16,-3.90000000000001,6.37463724458106,14,-4.2,5.00749438342171,HIIT,decrease
+Nie 2017,VO2max,Healthy,21.0,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,29.05,9.7007296392479,< 30%,16,4.1,2.47224594245799,14,3.8,2.00149943792148,HIIT,increase
+O’Leary 2018,VO2max,Healthy,27.0,< 30 y,6,5 - 10 weeks,0.8,> 0.5,Cycling,44.0,51.6218150627627,30 - 60%,10,0.28,0.401683955367899,10,0.29,0.527389798915375,HIIT,increase
+Ramos 2016a,Body Fat,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,40.6,32.5,BMI > 30 kg/m²,22,-0.5,3.71483512420134,21,-0.399999999999999,4.91060077790895,HIIT,decrease
+Ramos 2016a,Body Mass,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,98.5,32.5,BMI > 30 kg/m²,22,-1.0,9.31128347758783,21,-1,10.1784085199996,HIIT,decrease
+Ramos 2016a,Diastolic Blood Pressure,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,85.0,85.0,80 - 90 mmHg,22,-4.0,4.72228758124704,21,-5,7.61577310586391,HIIT,decrease
+Ramos 2016a,Fasting Glucose,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,6.7,6.7,> 5.6 mmol/L,22,0.1,1.58113883008419,21,-0.4,0.714842640026461,HIIT,decrease
+Ramos 2016a,Fasting Insulin,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,110.0,110.0,> 40 pmol/L,22,-15.0,21.109239683134,21,-25,36.3538168560056,HIIT,decrease
+Ramos 2016a,HbA1c,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,45.5,45.5,> 40 mmol/mol,22,0.199999999999996,13.9224997755432,21,-1.2,4.17324813544558,HIIT,decrease
+Ramos 2016a,HDL,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,1.07,1.07,< 1.3 mmol/L,22,0.0800000000000001,0.191154387864888,21,0.0800000000000001,0.21095023109729,HIIT,increase
+Ramos 2016a,HOMA-IR,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,2.15,2.15,< 3,22,-0.3,0.475394572960188,21,-0.5,0.684835746730558,HIIT,decrease
+Ramos 2016a,Systolic Blood Pressure,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,130.5,130.5,120 - 140 mmHg,22,-2.0,6.32455532033676,21,-7,6.84835746730558,HIIT,decrease
+Ramos 2016a,Triglycerides,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,2.015,2.015,> 1.7 mmol/L,22,-0.13,0.655164101580665,21,-0.11,0.479562300436554,HIIT,decrease
+Ramos 2016a,VO2max,Metabolic Syndrome,56.5,> 50 y,16,> 10 weeks,0.63,> 0.5,Running,26.25,5.8818293352869,< 30%,22,3.6,3.86678160748703,21,0.800000000000001,3.9736632972611,HIIT,increase
+Ramos 2016b,BMI,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,32.5,32.5,BMI > 30 kg/m²,15,-1.0,2.64575131106459,17,0,3.286335345031,HIIT,decrease
+Ramos 2016b,Body Fat,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,39.795,32.5,BMI > 30 kg/m²,15,-1.02,3.67936407548913,17,-0.419999999999995,5.25845319461912,HIIT,decrease
+Ramos 2016b,Body Mass,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,99.5,32.5,BMI > 30 kg/m²,15,-3.0,9.48683298050514,17,0,10.1784085199996,HIIT,decrease
+Ramos 2016b,Diastolic Blood Pressure,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,112.5,112.5,> 90 mmHg,15,-9.0,14.5361618042728,17,-6,7.61577310586391,HIIT,decrease
+Ramos 2016b,Fasting Glucose,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,6.215,6.215,> 5.6 mmol/L,15,-0.17,4.61866863933753,17,-0.369999999999999,0.443801757544965,HIIT,decrease
+Ramos 2016b,HDL,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,1.15,1.15,< 1.3 mmol/L,15,0.0,0.24,17,0.03,0.190315527480025,HIIT,increase
+Ramos 2016b,LDL,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,2.57,2.57,< 3 mmol/L,15,0.41,0.873063571568531,17,0.06,0.474763098818769,HIIT,decrease
+Ramos 2016b,Systolic Blood Pressure,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,130.5,130.5,120 - 140 mmHg,15,-1.0,8.34266144584568,17,-9,6.6932802122726,HIIT,decrease
+Ramos 2016b,Total Cholesterol,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,4.495,4.495,< 5.2 mmol/L,15,0.42,0.945219551215484,17,0,0.545747194220914,HIIT,decrease
+Ramos 2016b,Triglycerides,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,1.78,1.78,> 1.7 mmol/L,15,-0.16,0.445510942626553,17,-0.02,0.527636238330917,HIIT,decrease
+Ramos 2016b,VO2max,Metabolic Syndrome,56.0,> 50 y,16,> 10 weeks,0.69,> 0.5,Running,26.37,5.84039945540112,< 30%,15,4.35,4.02788778393838,17,0.799999999999997,4.01940045280388,HIIT,increase
+Robinson 2015,BMI,Metabolic Syndrome,52.0,> 50 y,2,< 5 weeks,0.18,< 0.5,Cycling,32.15,32.15,BMI > 30 kg/m²,20,-0.299999999999997,3.64362456902464,19,-0.0999999999999979,2.22036033111745,HIIT,decrease
+Robinson 2015,Body Mass,Metabolic Syndrome,52.0,> 50 y,2,< 5 weeks,0.18,< 0.5,Cycling,88.35,32.15,BMI > 30 kg/m²,20,-0.700000000000003,11.0951340685906,19,-1.40000000000001,11.4118359609661,HIIT,decrease
+Robinson 2015,Fasting Glucose,Metabolic Syndrome,52.0,> 50 y,2,< 5 weeks,0.18,< 0.5,Cycling,5.75,5.75,> 5.6 mmol/L,20,0.1,0.63718129288296,19,-0.300000000000001,0.547722557505166,HIIT,decrease
+Robinson 2015,Fasting Insulin,Metabolic Syndrome,52.0,> 50 y,2,< 5 weeks,0.18,< 0.5,Cycling,96.88275,96.88275,> 40 pmol/L,20,-0.6,6.30174578985855,19,0.800000000000001,3.1264996401727,HIIT,decrease
+Robinson 2015,HOMA-IR,Metabolic Syndrome,52.0,> 50 y,2,< 5 weeks,0.18,< 0.5,Cycling,1.8,1.8,< 3,20,0.0,0.8,19,0.0999999999999999,0.380788655293195,HIIT,decrease
+Robinson 2015,VO2max,Metabolic Syndrome,52.0,> 50 y,2,< 5 weeks,0.18,< 0.5,Cycling,20.5,2.7610610861624,< 30%,20,1.5,2.10713075057055,19,1.5,2.63609559765954,HIIT,increase
+Rognmo 2004,Body Mass,Cardiac Rehabilitation,62.1,> 50 y,10,5 - 10 weeks,0.819444444444444,> 0.5,Running,80.05,26.8,BMI 25 - 30 kg/m²,8,-0.0999999999999943,4.20249925639494,9,-0.799999999999997,4.16713330720293,HIIT,decrease
+Rognmo 2004,Diastolic Blood Pressure,Cardiac Rehabilitation,62.1,> 50 y,10,5 - 10 weeks,0.819444444444444,> 0.5,Running,75.5,75.5,< 80 mmHg,8,1.0,5.8309518948453,9,0,7.61577310586391,HIIT,decrease
+Rognmo 2004,Systolic Blood Pressure,Cardiac Rehabilitation,62.1,> 50 y,10,5 - 10 weeks,0.819444444444444,> 0.5,Running,143.0,143.0,> 140 mmHg,8,-3.0,12.1243556529821,9,-1,16.2880324164707,HIIT,decrease
+Rognmo 2004,VO2max,Cardiac Rehabilitation,62.1,> 50 y,10,5 - 10 weeks,0.819444444444444,> 0.5,Running,31.95,30.195173831561,30 - 60%,8,6.0,6.64875928275344,9,2.7,3.03693924865151,HIIT,increase
+Sandvei 2012,BMI,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,23.4,23.4,BMI < 25 kg/m²,11,-0.199999999999999,1.22311078811365,12,-0.100000000000001,1.83303027798234,SIT,decrease
+Sandvei 2012,Body Fat,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,23.8,23.4,BMI < 25 kg/m²,11,-0.199999999999999,2.54322629744189,12,-0.5,3.41525987298185,SIT,decrease
+Sandvei 2012,Body Mass,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,71.2,23.4,BMI < 25 kg/m²,11,-0.400000000000006,6.20926726756064,12,-0.600000000000008,6.77318241301679,SIT,decrease
+Sandvei 2012,Fasting Glucose,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,5.4,5.4,< 5.6 mmol/L,11,-0.2,0.18165902124585,12,-0.2,0.189736659610103,SIT,decrease
+Sandvei 2012,Fasting Insulin,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,42.2,42.2,> 40 pmol/L,11,0.300000000000004,17.556508764558,12,-4.1,12.2909722967713,SIT,decrease
+Sandvei 2012,HDL,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,1.35,1.35,> 1.3 mmol/L,11,0.0,0.18165902124585,12,-0.0999999999999999,0.189736659610103,SIT,increase
+Sandvei 2012,HOMA-IR,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,0.8,0.8,< 3,11,0.0,0.419523539268061,12,-0.1,0.189736659610103,SIT,decrease
+Sandvei 2012,LDL,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,2.95,2.95,< 3 mmol/L,11,-0.3,0.544977063737548,12,0,0.379473319220206,SIT,decrease
+Sandvei 2012,Total Cholesterol,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,4.3,4.3,< 5.2 mmol/L,11,-0.3,0.544977063737548,12,-0.0999999999999996,0.379473319220206,SIT,decrease
+Sandvei 2012,Triglycerides,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,0.79,0.79,< 1.7 mmol/L,11,-0.07,0.290086194087206,12,0.0700000000000001,0.132815661727072,SIT,decrease
+Sandvei 2012,VO2max,Healthy,25.2,< 30 y,8,5 - 10 weeks,0.345,< 0.5,Running,49.4,94.3519569025775,> 60%,11,2.6,3.19499608763454,12,1.8,3.33706457833827,SIT,increase
+Sawyer 2016,BMI,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,35.95,35.95,BMI > 30 kg/m²,9,0.0,3.36986646619714,9,0,1.75271218401653,HIIT,decrease
+Sawyer 2016,Body Fat,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,46.15,35.95,BMI > 30 kg/m²,9,-0.800000000000004,3.07766144986742,9,-0.300000000000004,3.99837466978771,HIIT,decrease
+Sawyer 2016,Body Mass,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,106.2,35.95,BMI > 30 kg/m²,9,-0.100000000000008,14.4166570327521,9,0,6.12601012078824,HIIT,decrease
+Sawyer 2016,C-reactive Protein,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,2.95,2.95,> 2 mg/L,9,0.5,1.95140974682408,9,0.4,1.27200628929263,HIIT,decrease
+Sawyer 2016,Fasting Glucose,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,5.1171000051171,5.1171000051171,< 5.6 mmol/L,9,-3.0,4.00599550673737,9,2.39999999999999,7.56095232097122,HIIT,decrease
+Sawyer 2016,Fasting Insulin,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,20.45,20.45,< 40 pmol/L,9,-2.2,3.79367895320624,9,-2.3,3.96232255123179,HIIT,decrease
+Sawyer 2016,Flow-mediated Dilation,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,5.405,5.405,< 6 %,9,3.8,3.33006906835279,9,-0.4,2.17018432396882,HIIT,increase
+Sawyer 2016,HDL,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,1.07901554404145,1.07901554404145,< 1.3 mmol/L,9,1.0,4.55302097513288,9,-0.700000000000003,6.7705243519243,HIIT,increase
+Sawyer 2016,HOMA-IR,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,4.65,4.65,> 3,9,-0.6,0.897217922246318,9,-0.5,0.928439551074813,HIIT,decrease
+Sawyer 2016,LDL,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,2.84326424870466,2.84326424870466,< 3 mmol/L,9,4.89999999999999,18.6484315694377,9,2.60000000000001,19.9378032892292,HIIT,decrease
+Sawyer 2016,Total Cholesterol,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,4.41709844559586,4.41709844559586,< 5.2 mmol/L,9,5.0,20.079790835564,9,4.80000000000001,24.6408400830816,HIIT,decrease
+Sawyer 2016,Triglycerides,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,1.61581920903955,1.61581920903955,< 1.7 mmol/L,9,-3.19999999999999,34.8871896259931,9,23.6,52.2706514212325,HIIT,decrease
+Sawyer 2016,VO2max,Overweight/obese,35.2,30 - 50 y,8,5 - 10 weeks,0.5,< 0.5,Cycling,21.35,0.591039997349235,< 30%,9,4.1,3.11014469116792,9,3.1,2.38117617995813,HIIT,increase
+Scribbans 2014,Body Mass,Healthy,21.0,< 30 y,6,5 - 10 weeks,0.7,> 0.5,Cycling,72.5,23.0,BMI < 25 kg/m²,10,0.0,9.31128347758783,9,0,4.9295030175465,SIT,decrease
+Scribbans 2014,VO2max,Healthy,21.0,< 30 y,6,5 - 10 weeks,0.7,> 0.5,Cycling,47.95,69.6506850373759,> 60%,10,6.6,3.36986646619714,9,7,4.40613209062098,SIT,increase
+Shepherd 2013,BMI,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,23.7,23.7,BMI < 25 kg/m²,8,0.0,1.34461890511773,8,0,2.4265201420965,SIT,decrease
+Shepherd 2013,Body Mass,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,72.95,23.7,BMI < 25 kg/m²,8,0.100000000000008,4.73286382647969,8,0,6.89927532426414,SIT,decrease
+Shepherd 2013,VO2max,Healthy,21.5,< 30 y,6,5 - 10 weeks,1,> 0.5,Cycling,41.8,35.8544653342298,30 - 60%,8,3.2,3.45485166107027,8,6.5,7.46190324247105,SIT,increase
+Sjöros 2018,BMI,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,30.75,30.75,BMI > 30 kg/m²,11,-0.199999999999999,1.61179764464393,10,-0.199999999999999,1.26334451004879,SIT,decrease
+Sjöros 2018,Body Fat,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,34.3,30.75,BMI > 30 kg/m²,11,-1.0,2.87480576436346,10,-0.899999999999999,2.31710693164546,SIT,decrease
+Sjöros 2018,Body Mass,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,90.2,30.75,BMI > 30 kg/m²,11,-0.5,6.76694755803235,10,-0.400000000000006,5.39792654293572,SIT,decrease
+Sjöros 2018,Fasting Glucose,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,6.95,6.95,> 5.6 mmol/L,11,-0.0999999999999996,0.489176931905952,10,0.2,0.407555434649317,SIT,decrease
+Sjöros 2018,Fasting Insulin,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,12.35,12.35,< 40 pmol/L,11,0.0999999999999996,3.79382329793753,10,0.300000000000001,3.55710849893472,SIT,decrease
+Sjöros 2018,HbA1c,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,39.15,39.15,< 40 mmol/mol,11,-1.8,2.6710500565264,10,-2,2.17237998797726,SIT,decrease
+Sjöros 2018,VO2max,T2D,49.0,30 - 50 y,2,< 5 weeks,0.618181818181818,> 0.5,Cycling,26.35,3.67883360887283,< 30%,11,1.3,2.01912405399253,10,-0.100000000000001,1.68981627252681,SIT,increase
+Skleryk 2013,BMI,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,33.7,33.75,BMI > 30 kg/m²,8,0.0,3.25330601081423,8,0,2.78854800926934,SIT,decrease
+Skleryk 2013,Body Fat,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,30.25,33.75,BMI > 30 kg/m²,8,-1.1,3.2310988842807,8,0.0999999999999943,2.26274169979695,SIT,decrease
+Skleryk 2013,Diastolic Blood Pressure,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,89.5,89.5,80 - 90 mmHg,8,-3.0,4.6475800154489,8,-1,8.94427190999916,SIT,decrease
+Skleryk 2013,Fasting Glucose,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,6.93,6.93,> 5.6 mmol/L,8,0.159999999999999,0.91402406970495,8,-0.34,0.463465209050259,SIT,decrease
+Skleryk 2013,Fasting Insulin,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,10.065,10.065,< 40 pmol/L,8,0.24,0.921390253909818,8,0.210000000000001,2.42389768760977,SIT,decrease
+Skleryk 2013,HOMA-IR,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,3.075,3.075,> 3,8,0.15,0.360444170434202,8,-0.12,1.02156742312977,SIT,decrease
+Skleryk 2013,Systolic Blood Pressure,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,140.5,140.5,> 140 mmHg,8,-1.0,6.19677335393187,8,0,12.3935467078637,SIT,decrease
+Skleryk 2013,VO2max,Overweight/obese,38.7,30 - 50 y,2,< 5 weeks,1,> 0.5,Cycling,28.0,3.29223190991487,< 30%,8,-0.399999999999999,2.96782748824793,8,0,3.29848450049413,SIT,increase
+Tjønna 2008,BMI,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,29.6,29.6,BMI 25 - 30 kg/m²,11,-0.699999999999999,2.9757352032733,8,-1.2,2.5377155080899,HIIT,decrease
+Tjønna 2008,Body Mass,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,91.5,29.6,BMI 25 - 30 kg/m²,11,-2.3,9.35205859690795,8,-3.60000000000001,10.4364745005198,HIIT,decrease
+Tjønna 2008,Diastolic Blood Pressure,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,91.5,91.5,> 90 mmHg,11,-6.0,5.44977063737549,8,-6,7.48331477354789,HIIT,decrease
+Tjønna 2008,Fasting Glucose,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,6.5,6.5,> 5.6 mmol/L,11,-0.300000000000001,1.0899541274751,8,0.4,0.894427190999916,HIIT,decrease
+Tjønna 2008,Fasting Insulin,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,107.7,107.7,> 40 pmol/L,11,2.0,95.8051146860125,8,1.3,40.8893140074519,HIIT,decrease
+Tjønna 2008,Flow-mediated Dilation,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,3.645,3.645,< 6 %,11,10.32,1.72131635674562,8,5.81,3.07874162605439,HIIT,increase
+Tjønna 2008,HDL,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,0.715,0.715,< 1.3 mmol/L,11,0.15,0.18165902124585,8,0.06,0.134461890511773,HIIT,increase
+Tjønna 2008,Systolic Blood Pressure,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,137.5,137.5,120 - 140 mmHg,11,-9.0,9.08295106229248,8,-10,8.94427190999916,HIIT,decrease
+Tjønna 2008,Triglycerides,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,1.56,1.56,< 1.7 mmol/L,11,0.05,0.355668384875575,8,0.2,0.670522184569608,HIIT,decrease
+Tjønna 2008,VO2max,Metabolic Syndrome,53.7,> 50 y,16,> 10 weeks,0.431818181818182,< 0.5,Running,34.8,69.7825697092737,> 60%,11,11.7,5.85363135156289,8,5.6,5.37847562047092,HIIT,increase
+Trapp 2008,Body Fat,Healthy,21.7,< 30 y,15,> 10 weeks,0,< 0.5,Cycling,33.4,23.2,BMI < 25 kg/m²,15,-2.7,5.50862959364668,15,0.599999999999998,6.26897120746299,SIT,decrease
+Trapp 2008,Body Mass,Healthy,21.7,< 30 y,15,> 10 weeks,0,< 0.5,Cycling,61.55,23.2,BMI < 25 kg/m²,15,-1.5,7.88416133777081,15,-0.0999999999999943,4.99899989998,SIT,decrease
+Trapp 2008,Fasting Glucose,Healthy,21.7,< 30 y,15,> 10 weeks,0,< 0.5,Cycling,4.2,4.2,< 5.6 mmol/L,15,-0.2,0.212132034355964,15,-0.1,0.424264068711929,SIT,decrease
+Trapp 2008,Fasting Insulin,Healthy,21.7,< 30 y,15,> 10 weeks,0,< 0.5,Cycling,15.25,15.25,< 40 pmol/L,15,-6.0,7.61314652426971,15,-1,6.94550214167414,SIT,decrease
+Trapp 2008,HOMA-IR,Healthy,21.7,< 30 y,15,> 10 weeks,0,< 0.5,Cycling,2.9,2.9,< 3,15,-1.2,1.48492424049175,15,-0.3,1.42828568570857,SIT,decrease
+Trapp 2008,VO2max,Healthy,21.7,< 30 y,15,> 10 weeks,0,< 0.5,Cycling,29.85,11.6163245902748,< 30%,15,7.6,5.10147037627388,15,6,4.42436436112579,SIT,increase
+Wegmann 2018,Diastolic Blood Pressure,Healthy,48.5,30 - 50 y,24,> 10 weeks,0.37,< 0.5,Running,84.0,84.0,80 - 90 mmHg,26,-2.0,3.83405790253616,23,-1,6.6932802122726,HIIT,decrease
+Wegmann 2018,Systolic Blood Pressure,Healthy,48.5,30 - 50 y,24,> 10 weeks,0.37,< 0.5,Running,128.0,128.0,120 - 140 mmHg,26,1.0,6.32455532033676,23,4,8.96660470858396,HIIT,decrease
+Winn 2018,BMI,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,37.05,37.05,BMI > 30 kg/m²,8,-0.1,0.5,8,-0.3,0.4,HIIT,decrease
+Winn 2018,Body Fat,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,41.35,37.05,BMI > 30 kg/m²,8,0.4,1.6,8,-0.1,1.6,HIIT,decrease
+Winn 2018,Body Mass,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,102.05,37.05,BMI > 30 kg/m²,8,-0.3,1.3,8,-1,1.1,HIIT,decrease
+Winn 2018,Fasting Glucose,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,5.33632500533632,5.33632500533632,< 5.6 mmol/L,8,-3.0,8.0,8,-21.4,21.4,HIIT,decrease
+Winn 2018,Fasting Insulin,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,17.0,17.0,< 40 pmol/L,8,0.5,3.0,8,-7.5,8.9,HIIT,decrease
+Winn 2018,HDL,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,1.17746113989637,1.17746113989637,< 1.3 mmol/L,8,3.4,5.6,8,-1.4,2.8,HIIT,increase
+Winn 2018,HOMA-IR,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,4.75,4.75,> 3,8,0.02,0.7,8,-3.3,3.9,HIIT,decrease
+Winn 2018,LDL,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,2.69818652849741,2.69818652849741,< 3 mmol/L,8,-10.7,17.0,8,-0.5,12.3,HIIT,decrease
+Winn 2018,Total Cholesterol,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,4.55829015544041,4.55829015544041,< 5.2 mmol/L,8,-3.0,15.6,8,-2.4,12.9,HIIT,decrease
+Winn 2018,Triglycerides,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,1.41129943502825,1.41129943502825,< 1.7 mmol/L,8,22.1,67.2,8,-2.6,37.0,HIIT,decrease
+Winn 2018,VO2max,Overweight/obese,43.5,30 - 50 y,4,< 5 weeks,0.5,< 0.5,Running,23.85,1.489813011337,< 30%,8,-0.2,1.1,8,0.1,1.6,HIIT,increase
+Wisløff 2007,VO2max,Cardiac Rehabilitation,75.45,> 50 y,12,> 10 weeks,0.22,< 0.5,Running,13.0,0.552163987489328,< 30%,9,6.0,1.1216059914248,9,1.9,0.580517010948,HIIT,increase
+Zapata-Lamana 2018,Body Mass,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,83.6,32.05,BMI > 30 kg/m²,14,-0.4,1.4,14,-1.9,2.6,HIIT,decrease
+Zapata-Lamana 2018,Fasting Glucose,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,4.94505000494505,4.94505000494505,< 5.6 mmol/L,14,-3.3,2.69685001436861,14,-4.09999999999999,3.53539248174796,HIIT,decrease
+Zapata-Lamana 2018,Fasting Insulin,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,140.9835,140.9835,> 40 pmol/L,14,-0.899999999999999,4.88098350745011,14,-2,4.05758548893304,HIIT,decrease
+Zapata-Lamana 2018,HDL,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,1.41321243523316,1.41321243523316,> 1.3 mmol/L,14,-3.9,3.6,14,-1,6.0,HIIT,increase
+Zapata-Lamana 2018,LDL,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,2.37694300518135,2.37694300518135,< 3 mmol/L,14,-7.2,14.4,14,-9.4,23.7,HIIT,decrease
+Zapata-Lamana 2018,Total Cholesterol,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,4.37694300518135,4.37694300518135,< 5.2 mmol/L,14,-7.6,19.2,14,-7.9,19.2,HIIT,decrease
+Zapata-Lamana 2018,Triglycerides,Overweight/obese,23.3,< 30 y,12,> 10 weeks,0,< 0.5,Cycling,1.21242937853107,1.21242937853107,< 1.7 mmol/L,14,4.0,26.6,14,-5.6,9.9,HIIT,decrease
