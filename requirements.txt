@@ -4,7 +4,7 @@ scikit-learn
 numpy
 altair
 matplotlib
-iplotly
+plotly
 seaborn
 pickle
 joblib
