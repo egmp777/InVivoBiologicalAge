@@ -1,7 +1,6 @@
 import os
 import streamlit as st
 import pandas as pd
-from kmodes.kprototypes import KPrototypes
 from sklearn.preprocessing import (
     MaxAbsScaler,
     MinMaxScaler,
