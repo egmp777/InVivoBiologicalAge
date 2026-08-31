@@ -6,7 +6,6 @@ altair
 matplotlib
 plotly
 seaborn
-pickle
 joblib
 
 
