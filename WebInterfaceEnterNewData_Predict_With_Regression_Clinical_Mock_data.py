@@ -1,16 +1,7 @@
-import os
-import streamlit as st
+
+import streamlit
 import pandas as pd
-from sklearn.preprocessing import (
-    MaxAbsScaler,
-    MinMaxScaler,
-    Normalizer,
-    PowerTransformer,
-    QuantileTransformer,
-    RobustScaler,
-    StandardScaler,
-    minmax_scale,
-)
+import sklearn
 import numpy as np
 import altair as alt
 import matplotlib.pyplot as plt
