@@ -109,9 +109,9 @@ except FileNotFoundError:
     st.write("file not found", filename)
 except Exception as e:
     st.write("an error occured when loading", filename)
-finally:
-    st.write("an error occured when loading")
-    
+#finally:
+ #   st.write("an error occured when loading")
+
 
 def make_predictions(model, new_data):
 
