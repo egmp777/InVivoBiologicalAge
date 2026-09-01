@@ -110,7 +110,7 @@ except FileNotFoundError:
 except Exception as e:
     st.write("an error occured when loading", filename)
 finally:
-    st.write("an error occured when loading"
+    st.write("an error occured when loading")
 
 def make_predictions(model, new_data):
 
