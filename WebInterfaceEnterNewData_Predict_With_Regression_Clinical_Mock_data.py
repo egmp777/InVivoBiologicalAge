@@ -111,6 +111,7 @@ except Exception as e:
     st.write("an error occured when loading", filename)
 finally:
     st.write("an error occured when loading")
+    exit(0)
 
 def make_predictions(model, new_data):
 
