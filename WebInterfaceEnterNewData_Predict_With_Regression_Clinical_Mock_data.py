@@ -101,7 +101,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 #     (numerical_preprocessor, numerical_columns),
 # )
 # model = make_pipeline(preprocessor, LogisticRegression(max_iter=500))
-
+loaded_model = joblib.load(open(filename, 'rb'))
 try:
     # loaded_model = joblib.load(file)
     loaded_model = joblib.load(open(filename, 'rb'))
