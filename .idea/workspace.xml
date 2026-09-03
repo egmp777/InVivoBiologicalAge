@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="334bbc1a-4d58-4d0b-aed6-3ae84ed8c062" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py" afterPath="$PROJECT_DIR$/WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py" />
-      <change beforePath="$PROJECT_DIR$/trained_model_decision_tree.joblib" afterPath="$PROJECT_DIR$/trained_model_decision_tree.joblib" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-784">
-              <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="29" />
+            <state relative-caret-position="98">
+              <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -30,7 +29,7 @@
       <file leaf-file-name="Predicting_With_Regression.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Predicting_With_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1073">
+            <state relative-caret-position="-375">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -47,6 +46,16 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,9 +106,9 @@
       <list>
         <option value="$PROJECT_DIR$/Data_NHANES_Demographics.csv" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/WebInterfaceEnterNewData_Predict_With_Regression_Clinical_Mock_data.py" />
         <option value="$PROJECT_DIR$/WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -347,14 +356,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clinical_study_exercise_mock_health_Only_VO2Max_corrected_1000_realistic - clinical_study_exercise_mock_health_corrected_1000_realistic (1) (1).csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -467,11 +468,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-784">
-          <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="29" />
+        <state relative-caret-position="98">
+          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Predicting_With_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1073">
+        <state relative-caret-position="-375">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />

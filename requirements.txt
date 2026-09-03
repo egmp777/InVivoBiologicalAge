@@ -1,3 +1,4 @@
+deep_translator
 streamlit
 pandas
 scikit-learn
