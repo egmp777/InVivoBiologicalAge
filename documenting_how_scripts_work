@@ -1,0 +1,7 @@
+This script: WebInterfaceEnterNewData_Predict_With_Regression_Clinical_Mock_data.py
+   USes the predictor script: Predicting_With_Regression_Using_Mock_Clinical_Data.py
+
+ This script: WebInterfaceEnterNewData_Predict_With_Regression_Spanish.py
+    USes the predictor script: Predicting_With_Regression.py
+
+
