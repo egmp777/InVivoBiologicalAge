@@ -20,7 +20,9 @@ import seaborn as sns
 import pickle
 import joblib
 from sklearn.preprocessing import LabelEncoder
-from googletrans import Translator
+#from googletrans import Translator
+
+
 
 
 ## Source: https://www.google.com/search?q=save+to+csv+comma+separated+file+with+header+user+input+python+and+streamlit&sca_esv=ac35dc61bdce8476&sxsrf=AE3TifNWsNirD54fICsIJwfMI746Y5RcKw%3A1752859582973&ei=voN6aKWQO-fY1sQPkp3M4QY&ved=0ahUKEwil56Lm9saOAxVnrJUCHZIOM2wQ4dUDCBA&uact=5&oq=save+to+csv+comma+separated+file+with+header+user+input+python+and+streamlit&gs_lp=Egxnd3Mtd2l6LXNlcnAiTHNhdmUgdG8gY3N2IGNvbW1hIHNlcGFyYXRlZCBmaWxlIHdpdGggaGVhZGVyIHVzZXIgaW5wdXQgcHl0aG9uIGFuZCBzdHJlYW1saXRI_CZQrwRY6yRwBHgBkAEAmAHaAaAB-w2qAQYxLjEzLjG4AQPIAQD4AQGYAgOgAvoBwgIKEAAYsAMY1gQYR8ICBxAjGLACGCeYAwCIBgGQBgSSBwMxLjKgB-0osgcDMC4yuAf1AcIHBTAuMi4xyAcH&sclient=gws-wiz-serp
@@ -40,43 +42,112 @@ PATH = '.'
 
 data_with_variables_used_for_prediction = "DataForClustering_Without_Study_Category_Duration_With_Age_with_Duration.csv"
 load_data = os.path.join(PATH, data_with_variables_used_for_prediction)
-translator = Translator()
+#translator = Translator()
 english_spanish_column_dictionary = {}
 
 
 df = pd.read_csv(load_data)
 df_es = df.copy()
-df_es.rename(columns=lambda x: translator.translate(x, src='en', dest='es').text, inplace=True)
 
+## ON SEPT 1 2026 ###
+from deep_translator import GoogleTranslator
+from deep_translator.exceptions import TranslationNotFound
+translator = GoogleTranslator(source='en', target='es')
+
+# Initialize the translator
+#def initialize_dict():
+    #
+#initialize_dict()
+# Rename the columns synchronously
+###  SEPT 2 2026          exception code block to avoid errors b/c of too many calls to translator
+for attempt in range(3):
+    try:
+
+        df_es.rename(columns=lambda x: translator.translate(x), inplace=True)
+    except TranslationNotFound:
+        print(f"Attempt {attempt + 1} failed. Retrying...")
+        time.sleep(2)
+
+####------------------------------####
+
+print(df_es.head())
+print(df_es.info())
+#exit(0)
+# BEFORE SEPT 1 2026
+# df_es.rename(columns=lambda x: translator.translate(x, src='en', dest='es').text, inplace=True)
+#
 # for value in df_es.columns:
-#     print(value)
-#     df_es[value] = df_es[value].apply(lambda x: translator.translate(x,src='en', dest='es').text)
-#     break
+#      print(value)
+#      df_es[value] = df_es[value].apply(lambda x: translator.translate(x,src='en', dest='es').text)
+#      break
+####------------------------------####
 english_spanish_value_dictionary = {}
 poblacion_list = df['population'].unique().tolist()
 tipo_ejercicio_list = df['type_exercise'].unique().tolist()
 endpoints_list = df['endpoint'].unique().tolist()
 
+
+####      BEFORE SEPT 1 2026    #####
+# for each_value in poblacion_list:
+#     english_spanish_value_dictionary[each_value] =  translator.translate(each_value, src='en', dest='es').text
+#
+# for each_value in tipo_ejercicio_list:
+#     english_spanish_value_dictionary[each_value] = translator.translate(each_value, src='en', dest='es').text
+#
+#
+# for each_value in endpoints_list:
+#     english_spanish_column_dictionary[each_value] =  translator.translate(each_value, src='en', dest='es').text
+
+# initialize_dict()
+
+
+####------------------------------####
+
+#### ON SEPT 1 2026       ######
 for each_value in poblacion_list:
-    english_spanish_value_dictionary[each_value] =  translator.translate(each_value, src='en', dest='es').text
-
+    english_spanish_value_dictionary[each_value] =  translator.translate(each_value)
 for each_value in tipo_ejercicio_list:
-    english_spanish_value_dictionary[each_value] = translator.translate(each_value, src='en', dest='es').text
-
+    english_spanish_value_dictionary[each_value] = translator.translate(each_value)
 
 for each_value in endpoints_list:
-    english_spanish_column_dictionary[each_value] =  translator.translate(each_value, src='en', dest='es').text
+    #english_spanish_value_dictionary[each_value] = translator.translate(each_value)
+    for attempt in range(3):
+        try:
+            english_spanish_column_dictionary[each_value] = translator.translate(each_value)
+        except  TranslationNotFound:
+            print(f"Attempt {attempt + 1} failed. Retrying...")
+            time.sleep(2)
 
-print(english_spanish_value_dictionary)
+    if(english_spanish_column_dictionary[each_value] == "IMF"):
+        ### Corregir a IMC (Incdice de Masa Corporal)
+        english_spanish_column_dictionary[each_value] = "IMC"
+    # column_spanish = english_spanish_column_dictionary[each_value]
+    # print(column_spanish)
 
+
+#print(english_spanish_value_dictionary)
+#print(english_spanish_column_dictionary)
+# exit(0)
+
+####------------------------------####
+
+
+
+
+#### LAST WORKING CODE ABVOVE SEPT 2 2026 5:47 am
 
 
 ##print(df_es.info())
 
 # endpoints_list = df['endpoint'].unique().tolist()
+# print("ENDPOINT LIST")
+# print(endpoints_list)
+# exit(0)
 # for each_value in endpoints_list:
-#     english_spanish_column_dictionary[each_value] =  translator.translate(each_value, src='en', dest='es').text
-
+#     english_spanish_column_dictionary[each_value] =  translator.translate(each_value)
+#     print("each value", each_value)
+#
+# print(english_spanish_column_dictionary)
 
 
 ##print(">>>Printing the translations...")
@@ -87,10 +158,19 @@ wrapper = textwrap.TextWrapper(width=50)
 translated_term = []
 for key in english_spanish_column_dictionary:
     ##print(key + " : " + wrapper.fill(text=english_spanish_column_dictionary[key]))
-    translated_term.append(english_spanish_column_dictionary[key])
+    #translated_term.append(english_spanish_column_dictionary[key])
     ##print("=========================================================")
     df_es['punto final'] = df_es['punto final'].replace(key,english_spanish_column_dictionary[key])
+    # df_es['punto final'] = english_spanish_column_dictionary[key]
 
+
+print(df_es.head())
+
+
+####             COE ABOVE WORKS AS INTENDED AT 9:53 SEPT 2 SOS6                ####
+
+
+####        ON SEPT 2 2026      ####
 for key in english_spanish_value_dictionary:
     df_es['población'] = df_es['población'].replace(key,english_spanish_value_dictionary[key])
     df_es['tipo_ejercicio'] = df_es['tipo_ejercicio'].replace(key,english_spanish_value_dictionary[key])
@@ -100,12 +180,14 @@ pd.options.display.max_colwidth = 100
 pd.set_option('display.max_columns', None)
 print(df_es)
 
+#### LAST WORKING CODE ABVOVE SEPT 2 2026 5:57 am
 
 endpoint = ""
+
 ## Source: https://docs.streamlit.io/develop/api-reference/widgets/st.number_input
 st.session_state.clear()
 
-endpoint_list_spanish = df
+#endpoint_list_spanish = df
 
 ##DEC 1 2025
 # endpoint = st.selectbox('Seleccionar que indicador desea optimizar',
@@ -114,7 +196,17 @@ endpoint_list_spanish = df
 enpoint_esp = st.selectbox('Seleccionar que indicador desea optimizar',
                         options=df_es['punto final'].unique().tolist())
 
-endpoint = translator.translate(enpoint_esp, src='es', dest='en').text
+# BEFORE SEPT 2 2026 endpoint = translator.translate(enpoint_esp, src='es', dest='en').text
+
+####                  ON SEPT 2 2024              #####
+
+#endpoint = translator.translate(enpoint_esp)
+#endpoint = next((k for k, v in english_spanish_column_dictionary.items() if v == enpoint_esp), None)
+
+print(endpoint)
+exit(0)
+#### ------------------------------------------   ####
+
 
 ##print(endpoint)
 
@@ -127,13 +219,20 @@ endpoint = translator.translate(enpoint_esp, src='es', dest='en').text
 population_esp = st.selectbox('Seleccionar la opción que describa mejor sus estado de salúd ',
                                  options=df_es['población'].unique().tolist())
 
-population = translator.translate(population_esp, src='es', dest='en').text
+
+# BEFORE SEPT 2 2026 population = translator.translate(population_esp, src='es', dest='en').text
+
+####                         ON SEPT 2 2026                      ####
+population = translator.translate(population_esp)
+####    ------------------------------------------------------   ####
 
 duration = st.selectbox("Seleccione que preferencia tiene de duración del ejercicio:",
                         options=df['duration'].unique().tolist())
 
 if endpoint:
     st.write(endpoint)
+
+exit(0)
 
 # population = st.selectbox("Seleccione la opción que describa mejor sus estado de salúd: ",
 #                         options=df['population'].unique().tolist())
