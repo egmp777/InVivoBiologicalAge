@@ -520,7 +520,7 @@ print(f"GradientBoosting Weighted RMSE: {weighted_rmse(y_test, y_pred_test, w_te
 # In[17]:
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
