@@ -75,7 +75,9 @@ class BiologicalAgeClock:
         df_input = pd.DataFrame(input_row)[self.model_features]
 
         # 3. Predict via loaded pipeline object (handles imputation/scaling seamlessly)
-        predicted_bio_age = float(self.pipeline.predict(df_input))
+
+        ## SEPTEMBER 7  2026
+        predicted_bio_age = float(self.pipeline.predict(df_input)[0])
         age_gap = predicted_bio_age - float(age)
 
         # Determine clinical evaluation string
