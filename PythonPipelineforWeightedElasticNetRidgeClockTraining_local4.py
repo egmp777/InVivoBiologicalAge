@@ -87,10 +87,10 @@ df_merged = df_merged[['SEQN', 'WTSAF2YR', 'RIDAGEYR', 'LBXGLU', 'LBXIN', 'LBXHS
                        'RIAGENDR', 'PAD800']]
 print(df_merged.info())
 
-biomarkers = ['LBXGLU', 'LBXIN', 'LBXHSCRP', 'LBXGH']
+
 
 #  Drop missing values across your specific biomarker and weight subset
-
+biomarkers = ['LBXGLU', 'LBXIN', 'LBXHSCRP', 'LBXGH']
 model_vars = ['RIDAGEYR'] + biomarkers + ['WTSAF2YR']
 clean_data = df_merged.dropna(subset=model_vars).copy()
 clean_data
