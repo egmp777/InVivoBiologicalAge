@@ -106,7 +106,7 @@ weights = clean_data['WTSAF2YR']
 # 3. Train a weighted ElasticNet clock using scikit-learn's sample_weight parameter
 # Standardize features and fit with survey weights scaled to sample size
 scaled_weights = weights / weights.mean() # Normalize weights for stable optimization convergence
-## EXPLANATION OF THE ELASTICNETCV MODEL: https://share.google/ubJ3m04hjR9nHHx9i
+## EXPLANATION OF THE ELASTICNETCV MODEL: https://www.google.com/search?q=what+is+cv+and+what+is+lasso+in+regression&oq=WHAT+IS+CV+AND+WAHT+IS+LASSO+IN+REGRESION&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEJMTI4ODVqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8
 clock_pipeline = make_pipeline( StandardScaler(),
     ElasticNetCV(cv=5, l1_ratio=[.1, .5, .7, .9, .95, .99, 1], random_state=42)
 )
