@@ -80,8 +80,8 @@
       <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="108" column="316" lean-forward="false" selection-start-line="108" selection-start-column="316" selection-end-line="108" selection-end-column="316" />
+            <state relative-caret-position="107">
+              <caret line="326" column="42" lean-forward="false" selection-start-line="326" selection-start-column="42" selection-end-line="326" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -135,6 +135,7 @@
       <find>df</find>
       <find>exit</find>
       <find>plot</find>
+      <find>train</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.streamlit</dir>
@@ -161,8 +162,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-27" />
-    <option name="y" value="33" />
+    <option name="x" value="-90" />
+    <option name="y" value="47" />
     <option name="width" value="1280" />
     <option name="height" value="560" />
   </component>
@@ -248,7 +249,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-27" y="33" width="1280" height="560" extended-state="0" />
+    <frame x="-90" y="47" width="1280" height="560" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -609,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="108" column="316" lean-forward="false" selection-start-line="108" selection-start-column="316" selection-end-line="108" selection-end-column="316" />
+        <state relative-caret-position="107">
+          <caret line="326" column="42" lean-forward="false" selection-start-line="326" selection-start-column="42" selection-end-line="326" selection-end-column="42" />
           <folding />
         </state>
       </provider>

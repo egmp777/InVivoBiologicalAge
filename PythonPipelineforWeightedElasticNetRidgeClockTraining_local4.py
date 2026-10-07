@@ -324,6 +324,9 @@ extended_clock_pipeline = make_pipeline(
 )
 
 # --- STEP D: Model Fit (With Survey Weights Normalized) ---
+# --- This step also trains the model as like virtually all estimators in scikit-learn, it uses the .fit() method
+# ---- to train the model and optimize hyperparameters via cross-validation
+
 scaled_train_weights = w_train / w_train.mean()
 extended_clock_pipeline.fit(X_train, y_train, elasticnetcv__sample_weight=scaled_train_weights)
 
