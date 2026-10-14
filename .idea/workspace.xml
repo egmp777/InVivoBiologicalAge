@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="334bbc1a-4d58-4d0b-aed6-3ae84ed8c062" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Generate_Baseline_Markers.ipynb" afterPath="$PROJECT_DIR$/Generate_Baseline_Markers.ipynb" />
-    </list>
+    <list default="true" id="334bbc1a-4d58-4d0b-aed6-3ae84ed8c062" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="139">
@@ -82,6 +80,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="335">
               <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python Pipeline for Weighted ElasticNet RidgeClockTraining_local-Copy2.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Pipeline for Weighted ElasticNet RidgeClockTraining_local-Copy2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python Pipeline for Weighted ElasticNet RidgeClockTraining_local-Copy2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Pipeline for Weighted ElasticNet RidgeClockTraining_local-Copy2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,8 +171,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-114" />
-    <option name="y" value="265" />
+    <option name="x" value="42" />
+    <option name="y" value="25" />
     <option name="width" value="1280" />
     <option name="height" value="560" />
   </component>
@@ -208,8 +225,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.streamlit" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.streamlit" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,7 +258,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-114" y="265" width="1280" height="560" extended-state="0" />
+    <frame x="42" y="25" width="1280" height="560" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -605,6 +622,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="206" column="28" lean-forward="false" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Pipeline for Weighted ElasticNet RidgeClockTraining_local-Copy2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Pipeline for Weighted ElasticNet RidgeClockTraining_local-Copy2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
