@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="334bbc1a-4d58-4d0b-aed6-3ae84ed8c062" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py" afterPath="$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py" />
+      <change beforePath="$PROJECT_DIR$/Generate_Baseline_Markers.ipynb" afterPath="$PROJECT_DIR$/Generate_Baseline_Markers.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="BiologicalAgeClock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_package/BiologicalAgeClock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state relative-caret-position="78">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#50#59#0" expanded="true" />
               </folding>
@@ -67,31 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="688" column="23" lean-forward="false" selection-start-line="688" selection-start-column="23" selection-end-line="688" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="326" column="42" lean-forward="false" selection-start-line="326" selection-start-column="42" selection-end-line="326" selection-end-column="42" />
+            <state relative-caret-position="139">
+              <caret line="206" column="28" lean-forward="false" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_package/__init__.py">
+      <file leaf-file-name="Python_Pipeline_for_Weighted_ElasticNet_RidgeClock_Training_local.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClock_Training_local.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="335">
+              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -108,18 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>KPrototypes</find>
-      <find>pickle</find>
-      <find>loaded_mo</find>
-      <find>j</find>
-      <find>filename</find>
-      <find>make_predictions</find>
-      <find>new_data</find>
-      <find>end</find>
-      <find>endpo</find>
-      <find>connec</find>
-      <find>postgresql</find>
-      <find>googletrans</find>
       <find>predicting_workout_type_and_duration_using_gym_data_and_decision_tree.</find>
       <find>trained_model_regression.joblib</find>
       <find>trained_model_decision_tree.joblib</find>
@@ -136,6 +114,20 @@
       <find>exit</find>
       <find>plot</find>
       <find>train</find>
+      <find>impu</find>
+      <find>predict</find>
+      <find>gb_clock_pipeline</find>
+      <find>output_</find>
+      <find>gb_bio_age_clock_pipeline</find>
+      <find>joblib</find>
+      <find>pipeline</find>
+      <find>engineered_features</find>
+      <find>_feat</find>
+      <find>_features</find>
+      <find>engineer_nhanes</find>
+      <find>extended_fe</find>
+      <find>engineered_</find>
+      <find>engineered_feat</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.streamlit</dir>
@@ -162,8 +154,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-90" />
-    <option name="y" value="47" />
+    <option name="x" value="-114" />
+    <option name="y" value="265" />
     <option name="width" value="1280" />
     <option name="height" value="560" />
   </component>
@@ -249,7 +241,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-90" y="47" width="1280" height="560" extended-state="0" />
+    <frame x="-114" y="265" width="1280" height="560" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -258,7 +250,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51484376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="254" y="222" width="1026" height="459" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="254" y="222" width="1026" height="459" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -551,43 +543,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClock_Training_local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_package/BiologicalAgeClock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="e#50#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_package/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="688" column="23" lean-forward="false" selection-start-line="688" selection-start-column="23" selection-end-line="688" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -608,10 +567,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my_package/BiologicalAgeClock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#50#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_package/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="688" column="23" lean-forward="false" selection-start-line="688" selection-start-column="23" selection-end-line="688" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClock_Training_local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="326" column="42" lean-forward="false" selection-start-line="326" selection-start-column="42" selection-end-line="326" selection-end-column="42" />
+        <state relative-caret-position="139">
+          <caret line="206" column="28" lean-forward="false" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="28" />
           <folding />
         </state>
       </provider>
