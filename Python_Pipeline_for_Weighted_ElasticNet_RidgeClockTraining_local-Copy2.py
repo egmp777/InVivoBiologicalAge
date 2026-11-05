@@ -748,8 +748,15 @@ from sklearn.pipeline import make_pipeline
 # print(f"Extended Model Weighted RMSE: {weighted_rmse(y_test, y_pred_test, w_test):.4f} years")
 
 
-#################################### OCTOBER 23 2026   ####################################################
-# import numpy as np
+#################################### OCTOBER 23 2026  R²:   0.2004 ########################################################
+#################################### OCTOBER 26 2026 NOTA: ES POSIBLE QUE EL 26.16 LO HAYA CONFUNDIDO AL LEER EL R²:
+#################################### ... EL Weighted RMSE: 16.1611 years ##################################################
+####################################   RESULTADO :                       ##################################################
+#################################### Engineered Model Weighted R²:   0.2004
+#################################### Engineered Model Weighted RMSE: 16.1611 years
+#################################### Engineered Model Weighted MAE:  13.4851 years
+
+# # import numpy as np
 # import pandas as pd
 # from sklearn.model_selection import train_test_split
 #
@@ -792,6 +799,7 @@ from sklearn.pipeline import make_pipeline
 # ]
 #
 # df_merged = df_merged.dropna().copy()
+#
 #
 # # 3. Build the Improved Machine Learning Pipeline
 # improved_clock_pipeline = make_pipeline(

@@ -198,6 +198,7 @@ print(f"Weighted R²:   {weighted_r2_score(y_test, y_pred_test, w_test):.4f}")
 print(f"Weighted RMSE: {weighted_rmse(y_test, y_pred_test, w_test):.4f} years")
 print(f"Weighted MAE:  {weighted_mae(y_test, y_pred_test, w_test):.4f} years")
 
+exit(0)
 
 # In[12]:
 
