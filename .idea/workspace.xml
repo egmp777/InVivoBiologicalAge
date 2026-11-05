@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="334bbc1a-4d58-4d0b-aed6-3ae84ed8c062" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/BiologicalAgeClock.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py" afterPath="$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py" />
       <change beforePath="$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClockTraining_local-Copy2.py" afterPath="$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClockTraining_local-Copy2.py" />
     </list>
