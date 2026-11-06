@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="334bbc1a-4d58-4d0b-aed6-3ae84ed8c062" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/BiologicalAgeClock.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py" afterPath="$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py" />
-      <change beforePath="$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClockTraining_local-Copy2.py" afterPath="$PROJECT_DIR$/Python_Pipeline_for_Weighted_ElasticNet_RidgeClockTraining_local-Copy2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,10 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BiologicalAgeClock_Copy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BiologicalAgeClock_Copy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="-1035">
               <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
@@ -149,8 +156,8 @@
       <find>df_merged</find>
       <find>processed_df</find>
       <find>job</find>
-      <find>enhanced_dataset</find>
       <find>df_m</find>
+      <find>enhanced_dataset</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.streamlit</dir>
@@ -180,8 +187,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="248" />
-    <option name="y" value="252" />
+    <option name="x" value="127" />
+    <option name="y" value="25" />
     <option name="width" value="1280" />
     <option name="height" value="718" />
   </component>
@@ -262,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="248" y="252" width="1280" height="718" extended-state="0" />
+    <frame x="127" y="25" width="1280" height="718" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -295,14 +302,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebInterface_BiologicalAge_Predictor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test_Biological_Age_Clock_Streamlit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -654,8 +653,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonPipelineforWeightedElasticNetRidgeClockTraining_local4_for_replicating.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="-1035">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BiologicalAgeClock_Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
           <folding />
         </state>
       </provider>
