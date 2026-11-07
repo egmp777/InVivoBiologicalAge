@@ -5,7 +5,7 @@
 
 
 import os
-from my_package import BiologicalAgeClock
+from my_package.BiologicalAgeClock import BiologicalAgeClock
 
 model_path='gb_bio_age_clock_pipeline.joblib'
 if not os.path.exists(model_path):

@@ -54,6 +54,12 @@ class BiologicalAgeClock:
         Accepts a dictionary of raw form values, engineers features, 
         and extracts the biological age prediction.
         """
+
+        # NOVEMBER 6 2026 -- INCORPORATING THE CDDE TO HANDLE CASES WHERE A FEATURE IS MISSING
+        input_dict = {feat: [biomarkers.get(feat, np.nan)] for feat in raw_data}
+        input_df = pd.DataFrame(input_dict)
+        ####################################################################################
+
         # Extract base metrics safely
         age = raw_data.get('RIDAGEYR')
         gender = raw_data.get('RIAGENDR')
