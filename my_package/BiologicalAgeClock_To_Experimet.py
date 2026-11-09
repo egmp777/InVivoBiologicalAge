@@ -79,7 +79,7 @@ class BiologicalAgeClock_To_Experimet:
             'LBXHSCRP': [raw_data.get('LBXHSCRP')],
             'LBXGH': [raw_data.get('LBXGH')],
             'BMXBMI': [bmi],
-            'BPXOPLS1': [pulse] #,
+            'BPXOPLS1': [pulse],
             'EST_VO2_MAX': [vo2_proxy]
 
         }
